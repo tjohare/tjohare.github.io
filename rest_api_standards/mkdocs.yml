@@ -1,0 +1,62 @@
+site_name: Rest API Guidelines & Standards
+site_description: Rest API Guidelines & Standards
+site_author: TJ O'Hare
+site_url: https://tjohare.github.io/REST_API_standards
+
+#Repo
+#repo_name:
+#repo_url: https://github.com/tjohare/tjohare.github.io/REST_API_standards
+
+# Copyright
+copyright: 'Copyright &copy; 2019 CreativeDrive'
+
+#Config
+theme:
+  name: material
+  #custom_dir: custom/
+
+#Markdowns
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/tjohare'
+
+nav:
+    - Home: index.md
+    - General Coding:
+        - Rules: rules.md
+        - Terminologies: terminologies.md
+        - Methods: methods.md
+        - Status Codes: statuscodes.md
+        - Optional Parameter Queries: queries.md
+    - Error Response Structure: errorhandling.md
+    - Versioning: versioning.md
+    - Authentication: authentication.md
+    - New Endpoints: newcollection.md
