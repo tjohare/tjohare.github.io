@@ -26,6 +26,7 @@ This document will cover the following General REST API Development areas, as we
 * [Versioning](versioning.md) - Handling Breaking changes
 * [Authentication](authentication.md) - REST API Security
 * [New Endpoints](newcollection.md) - How to add a new Route / Collections
+* [Synchronous & Asynchronous Calls](synch_asynch.md) - Adding Synchronous and Asynchronous calls
 
 
 ## **Contributing Documentation and Reference Material**
