@@ -60,3 +60,5 @@ nav:
     - Versioning: versioning.md
     - Authentication: authentication.md
     - New Endpoints: newcollection.md
+    - Synchronous & Asynchronous Calls: synch_asynch.md
+    
