@@ -467,10 +467,14 @@
 <h2 id="operation-types"><strong>Operation Types</strong><a class="headerlink" href="#operation-types" title="Permanent link">&para;</a></h2>
 <h3 id="sorting">Sorting<a class="headerlink" href="#sorting" title="Permanent link">&para;</a></h3>
 <p>In case, the client wants to get the sorted list of companies, the GET /companies endpoint should accept multiple sort params in the query.</p>
-<p>E.g <code>GET /companies?sort=rank_asc</code> would sort the companies by its rank in ascending order.</p>
+<div class="admonition example">
+<p class="admonition-title"><code>GET /companies?sort=rank_asc</code> would sort the companies by its rank in ascending order.</p>
+</div>
 <h3 id="filtering">Filtering<a class="headerlink" href="#filtering" title="Permanent link">&para;</a></h3>
 <p>For filtering the dataset, we can pass various options through query params.</p>
-<p>E.g <code>GET /companies?category=banking&amp;location=india</code> would filter the companies list data with the company category of Banking and where the location is India.</p>
+<div class="admonition example">
+<p class="admonition-title"><code>GET /companies?category=banking&amp;location=india</code> would filter the companies list data with the company category of Banking and where the location is India</p>
+</div>
 <h3 id="searching">Searching<a class="headerlink" href="#searching" title="Permanent link">&para;</a></h3>
 <p>When searching the company name in companies list the API endpoint should be <code>GET /companies?search=Digital Mckinsey</code></p>
 <h3 id="pagination">Pagination<a class="headerlink" href="#pagination" title="Permanent link">&para;</a></h3>

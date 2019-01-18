@@ -58,4 +58,4 @@ problem type (e.g., using HTML.  When this member is not present, its value is a
 * "balance" and "accounts" in the example above are EXTRA information that is useful to the user and/or application, and referred to as **Extension Members** as defined in the [RFC 7807](https://tools.ietf.org/html/rfc7807)
 * The Content-type is defined as: `application/prolem+json` as defined in ([RFC spec 7807](https://tools.ietf.org/html/rfc7807), section 6.1)
 
-A good read on how other companies, such as Facebook, Spotify, and Google, can be found here: https://blog.restcase.com/rest-api-error-handling-problem-details-response/
+A good read on how other companies, such as Facebook, Spotify, and Google, handle error responses can be found here: https://blog.restcase.com/rest-api-error-handling-problem-details-response/

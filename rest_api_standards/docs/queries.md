@@ -7,12 +7,12 @@ Let’s understand with few examples how to implement these actions.
 ### Sorting
 In case, the client wants to get the sorted list of companies, the GET /companies endpoint should accept multiple sort params in the query.
 
-E.g `GET /companies?sort=rank_asc` would sort the companies by its rank in ascending order.
+!!! example "`GET /companies?sort=rank_asc` would sort the companies by its rank in ascending order."
 
 ### Filtering
 For filtering the dataset, we can pass various options through query params.
 
-E.g `GET /companies?category=banking&location=india` would filter the companies list data with the company category of Banking and where the location is India.
+!!! example "`GET /companies?category=banking&location=india` would filter the companies list data with the company category of Banking and where the location is India"
 
 ### Searching
 When searching the company name in companies list the API endpoint should be `GET /companies?search=Digital Mckinsey`
@@ -51,5 +51,5 @@ Here's an example of a proper `meta` section within a resonse below:
     }
     ```
 
-!!! important 
+!!! important
     Please note that if your API does NOT use optional and complex parameters it should NOT return a meta section.
