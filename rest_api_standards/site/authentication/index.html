@@ -13,7 +13,7 @@
         <meta name="description" content="Rest API Guidelines & Standards">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/REST_API_standards/authentication/">
+        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/authentication/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -84,7 +84,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -156,7 +156,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
@@ -183,35 +183,16 @@
       
 
 
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
-    
-    <label class="md-nav__link" for="nav-2">
-      General Coding
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
-        General Coding
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
   <li class="md-nav__item">
-    <a href="../rules/" title="Rules" class="md-nav__link">
-      Rules
+    <a href="../rules/" title="General API Rules" class="md-nav__link">
+      General API Rules
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -220,10 +201,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -232,10 +213,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -244,21 +225,16 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
     <a href="../queries/" title="Optional Parameter Queries" class="md-nav__link">
       Optional Parameter Queries
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -317,6 +293,18 @@
   </li>
 
     
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../synch_asynch/" title="Synchronous & Asynchronous Calls" class="md-nav__link">
+      Synchronous & Asynchronous Calls
+    </a>
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -332,7 +320,57 @@
                 
                   <h1>Authentication</h1>
                 
-                
+                <p>In order to validate the user credentials the caller should include the token provided by the Authorization Service. For that purpose it should be passed as the Authorization header field. The API will check this field for each request</p>
+<p>Additionally, the authorization formatting needs to one of 2 accepted structures:</p>
+<ol>
+<li>via Static Authorization token in the database, such as:<ul>
+<li><code>Authorization=apitestkey</code></li>
+</ul>
+</li>
+<li>via user Bearer token, , such as:<ul>
+<li><code>Authorization=Bearer eyJ0eXAiOiJCZWFyZXIiLCJhbGciOiJIUzUx...</code></li>
+</ul>
+</li>
+</ol>
+<details class="example"><summary>Here's an example of API request with the Authorization header highlighted:</summary><div class="codehilite"><pre><span></span><span class="err">Request</span> <span class="err">method:</span> <span class="err">PUT</span>
+<span class="err">Request</span> <span class="err">URI:</span>    <span class="err">https://staging-my-api.creativedrive.com/v</span><span class="mi">1</span><span class="err">/ui/</span><span class="mi">2</span>
+<span class="err">Proxy:</span>          <span class="err">&lt;none&gt;</span>
+<span class="err">Request</span> <span class="err">params:</span> <span class="err">&lt;none&gt;</span>
+<span class="err">Query</span> <span class="err">params:</span>   <span class="err">&lt;none&gt;</span>
+<span class="err">Form</span> <span class="err">params:</span>    <span class="err">&lt;none&gt;</span>
+<span class="err">Path</span> <span class="err">params:</span>    <span class="err">&lt;none&gt;</span>
+<span class="hll"><span class="err">Headers:</span>        <span class="err">Authorization=Bearer</span> <span class="err">eyJ</span><span class="mi">0</span><span class="err">eXAiOiJCZWFyZXIiLCJhbGciOiJIUzUxMiIsImp</span><span class="mi">0</span><span class="err">aSI</span><span class="mi">6</span><span class="err">IjQxMzA</span><span class="mi">3</span><span class="err">OGNkZTFkMTc</span><span class="mi">0</span><span class="err">ZTAwMDNlYjkyYmUzNTAzM</span><span class="mi">2</span><span class="err">Q</span><span class="mi">2</span><span class="err">MjFhMDljNzMifQ.eyJqdGkiOiI</span><span class="mi">0</span><span class="err">MTMwNzhjZGUxZDE</span><span class="mi">3</span><span class="err">NGUwMDAzZWI</span><span class="mi">5</span><span class="err">MmJlMzUwMzNkNjIxYTA</span><span class="mi">5</span><span class="err">YzczIiwiaWF</span><span class="mi">0</span><span class="err">IjoxNTQ</span><span class="mi">3</span><span class="err">NzQ</span><span class="mi">5</span><span class="err">NzU</span><span class="mi">2</span><span class="err">LCJuYmYiOjE</span><span class="mi">1</span><span class="err">NDc</span><span class="mi">3</span><span class="err">NDk</span><span class="mi">3</span><span class="err">NTYsImV</span><span class="mi">4</span><span class="err">cCI</span><span class="mi">6</span><span class="err">MTU</span><span class="mi">0</span><span class="err">Nzc</span><span class="mi">1</span><span class="err">MzM</span><span class="mi">1</span><span class="err">NiwiaXNzIjoiYXBpLmNyZWF</span><span class="mi">0</span><span class="err">aXZlZHJpdmUuY</span><span class="mi">29</span><span class="err">tIiwiYXVkIjoiKi</span><span class="mi">5</span><span class="err">jcmVhdGl</span><span class="mi">2</span><span class="err">ZWRyaXZlLmNvbSIsImRhdGEiOnsidXNlcl</span><span class="mi">9</span><span class="err">pZCI</span><span class="mi">6</span><span class="err">MjUyLCJhY</span><span class="mi">2</span><span class="err">NvdW</span><span class="mi">50</span><span class="err">X</span><span class="mi">2</span><span class="err">lkIjpudWxsLCJ</span><span class="mi">1</span><span class="err">c</span><span class="mi">2</span><span class="err">VybmFtZSI</span><span class="mi">6</span><span class="err">bnVsbCwiZW</span><span class="mi">1</span><span class="err">haWwiOiJzdG</span><span class="mi">9</span><span class="err">yZXMuaW</span><span class="mi">5</span><span class="err">zdGFuY</span><span class="mi">2</span><span class="err">UuYWRtaW</span><span class="mi">5</span><span class="err">AY</span><span class="mi">3</span><span class="err">JlYXRpdmVkcml</span><span class="mi">2</span><span class="err">ZS</span><span class="mi">5</span><span class="err">jb</span><span class="mi">20</span><span class="err">iLCJleHRlcm</span><span class="mi">5</span><span class="err">hbF</span><span class="mi">9</span><span class="err">pZCI</span><span class="mi">6</span><span class="err">bnVsbH</span><span class="mi">0</span><span class="err">sInNjb</span><span class="mi">3</span><span class="err">BlcyI</span><span class="mi">6</span><span class="err">eyJhaTkiOlsiQXV</span><span class="mi">0</span><span class="err">aFNlcnZpY</span><span class="mi">2</span><span class="err">UuKiJdLCJhaTMiOlsiQXV</span><span class="mi">0</span><span class="err">aFNlcnZpY</span><span class="mi">2</span><span class="err">UuKiJdfX</span><span class="mf">0.57</span><span class="err">tsbYKHSjY</span><span class="mi">4</span><span class="err">MIKhyAWHQcY-aNOQ_tXw-o</span><span class="mi">32</span><span class="err">bVP</span><span class="mf">1E1</span><span class="err">KcEZ</span><span class="mi">2</span><span class="err">vFucxYtjzhaMwKy</span><span class="mi">2</span><span class="err">aD</span><span class="mi">1</span><span class="err">-k</span><span class="mi">62</span><span class="err">Q</span><span class="mi">3-4</span><span class="err">vq</span><span class="mi">0</span><span class="err">Cu</span><span class="mi">4</span><span class="err">liEM</span><span class="mi">7</span><span class="err">w</span>
+</span>                <span class="err">Accept=*/*</span>
+                <span class="err">Content-Type=application/json;</span> <span class="err">charset=UTF</span><span class="mi">-8</span>
+<span class="err">Cookies:</span>        <span class="err">&lt;none&gt;</span>
+<span class="err">Multiparts:</span>     <span class="err">&lt;none&gt;</span>
+<span class="err">Body:</span>
+<span class="p">{</span>
+    <span class="nt">&quot;data&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;auth_domain&quot;</span><span class="p">:</span> <span class="s2">&quot;staging-my.creativedrive.com&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;input_field_style&quot;</span><span class="p">:</span> <span class="s2">&quot;color: #AAA; border-left: 2px solid #000 !important;&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;page_title&quot;</span><span class="p">:</span> <span class="s2">&quot;CreativeDrive | User Login&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;sso_button_type&quot;</span><span class="p">:</span> <span class="s2">&quot;text&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;active&quot;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+        <span class="nt">&quot;background_value&quot;</span><span class="p">:</span> <span class="s2">&quot;https://static.videezy.com/system/resources/previews/000/018/959/original/red.mp4&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;sso_button_content&quot;</span><span class="p">:</span> <span class="s2">&quot;Click to use your Single Sign-On Account &quot;</span><span class="p">,</span>
+        <span class="nt">&quot;background_type&quot;</span><span class="p">:</span> <span class="s2">&quot;video&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;sso_enabled&quot;</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+        <span class="nt">&quot;login_title&quot;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+        <span class="nt">&quot;logo&quot;</span><span class="p">:</span> <span class="s2">&quot;https://www.creativedrive.com/wp-content/themes/creative_drive/img/logos/creativedrive.png&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;login_btn_style&quot;</span><span class="p">:</span> <span class="s2">&quot;color: #FFF; border-color:#FFF; background-color:#000&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;logo_text&quot;</span><span class="p">:</span> <span class="s2">&quot;CreativeDrive Logo&quot;</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;location&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">&quot;app_name&quot;</span><span class="p">:</span> <span class="s2">&quot;Share&quot;</span><span class="p">,</span>
+        <span class="nt">&quot;instance_name&quot;</span><span class="p">:</span> <span class="s2">&quot;Walmart&quot;</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+<span class="err">HTTP/</span><span class="mf">1.1</span> <span class="mi">202</span> <span class="err">Successfully</span> <span class="err">updated</span> <span class="err">resource</span>
+</pre></div>
+</details><p>In the case in which the field is missing or the token is not valid, the HTTP response code will be 403 (Forbidden)</p>
+<hr />
+<p><strong>NOTE</strong>: Possibly, in the near future, this checking for all requests will change in favor of allow some actions without the need of an Authorization token.</p>
                 
                   
                 

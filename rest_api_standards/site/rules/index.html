@@ -13,7 +13,7 @@
         <meta name="description" content="Rest API Guidelines & Standards">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/REST_API_standards/rules/">
+        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/rules/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Rules - Rest API Guidelines & Standards</title>
+        <title>General API Rules - Rest API Guidelines & Standards</title>
       
     
     
@@ -88,7 +88,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -105,7 +105,7 @@
                 Rest API Guidelines & Standards
               </span>
               <span class="md-header-nav__topic">
-                Rules
+                General API Rules
               </span>
             
           
@@ -160,7 +160,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
@@ -189,38 +189,17 @@
   
 
 
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
-    
-    <label class="md-nav__link" for="nav-2">
-      General Coding
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
-        General Coding
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-  
-
-
   <li class="md-nav__item md-nav__item--active">
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Rules
+        General API Rules
       </label>
     
-    <a href="./" title="Rules" class="md-nav__link md-nav__link--active">
-      Rules
+    <a href="./" title="General API Rules" class="md-nav__link md-nav__link--active">
+      General API Rules
     </a>
     
       
@@ -302,6 +281,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#url-access" title="URL access" class="md-nav__link">
+    URL access
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -317,10 +303,10 @@
     
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -329,10 +315,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -341,10 +327,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -353,21 +339,16 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
     <a href="../queries/" title="Optional Parameter Queries" class="md-nav__link">
       Optional Parameter Queries
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -415,6 +396,18 @@
   <li class="md-nav__item">
     <a href="../newcollection/" title="New Endpoints" class="md-nav__link">
       New Endpoints
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../synch_asynch/" title="Synchronous & Asynchronous Calls" class="md-nav__link">
+      Synchronous & Asynchronous Calls
     </a>
   </li>
 
@@ -508,6 +501,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#url-access" title="URL access" class="md-nav__link">
+    URL access
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -530,7 +530,7 @@
               
                 
                 
-                  <h1>Rules</h1>
+                  <h1>General API Rules</h1>
                 
                 <p>The following items are consolidated from multiple contributing sources and are widely considered "Best Practice" methods when it comes to REST APIs</p>
 <h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
@@ -544,6 +544,7 @@
 <li><a href="#camelcase-for-attributes">CamelCase for Attributes</a></li>
 <li><a href="#meta-data-section-at-top-of-responses">Meta Data section at TOP of responses</a></li>
 <li><a href="#namespaces">Namespaces</a></li>
+<li><a href="#url-access">URL Access</a></li>
 </ul>
 <h3 id="use-plural-nouns-for-collections-and-sub-collections"><strong>Use Plural Nouns for Collections and Sub-collections</strong><a class="headerlink" href="#use-plural-nouns-for-collections-and-sub-collections" title="Permanent link">&para;</a></h3>
 <p>Collections normally have many resources within them.   As such, you should refer to them in the PLURAL sense, such as <code>/assets</code> not <code>/asset</code></p>
@@ -622,6 +623,30 @@ person.YearOfBirth     // suggests constructor method</p></details><h3 id="meta-
 <li>The namespace for the API controllers is <code>\Api\Controller</code></li>
 <li>The namespace for the API Exceptions is <code>\Api\Exception</code></li>
 </ul>
+<h3 id="url-access"><strong>URL access</strong><a class="headerlink" href="#url-access" title="Permanent link">&para;</a></h3>
+<p>The defined URL structure for accessing the API is the following:</p>
+<div class="admonition important">
+<p class="admonition-title">Share API URL</p>
+<ul>
+<li><strong>Module Base URI</strong>: {environment}-{client}-{module}.creativedrive.com<ul>
+<li>QA: <a href="https://qa-walmart-share.creativedrive.com">https://qa-walmart-share.creativedrive.com</a></li>
+<li>Production: <a href="https://walmart-share.creativedrive.com">https://walmart-share.creativedrive.com</a> (Production API does NOT contain an environment tag)</li>
+</ul>
+</li>
+<li><strong>Module Base Path</strong>: /api/v1</li>
+</ul>
+</div>
+<div class="admonition important">
+<p class="admonition-title">Auth API URL</p>
+<ul>
+<li><strong>Auth Base URI</strong>: {environment}-my-api.creativedrive.com<ul>
+<li>QA: <a href="https://qa-my-api.creativedrive.com">https://qa-my-api.creativedrive.com</a></li>
+<li>Production: <a href="https://my-api.creativedrive.com">https://my-api.creativedrive.com</a>  (Production API does NOT contain an environment tag)</li>
+</ul>
+</li>
+<li><strong>Auth Base Path</strong>: /v1/api</li>
+</ul>
+</div>
                 
                   
                 

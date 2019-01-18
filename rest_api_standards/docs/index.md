@@ -12,9 +12,9 @@ In order to achieve this goal while utilizing multiple development teams and pro
 ## **Development Topics**
 This document will cover the following General REST API Development areas, as well as the Creative Drive Standards and Guidelines.
 
-### **General Areas**  
+### **General REST API Guidelines**  
 
-* [General Coding Rules](rules.md) - Ensuring Evolvability of the API.  
+* [General API Rules](rules.md) - Ensuring Consistency and Compatibility of the API.  
 * [Terminologies](terminologies.md) - What are Resources, Collections, Endpoints, and others
 * [Methods](methods.md) - The differences between GET, POST, PUT, DELETE, etc
 * [Status Codes](statuscodes.md) - part of the HTTP/1.1 standard (RFC 7231)

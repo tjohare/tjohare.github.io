@@ -1,7 +1,7 @@
 site_name: Rest API Guidelines & Standards
 site_description: Rest API Guidelines & Standards
 site_author: TJ O'Hare
-site_url: https://tjohare.github.io/REST_API_standards
+site_url: https://tjohare.github.io/rest_api_standards/site/
 
 #Repo
 #repo_name:
@@ -50,15 +50,13 @@ extra:
 
 nav:
     - Home: index.md
-    - General Coding:
-        - Rules: rules.md
-        - Terminologies: terminologies.md
-        - Methods: methods.md
-        - Status Codes: statuscodes.md
-        - Optional Parameter Queries: queries.md
+    - General API Rules: rules.md
+    - Terminologies: terminologies.md
+    - Methods: methods.md
+    - Status Codes: statuscodes.md
+    - Optional Parameter Queries: queries.md
     - Error Response Structure: errorhandling.md
     - Versioning: versioning.md
     - Authentication: authentication.md
     - New Endpoints: newcollection.md
     - Synchronous & Asynchronous Calls: synch_asynch.md
-    

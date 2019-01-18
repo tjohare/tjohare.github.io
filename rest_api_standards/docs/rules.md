@@ -10,6 +10,7 @@ The following items are consolidated from multiple contributing sources and are 
 * [CamelCase for Attributes](#camelcase-for-attributes)
 * [Meta Data section at TOP of responses](#meta-data-section-at-top-of-responses)
 * [Namespaces](#namespaces)
+* [URL Access](#url-access)
 
 
 ### **Use Plural Nouns for Collections and Sub-collections**
@@ -136,3 +137,18 @@ Whenever optional query parameters are included in an API, a META section is req
 * The namespace for the API is `\Api`
 * The namespace for the API controllers is `\Api\Controller`
 * The namespace for the API Exceptions is `\Api\Exception`
+
+### **URL access**
+The defined URL structure for accessing the API is the following:
+
+!!! Important "Share API URL"
+      * **Module Base URI**: {environment}-{client}-{module}.creativedrive.com
+          * QA: https://qa-walmart-share.creativedrive.com
+          * Production: https://walmart-share.creativedrive.com (Production API does NOT contain an environment tag)
+      * **Module Base Path**: /api/v1
+
+!!! Important "Auth API URL"
+      * **Auth Base URI**: {environment}-my-api.creativedrive.com
+          * QA: https://qa-my-api.creativedrive.com
+          * Production: https://my-api.creativedrive.com  (Production API does NOT contain an environment tag)
+      * **Auth Base Path**: /v1/api

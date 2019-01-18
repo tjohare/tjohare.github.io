@@ -13,7 +13,7 @@
         <meta name="description" content="Rest API Guidelines & Standards">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/REST_API_standards/versioning/">
+        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/versioning/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -88,7 +88,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -160,7 +160,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
@@ -187,35 +187,16 @@
       
 
 
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
-    
-    <label class="md-nav__link" for="nav-2">
-      General Coding
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
-        General Coding
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
   <li class="md-nav__item">
-    <a href="../rules/" title="Rules" class="md-nav__link">
-      Rules
+    <a href="../rules/" title="General API Rules" class="md-nav__link">
+      General API Rules
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -224,10 +205,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -236,10 +217,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -248,21 +229,16 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
     <a href="../queries/" title="Optional Parameter Queries" class="md-nav__link">
       Optional Parameter Queries
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -320,6 +296,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#get-and-set-the-codebase-version" title="Get and Set the codebase version" class="md-nav__link">
+    Get and Set the codebase version
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-api-versioned-controllers" title="Define API Versioned Controllers*" class="md-nav__link">
+    Define API Versioned Controllers*
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-versioned-components" title="Define Versioned Components" class="md-nav__link">
+    Define Versioned Components
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-versioned-models" title="Define Versioned Models" class="md-nav__link">
+    Define Versioned Models
+  </a>
+  
+</li>
+      
       
       
       
@@ -351,6 +355,18 @@
   <li class="md-nav__item">
     <a href="../newcollection/" title="New Endpoints" class="md-nav__link">
       New Endpoints
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../synch_asynch/" title="Synchronous & Asynchronous Calls" class="md-nav__link">
+      Synchronous & Asynchronous Calls
     </a>
   </li>
 
@@ -387,6 +403,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#get-and-set-the-codebase-version" title="Get and Set the codebase version" class="md-nav__link">
+    Get and Set the codebase version
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-api-versioned-controllers" title="Define API Versioned Controllers*" class="md-nav__link">
+    Define API Versioned Controllers*
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-versioned-components" title="Define Versioned Components" class="md-nav__link">
+    Define Versioned Components
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#define-versioned-models" title="Define Versioned Models" class="md-nav__link">
+    Define Versioned Models
+  </a>
+  
+</li>
+      
       
       
       
@@ -406,7 +450,10 @@
                 
                   <h1>Versioning</h1>
                 
-                <h2 id="api-versioning"><strong>API Versioning</strong><a class="headerlink" href="#api-versioning" title="Permanent link">&para;</a></h2>
+                <div class="admonition warning">
+<p class="admonition-title">Please note that this reference of API versioning is not the same as Code under Version Control.  There could be multiple versions of a source file under a <em><strong>single</strong></em> API version.  Version control of code is defined under the CreativeDrive Coding Standards and Guidelines; this reference is a subset and for REST APIs only (aka Multiple versions of the same application)"</p>
+</div>
+<h2 id="api-versioning"><strong>API Versioning</strong><a class="headerlink" href="#api-versioning" title="Permanent link">&para;</a></h2>
 <p>You may end up in situations where the above approaches don’t work and you really have to provide different versions of your API. Versioning allows you to release incompatible and breaking changes of your API under a new version without breaking the clients. They can continue consuming the old version. The clients can migrate to the new version at their own speed.</p>
 <p>Here are the two most popular approaches for versioning:</p>
 <ul>
@@ -415,14 +462,218 @@
 </ul>
 <p>For Creative Drive, we use the <em><strong>Versioning via URLs</strong></em>, and the current BaseURL for the API is: /api/v1 .</p>
 <h2 id="get-the-requested-api-version"><strong>Get the requested API version</strong><a class="headerlink" href="#get-the-requested-api-version" title="Permanent link">&para;</a></h2>
-<p>From any API controller (who inherits from Api\Controller\ApiController) you could get the requested version:
+<p>From any API controller (who inherits from Api\Controller\ApiController) you could get the requested version:</p>
 <div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
 
 <span class="k">public</span> <span class="k">function</span> <span class="nf">action</span><span class="p">()</span>
 <span class="p">{</span>
     <span class="nv">$version</span> <span class="o">=</span> <span class="nv">$this</span><span class="o">-&gt;</span><span class="na">getApiVersion</span><span class="p">();</span>
 <span class="p">}</span>
-</pre></div></p>
+</pre></div>
+
+<h2 id="get-and-set-the-codebase-version"><strong>Get and Set the codebase version</strong><a class="headerlink" href="#get-and-set-the-codebase-version" title="Permanent link">&para;</a></h2>
+<p>Using the class \Utils\Load\Version you can set and ask for the current codebase version.</p>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="c1">// set the codebase version as 1.5</span>
+<span class="nx">\Utils\Load\Version</span><span class="o">::</span><span class="na">setCurrentCodeVersion</span><span class="p">(</span><span class="mf">1.5</span><span class="p">);</span>
+
+<span class="c1">// get the current version</span>
+<span class="nv">$currentVersion</span> <span class="o">=</span> <span class="nx">\Utils\Load\Version</span><span class="o">::</span><span class="na">getCurrentCodeVersion</span><span class="p">();</span>
+</pre></div>
+
+<p>The convention we use to set the current codebase version is:</p>
+<ol>
+<li>For incoming API calls: Set the codebase version as the requested API version.</li>
+<li>No-API calls: Set the codebase version as the latest available version.</li>
+</ol>
+<p>Every time the app loads a Model or a Component it will use the file associated with the current version (in case that there is more than one version for the requested entity). You do not have to ask explicitly for a particular version, the app handles it for you.
+Also, for every API call the app will use the controller associated with the requested version, so the models and components.</p>
+<p>If, for any reason, the app tries to load an explicit version for a Model / Component and there is no an associated file for that version, then it attempts to load the previous available version. If there is not a previous available version, it throws an Exception.</p>
+<h2 id="define-api-versioned-controllers"><strong>Define API Versioned Controllers*</strong><a class="headerlink" href="#define-api-versioned-controllers" title="Permanent link">&para;</a></h2>
+<p>There are two main steps to define a Controller to cover an Api route:</p>
+<ol>
+<li>Add the Controller file to app/Api/Version/Vn/Controller. The file name should be ApiResourceController.php (replace Resource by your resource name)</li>
+<li>Add an entry to app/Config/klient/default/default.json</li>
+</ol>
+<p>Let see an example. Suppose we need to add the version 2 for the Assets resource. Then the steps should be the following:</p>
+<ol>
+<li>Create the file: app/Api/Version/V2/Controller/ApiAssetsController.php</li>
+<li>Add an entry to app/Config/klient/default/default.json (versions &gt; Controller &gt; controllerName) :
+      <div class="codehilite"><pre><span></span><span class="s2">&quot;versions&quot;</span><span class="err">:</span> <span class="p">{</span>
+    <span class="nt">&quot;Controller&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+        <span class="err">,</span>
+        <span class="nt">&quot;ApiAssets&quot;</span><span class="p">:</span> <span class="p">{</span>
+            <span class="err">...</span>
+            <span class="nt">&quot;2&quot;</span><span class="p">:</span> <span class="s2">&quot;\\Api\\Version\\V2\\Controller\\ApiAsset&quot;</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Component&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Model&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div></li>
+</ol>
+<p>As we are adding a Controller for the version 2, it could be possible that there are a previous version for the same Controller (note that, in the other hand, it could be a new Controller for a new resource introduced in the version 2, so in that case there is no a previous Controller for it). Then our new Controller should inherit from the previous version Controller, in order to reuse its actions. We only rewrite the actions involved with the breaking changes related to the new version.</p>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">namespace</span> <span class="nx">Api\Version\V2\Controller</span><span class="p">;</span>
+
+<span class="k">class</span> <span class="nc">ApiAssetsController</span> <span class="k">extends</span> <span class="nx">\Api\Version\V1\Controller\ApiAssetsController</span>
+<span class="p">{</span>
+    <span class="o">...</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>The new Controller must be under the namespace Api\Version\Vn\Controller, where n is the version.</p>
+<h2 id="define-versioned-components"><strong>Define Versioned Components</strong><a class="headerlink" href="#define-versioned-components" title="Permanent link">&para;</a></h2>
+<p>The steps to define a versioned Component are the following:</p>
+<ul>
+<li>Create a new BaseComponent file: app/Api/Version/Vn/Controller/Component/BaseNewComponent.php</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">namespace</span> <span class="nx">Api\Version\Vn\Controller\Component</span><span class="p">;</span>
+
+<span class="k">class</span> <span class="nc">BaseNewComponent</span> <span class="k">extends</span> <span class="nx">\Api\Version\Vx\Controller\Component\BaseNewComponent</span>
+<span class="p">{</span>
+  <span class="c1">// put the Component code here, but only the new feature</span>
+  <span class="c1">// modifications for this version</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>NOTE: In case that exists a previous version, the Base class should inherit from the previous version Base (x &lt; n). If there is not a previous version, the Base class should inherit from \Component:</p>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">namespace</span> <span class="nx">Api\Version\V1\Controller\Component</span><span class="p">;</span>
+
+<span class="k">class</span> <span class="nc">BaseNewComponent</span> <span class="k">extends</span> <span class="nx">\Component</span>
+<span class="p">{</span>
+  <span class="c1">// put the Component code here</span>
+<span class="p">}</span>
+</pre></div>
+
+<ul>
+<li>Create a new Component file: app/Api/Version/Vn/Controller/Component/NewComponent.php</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">class</span> <span class="nc">NewComponent</span> <span class="k">extends</span> <span class="nx">\Api\Version\Vx\Controller\Component\BaseNewComponent</span>
+<span class="p">{</span>
+    <span class="c1">// empty</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>Note that the Component should inherit from the Base created in the previous step. And the body of this file should be empty, all the code should be in the Base.</p>
+<p>The reason to put the code into the Base instead of into the Component is to allow new versions to inherit from previous version files. The Component has not a namespace (in order to follow CakePHP conventions), so every Component will have the same, no matter the version version. On the other hand, the Base has a namespace based on the version, so a new Base could explicitly inherit from an old one.</p>
+<ul>
+<li>Modify the original Component at the CakePHP path (app/Controller/Component/NewComponent.php)</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="sd">/**</span>
+<span class="sd"> * Loads NewComponent Component according to the current code version (\Utils\Load\Version::getCurrentCodeVersion() )</span>
+<span class="sd"> * The component code is at app/Api/Version/Vn/Controller/Component/NewComponent.php</span>
+<span class="sd"> */</span>
+<span class="nx">\Utils\Load\Version</span><span class="o">::</span><span class="na">loadComponent</span><span class="p">(</span><span class="s1">&#39;NewComponent&#39;</span><span class="p">);</span>
+</pre></div>
+
+<p>The purpose of the single line (above) is only the loading of the versioned Component. Yes, you can directly load the versioned Component, but we keep the file here at the CakePHP folder in order to not break the framework flow.</p>
+<ul>
+<li>Add an entry to app/Config/klient/default/default.json</li>
+</ul>
+<p><div class="codehilite"><pre><span></span><span class="s2">&quot;versions&quot;</span><span class="err">:</span> <span class="p">{</span>
+    <span class="nt">&quot;Controller&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Component&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...,</span>
+        <span class="nt">&quot;NewComponent&quot;</span> <span class="p">:</span> <span class="p">{</span>
+            <span class="nt">&quot;n&quot;</span> <span class="p">:</span> <span class="s2">&quot;Vn&quot;</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Model&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+Under the "Component" entry we added the version and the folder (app/Api/Version/n/...) where the new files are located.</p>
+<h2 id="define-versioned-models"><strong>Define Versioned Models</strong><a class="headerlink" href="#define-versioned-models" title="Permanent link">&para;</a></h2>
+<p>The steps to define a versioned Model are the following:</p>
+<ul>
+<li>Create a new BaseExample file: app/Api/Version/Vn/Model/BaseExample.php</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">namespace</span> <span class="nx">Api\Version\Vn\Model</span><span class="p">;</span>
+
+<span class="k">class</span> <span class="nc">ExampleHelper</span> <span class="k">extends</span> <span class="nx">\Api\Version\Vx\Model\BaseExample</span>
+<span class="p">{</span>
+  <span class="c1">// put the Model code here, but only the new features / modifications for this version</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>In case that exists a previous version, the Base class should inherit from the previous version Base (x &lt; n). If there is not a previous version, the Base class should inherit from \AppModel:</p>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">namespace</span> <span class="nx">Api\Version\V1\Model</span><span class="p">;</span>
+
+<span class="k">class</span> <span class="nc">BaseExample</span> <span class="k">extends</span> <span class="nx">\AppModel</span>
+<span class="p">{</span>
+  <span class="c1">// put the Model code here</span>
+<span class="p">}</span>
+</pre></div>
+
+<ul>
+<li>Create a new Model file: app/Api/Version/Vn/Model/Example.php</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="k">class</span> <span class="nc">Example</span> <span class="k">extends</span> <span class="nx">\Api\Version\Vx\Model\BaseExample</span>
+<span class="p">{</span>
+    <span class="c1">// empty</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>Note that the Model should inherit from the Base created in the previous step. And the body of this file should be empty, all the code should be in the Base.</p>
+<p>The reason to put the code into the Base instead of into the Model is to allow new versions to inherit from previous version files. The Model has not a namespace (in order to follow CakePHP conventions), so every Model will have the same name on different versions. On the other hand, the Base has a namespace based on the version, so a new Base could explicitly inherit from an old one.</p>
+<ul>
+<li>Modify the original Model at the CakePHP path (app/Model/Example.php)</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="sd">/**</span>
+<span class="sd"> * Loads Example model according to the current code version (\Utils\Load\Version::getCurrentCodeVersion() )</span>
+<span class="sd"> * The model code is at app/Api/Version/V.../Model/Example.php</span>
+<span class="sd"> */</span>
+<span class="nx">\Utils\Load\Version</span><span class="o">::</span><span class="na">loadModel</span><span class="p">(</span><span class="s1">&#39;Example&#39;</span><span class="p">);</span>
+</pre></div>
+
+<p>The purpose of the single line (above) is only the loading of the versioned Model. Yes, you can directly load the versioned Model, but we keep the file here at the CakePHP folder in order to not break the framework flow.</p>
+<ul>
+<li>Add an entry to app/Config/klient/default/default.json</li>
+</ul>
+<div class="codehilite"><pre><span></span><span class="s2">&quot;versions&quot;</span><span class="err">:</span> <span class="p">{</span>
+    <span class="nt">&quot;Controller&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Component&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...</span>
+    <span class="p">},</span>
+    <span class="nt">&quot;Model&quot;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="err">...,</span>
+        <span class="nt">&quot;Example&quot;</span> <span class="p">:</span> <span class="p">{</span>
+            <span class="nt">&quot;n&quot;</span><span class="p">:</span> <span class="s2">&quot;Vn&quot;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+
+<p>Under the "Model" entry we added the version and the folder (app/Api/Version/n/...) where the new files are located.</p>
                 
                   
                 

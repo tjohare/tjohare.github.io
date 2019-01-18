@@ -13,7 +13,7 @@
         <meta name="description" content="Rest API Guidelines & Standards">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/REST_API_standards/newcollection/">
+        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/newcollection/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -88,7 +88,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -160,7 +160,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/REST_API_standards" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
@@ -187,35 +187,16 @@
       
 
 
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
-    
-    <label class="md-nav__link" for="nav-2">
-      General Coding
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
-        General Coding
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
   <li class="md-nav__item">
-    <a href="../rules/" title="Rules" class="md-nav__link">
-      Rules
+    <a href="../rules/" title="General API Rules" class="md-nav__link">
+      General API Rules
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -224,10 +205,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -236,10 +217,10 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
@@ -248,21 +229,16 @@
     </a>
   </li>
 
-        
-          
-          
-          
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
     <a href="../queries/" title="Optional Parameter Queries" class="md-nav__link">
       Optional Parameter Queries
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -388,6 +364,18 @@
   </li>
 
     
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../synch_asynch/" title="Synchronous & Asynchronous Calls" class="md-nav__link">
+      Synchronous & Asynchronous Calls
+    </a>
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -474,34 +462,52 @@
                 
                 <h2 id="how-to-add-a-new-route"><strong>How to add a new route</strong><a class="headerlink" href="#how-to-add-a-new-route" title="Permanent link">&para;</a></h2>
 <p>Suppose you want to add the route: /api/v1/collections with the verb GET :</p>
-<p>Go to app/Config/routes.php (section "API routing")
-Add the following
-Router::connect("{$apiPrefix}/collections",
-    array('controller' =&gt; 'ApiCollection', 'action' =&gt; 'view', '[method]' =&gt; 'GET'),
-    $apiOptions
-);
-Add an ApiCollectionController at app/Api/Version/V1/Controller/ with a public method view. This controller should extends \Api\Controller\ApiController
-Note that in this example we define a route for the Api Version 1. We cover the way to handle different versions at Versioning section.</p>
+<ol>
+<li>Go to app/Config/routes.php (section "API routing")</li>
+<li>Add the following</li>
+</ol>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="cp">&lt;?php</span>
+
+<span class="nx">Router</span><span class="o">::</span><span class="na">connect</span><span class="p">(</span><span class="s2">&quot;</span><span class="si">{</span><span class="nv">$apiPrefix</span><span class="si">}</span><span class="s2">/collections&quot;</span><span class="p">,</span>
+    <span class="k">array</span><span class="p">(</span><span class="s1">&#39;controller&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;ApiCollection&#39;</span><span class="p">,</span> <span class="s1">&#39;action&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;view&#39;</span><span class="p">,</span>
+    <span class="s1">&#39;[method]&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;GET&#39;</span><span class="p">),</span>
+    <span class="nv">$apiOptions</span>
+<span class="p">);</span>
+</pre></div>
+
+</div>
+<p>Add an ApiCollectionController at <strong>app/Api/Version/V1/Controller/</strong> with a public method view. This controller should extends <strong>\Api\Controller\ApiController</strong></p>
+<p>Note that, in this example, we define a route for the Api Version 1. We cover the way to handle different versions at Versioning section.</p>
 <h2 id="payload"><strong>Payload</strong><a class="headerlink" href="#payload" title="Permanent link">&para;</a></h2>
 <p>There are more than one way to get the incoming data (from a controller who extends \Api\Controller\ApiController):</p>
-<p>$this-&gt;passedArgs Array with parameters coming directly from the route</p>
-<p>$this-&gt;getPayload() Method to get an array with all the parameters (both from the route and from the request body)</p>
-<p>$this-&gt;request-&gt;header('headerField') Method to get header values from the request</p>
+<ul>
+<li><code>$this-&gt;passedArgs</code> Array with parameters coming directly from the route</li>
+<li><code>$this-&gt;getPayload()</code> Method to get an array with all the parameters (both from the route and from the request body)</li>
+<li><code>$this-&gt;request-&gt;header('headerField')</code> Method to get header values from the request</li>
+</ul>
 <p>The parameters coming as part of the request body are decoded based on the ContentType header value (part of the request). At the moment we support Json.</p>
 <h3 id="adding-new-decoders-for-the-request-body"><strong>Adding new Decoders for the Request Body</strong><a class="headerlink" href="#adding-new-decoders-for-the-request-body" title="Permanent link">&para;</a></h3>
 <p>To add a new decoder for the request body:</p>
-<p>Create a new file at app/Api/Request/ who extends the abstract class \Api\Request\Request
-Add the new type to \Api\Request\Manager::getRequestObject() (Ideally we should avoid this step in order to apply the Open-Close principle)</p>
+<ol>
+<li>Create a new file at app/Api/Request/ who extends the abstract class \Api\Request\Request</li>
+<li>Add the new type to \Api\Request\Manager::getRequestObject() (Ideally we should avoid this step in order to apply the Open-Close principle)</li>
+</ol>
 <h2 id="output"><strong>Output</strong><a class="headerlink" href="#output" title="Permanent link">&para;</a></h2>
 <p>The way to output the response (from any Api Controller):</p>
-<p><span><span class="MathJax_Preview">this-&gt;setOutputStatusCode(</span><script type="math/tex">this->setOutputStatusCode(</script></span>statusCode) Set the Response Code (200, 201, 400, ...)</p>
-<p><span><span class="MathJax_Preview">this-&gt;setOutputData(</span><script type="math/tex">this->setOutputData(</script></span>data) Set the response data</p>
+<ul>
+<li><code>$this-&gt;setOutputStatusCode($statusCode)</code> Set the Response Code (200, 201, 400, ...)</li>
+<li><code>$this-&gt;setOutputData($data)</code> Set the response data</li>
+</ul>
 <p>There are no Views for the API. The method afterFiler (\Api\Controller\ApiController) outputs what you previously set and exits.</p>
 <p>All the data is formatted based on the Accept header from the request. At the moment we only support Json.</p>
 <h3 id="adding-new-encoders-for-the-output"><strong>Adding new Encoders for the Output</strong><a class="headerlink" href="#adding-new-encoders-for-the-output" title="Permanent link">&para;</a></h3>
 <p>To add a new encoder for the response body:</p>
-<p>Create a new file at app/Api/Response/ who extends the abstract class \Api\Response\Response
-Add the new type to \Api\Response\Manager::getResponseObject() (Ideally we should avoid this step in order to apply the Open-Close principle)</p>
+<ol>
+<li>Create a new file at app/Api/Response/ who extends the abstract class \Api\Response\Response</li>
+<li>Add the new type to \Api\Response\Manager::getResponseObject() (Ideally we should avoid this step in order to apply the Open-Close principle)</li>
+</ol>
                 
                   
                 
@@ -536,6 +542,20 @@ Add the new type to \Api\Response\Manager::getResponseObject() (Ideally we shoul
             </div>
           </a>
         
+        
+          <a href="../synch_asynch/" title="Synchronous & Asynchronous Calls" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Synchronous & Asynchronous Calls
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
         
       </nav>
     </div>
