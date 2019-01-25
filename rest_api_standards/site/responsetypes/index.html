@@ -79,7 +79,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="../#return-numberic-values-as-numbers-not-strings" tabindex="1" class="md-skip">
+      <a href="../#json-schema-types" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -271,8 +271,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#return-numberic-values-as-numbers-not-strings" title="Return Numberic values as Numbers, not Strings" class="md-nav__link">
-    Return Numberic values as Numbers, not Strings
+  <a href="#json-schema-types" title="JSON Schema Types" class="md-nav__link">
+    JSON Schema Types
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#return-numeric-values-as-numbers-not-strings" title="Return Numeric values as Numbers, not Strings" class="md-nav__link">
+    Return Numeric values as Numbers, not Strings
   </a>
   
 </li>
@@ -280,6 +287,13 @@
         <li class="md-nav__item">
   <a href="#use-true-and-false-values-for-boolean-representations" title="Use true and false values for Boolean representations" class="md-nav__link">
     Use true and false values for Boolean representations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#use-null-in-responses-instead-of-a-blank-string" title="Use null in responses instead of a blank string" class="md-nav__link">
+    Use null in responses instead of a blank string
   </a>
   
 </li>
@@ -374,8 +388,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#return-numberic-values-as-numbers-not-strings" title="Return Numberic values as Numbers, not Strings" class="md-nav__link">
-    Return Numberic values as Numbers, not Strings
+  <a href="#json-schema-types" title="JSON Schema Types" class="md-nav__link">
+    JSON Schema Types
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#return-numeric-values-as-numbers-not-strings" title="Return Numeric values as Numbers, not Strings" class="md-nav__link">
+    Return Numeric values as Numbers, not Strings
   </a>
   
 </li>
@@ -383,6 +404,13 @@
         <li class="md-nav__item">
   <a href="#use-true-and-false-values-for-boolean-representations" title="Use true and false values for Boolean representations" class="md-nav__link">
     Use true and false values for Boolean representations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#use-null-in-responses-instead-of-a-blank-string" title="Use null in responses instead of a blank string" class="md-nav__link">
+    Use null in responses instead of a blank string
   </a>
   
 </li>
@@ -406,7 +434,8 @@
                 
                   <h1>Response Types</h1>
                 
-                <p>At its core, JSON Schema defines the following basic types:</p>
+                <h2 id="json-schema-types"><strong>JSON Schema Types</strong><a class="headerlink" href="#json-schema-types" title="Permanent link">&para;</a></h2>
+<p>At its core, JSON Schema defines the following basic types:</p>
 <ul>
 <li>String</li>
 <li>Numeric Types</li>
@@ -416,9 +445,9 @@
 <li>Arrays</li>
 </ul>
 <p>When defining how the REST API method returns the data, we need to make sure the correct data types are displayed in the response.    </p>
-<h3 id="return-numberic-values-as-numbers-not-strings"><strong>Return Numberic values as Numbers, not Strings</strong><a class="headerlink" href="#return-numberic-values-as-numbers-not-strings" title="Permanent link">&para;</a></h3>
-<p>There is a large debate on whether number responses should be returned as STRINGS versus INTEGERS.  It's just a standard problem of PHP REST services.</p>
-<p>For reference, there is an extremely good read on why number should be cast as strings (as well as the reasons for it) found here: <a href="https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number">https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number</a>.  Essentially, unsigned integers and floating numbers are kept as strings to preserve precision.   </p>
+<h2 id="return-numeric-values-as-numbers-not-strings"><strong>Return Numeric values as Numbers, not Strings</strong><a class="headerlink" href="#return-numeric-values-as-numbers-not-strings" title="Permanent link">&para;</a></h2>
+<p>There is a large debate on whether number responses should be returned as STRINGS versus NUMBERS.  It's just a standard problem of PHP REST services.</p>
+<p>For reference, there is an extremely good read on why numbers should be cast as strings found here: <a href="https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number">https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number</a>.  Essentially, unsigned integers and floating numbers are kept as strings to preserve precision.   </p>
 <p>However, since we are not using decimal values, we should return values as INTEGERS as often as possible</p>
 <details class="success"><summary>Numeric values returned as a number type</summary><div class="codehilite"><pre><span></span><span class="p">{</span>
   <span class="nt">&quot;event_id&quot;</span><span class="p">:</span><span class="mi">603</span>
@@ -428,17 +457,40 @@
   <span class="nt">&quot;event_id&quot;</span><span class="p">:</span><span class="s2">&quot;603&quot;</span>
 <span class="p">}</span>
 </pre></div>
-</details><h3 id="use-true-and-false-values-for-boolean-representations"><strong>Use <code>true</code> and <code>false</code> values for Boolean representations</strong><a class="headerlink" href="#use-true-and-false-values-for-boolean-representations" title="Permanent link">&para;</a></h3>
+</details><h2 id="use-true-and-false-values-for-boolean-representations"><strong>Use <code>true</code> and <code>false</code> values for Boolean representations</strong><a class="headerlink" href="#use-true-and-false-values-for-boolean-representations" title="Permanent link">&para;</a></h2>
 <p>In JSON, a common mistake is not using Booleans to represent true or false values. Don't use integers 1 or 0, or even worse, strings "1" or "0" to represent true or false.</p>
-<p>The string "0" is interpreted as truthy in a lot of programming languages. If your API client uses it in a "if" statement, it might introduce a bug that’s hard to catch. A bug like this might even happen on the server, if this bad data comes back to it via a request body.
-[source ref: <a href="https://www.oreilly.com/ideas/how-a-restful-api-represents-resources">https://www.oreilly.com/ideas/how-a-restful-api-represents-resources</a>]</p>
+<p>The string "0" is interpreted as truthy in a lot of programming languages. If your API client uses it in a "if" statement, it might introduce a bug that’s hard to catch. A bug like this might even happen on the server, if this bad data comes back to it via a request body<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup>.</p>
 <details class="success"><summary>Using true/false for Boolean values</summary><div class="codehilite"><pre><span></span><span class="s2">&quot;active&quot;</span><span class="err">:</span> <span class="kc">true</span><span class="err">,</span>
 </pre></div>
 </details><details class="bug"><summary>Using 0/1 as TRUE/FALSE representations</summary><div class="codehilite"><pre><span></span><span class="s2">&quot;is_system&quot;</span><span class="err">:</span> <span class="s2">&quot;1&quot;</span>
 <span class="s2">&quot;allow_uploads&quot;</span><span class="err">:</span> <span class="s2">&quot;1&quot;</span><span class="err">,</span>
 <span class="s2">&quot;allow_create_subfolders&quot;</span><span class="err">:</span> <span class="s2">&quot;0&quot;</span><span class="err">,</span>
 </pre></div>
-</details>
+</details><h2 id="use-null-in-responses-instead-of-a-blank-string"><strong>Use <code>null</code> in responses instead of a blank string</strong><a class="headerlink" href="#use-null-in-responses-instead-of-a-blank-string" title="Permanent link">&para;</a></h2>
+<p>Non existing numbers, strings, and booleans are usually represented as null. But string fields without value should also be represented as null, not "".  In its most basic terms, 'null' represents a non-value, whereas any other kind of thing represents some value.</p>
+<div class="admonition warning">
+<p class="admonition-title">Note: Empty arrays shall not be null. If a field is some kind of list and it is represented by an array, an array shall be returned, even if empty. This makes front-end developers’ work a lot easier.</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Example using null correctly</p>
+<div class="codehilite"><pre><span></span><span class="p">{</span>
+    <span class="nt">&quot;id&quot;</span><span class="p">:</span> <span class="mi">16784</span><span class="p">,</span>
+    <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;Lorem Ipsum&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;age&quot;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+    <span class="nt">&quot;relatives&quot;</span><span class="p">:</span> <span class="p">[],</span> <span class="err">//</span> <span class="err">no</span> <span class="err">relatives,</span> <span class="err">null</span> <span class="err">does</span> <span class="err">not</span> <span class="err">go</span> <span class="err">in</span> <span class="err">here</span>
+    <span class="nt">&quot;address&quot;</span><span class="p">:</span> <span class="kc">null</span>
+<span class="p">}</span>
+</pre></div>
+
+</div>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Filipe Ximenes and Flávio Juvenal. "How a RESTful API represents resources". January 4, 2018. <a href="https://www.oreilly.com/ideas/how-a-restful-api-represents-resources">https://www.oreilly.com/ideas/how-a-restful-api-represents-resources</a>&#160;<a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
                 
                   
                 
