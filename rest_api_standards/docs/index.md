@@ -22,6 +22,7 @@ This document will cover the following General REST API Development areas, as we
 
 ### **Creative Drive Standards**
 
+* [Response Types](responsetypes.md) - Making sure the correct types are enumerated in the JSON response
 * [Error Response Structure](errorhandling.md) - Descriptive outputs that allows for problem solving
 * [Versioning](versioning.md) - Handling Breaking changes
 * [Authentication](authentication.md) - REST API Security

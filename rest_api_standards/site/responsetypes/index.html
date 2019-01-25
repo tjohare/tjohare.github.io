@@ -13,7 +13,7 @@
         <meta name="description" content="Rest API Guidelines & Standards">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/errorhandling/">
+        <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/responsetypes/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Error Response Structure - Rest API Guidelines & Standards</title>
+        <title>Response Types - Rest API Guidelines & Standards</title>
       
     
     
@@ -79,7 +79,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="../#api-error-json-response" tabindex="1" class="md-skip">
+      <a href="../#return-numberic-values-as-numbers-not-strings" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -105,7 +105,7 @@
                 Rest API Guidelines & Standards
               </span>
               <span class="md-header-nav__topic">
-                Error Response Structure
+                Response Types
               </span>
             
           
@@ -246,18 +246,6 @@
       
       
 
-
-  <li class="md-nav__item">
-    <a href="../responsetypes/" title="Response Types" class="md-nav__link">
-      Response Types
-    </a>
-  </li>
-
-    
-      
-      
-      
-
   
 
 
@@ -267,11 +255,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Error Response Structure
+        Response Types
       </label>
     
-    <a href="./" title="Error Response Structure" class="md-nav__link md-nav__link--active">
-      Error Response Structure
+    <a href="./" title="Response Types" class="md-nav__link md-nav__link--active">
+      Response Types
     </a>
     
       
@@ -283,29 +271,16 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#api-error-json-response" title="API Error JSON Response" class="md-nav__link">
-    API Error JSON Response
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#our-error-defined-response" title="Our Error-defined response" class="md-nav__link">
-    Our Error-defined response
+  <a href="#return-numberic-values-as-numbers-not-strings" title="Return Numberic values as Numbers, not Strings" class="md-nav__link">
+    Return Numberic values as Numbers, not Strings
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#the-rfc-defined-response" title="The RFC-defined response" class="md-nav__link">
-    The RFC-defined response
+      
+        <li class="md-nav__item">
+  <a href="#use-true-and-false-values-for-boolean-representations" title="Use true and false values for Boolean representations" class="md-nav__link">
+    Use true and false values for Boolean representations
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -317,6 +292,18 @@
   
 </nav>
     
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../errorhandling/" title="Error Response Structure" class="md-nav__link">
+      Error Response Structure
+    </a>
   </li>
 
     
@@ -387,29 +374,16 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#api-error-json-response" title="API Error JSON Response" class="md-nav__link">
-    API Error JSON Response
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#our-error-defined-response" title="Our Error-defined response" class="md-nav__link">
-    Our Error-defined response
+  <a href="#return-numberic-values-as-numbers-not-strings" title="Return Numberic values as Numbers, not Strings" class="md-nav__link">
+    Return Numberic values as Numbers, not Strings
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#the-rfc-defined-response" title="The RFC-defined response" class="md-nav__link">
-    The RFC-defined response
+      
+        <li class="md-nav__item">
+  <a href="#use-true-and-false-values-for-boolean-representations" title="Use true and false values for Boolean representations" class="md-nav__link">
+    Use true and false values for Boolean representations
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -430,61 +404,41 @@
               
                 
                 
-                  <h1>Error Response Structure</h1>
+                  <h1>Response Types</h1>
                 
-                <p>HTTP status codes are sometimes not sufficient to convey enough information about an error to be helpful.  While humans behind browsers can be informed about the nature of the problem with an API response body, non-human consumers of so-called "HTTP APIs" are usually not.</p>
-<p>To address this, we have adopted a minimalistic common error formats for our applications, with elements taken from <a href="https://tools.ietf.org/html/rfc7807">RFC 7807</a>.</p>
-<h3 id="api-error-json-response"><strong>API Error JSON Response</strong><a class="headerlink" href="#api-error-json-response" title="Permanent link">&para;</a></h3>
-<p>Here at Creative Drive, we are using a very simple customized JSON Error response for our APIs.    Additionally, For the sake of completeness, also included is the RFC-defined specification for handling error responses.</p>
-<h4 id="our-error-defined-response">Our Error-defined response<a class="headerlink" href="#our-error-defined-response" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="p">{</span>
-    <span class="nt">&quot;errors&quot;</span><span class="p">:</span> <span class="p">[</span>
-        <span class="p">{</span>
-            <span class="nt">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;Incorrect email or password&quot;</span><span class="p">,</span>
-            <span class="nt">&quot;code&quot;</span><span class="p">:</span> <span class="mi">401</span>
-        <span class="p">}</span>
-    <span class="p">]</span>
+                <p>At its core, JSON Schema defines the following basic types:</p>
+<ul>
+<li>String</li>
+<li>Numeric Types</li>
+<li>Boolean</li>
+<li>Null</li>
+<li>Objects</li>
+<li>Arrays</li>
+</ul>
+<p>When defining how the REST API method returns the data, we need to make sure the correct data types are displayed in the response.    </p>
+<h3 id="return-numberic-values-as-numbers-not-strings"><strong>Return Numberic values as Numbers, not Strings</strong><a class="headerlink" href="#return-numberic-values-as-numbers-not-strings" title="Permanent link">&para;</a></h3>
+<p>There is a large debate on whether number responses should be returned as STRINGS versus INTEGERS.  It's just a standard problem of PHP REST services.</p>
+<p>For reference, there is an extremely good read on why number should be cast as strings (as well as the reasons for it) found here: <a href="https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number">https://stackoverflow.com/questions/35709595/why-would-you-use-a-string-in-json-to-represent-a-decimal-number</a>.  Essentially, unsigned integers and floating numbers are kept as strings to preserve precision.   </p>
+<p>However, since we are not using decimal values, we should return values as INTEGERS as often as possible</p>
+<details class="success"><summary>Numeric values returned as a number type</summary><div class="codehilite"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;event_id&quot;</span><span class="p">:</span><span class="mi">603</span>
 <span class="p">}</span>
 </pre></div>
-
-<ul>
-<li><code>errors</code> is the Json object type, followed by an Json Array which contains the error details object.  </li>
-<li><code>message</code> is the details of the error.  This would correspond to the <code>detail</code> section of <a href="https://tools.ietf.org/html/rfc7807">RFC 7807</a>.</li>
-<li><code>code</code> is the status code that has been returned.</li>
-<li>The Content-type for all API responses (successful and error alike) is: <code>Content-Type: application/vnd.api+json;</code></li>
-</ul>
-<hr />
-<h4 id="the-rfc-defined-response">The RFC-defined response<a class="headerlink" href="#the-rfc-defined-response" title="Permanent link">&para;</a></h4>
-<p>The "Official" RFC-defined JSON Error response looks like thus:</p>
-<div class="codehilite"><pre><span></span><span class="err">HTTP/</span><span class="mf">1.1</span> <span class="mi">403</span> <span class="err">Forbidden</span>
-<span class="err">Content-Type:</span> <span class="err">application/problem+json</span>
-<span class="err">Content-Language:</span> <span class="err">en</span>
-
-<span class="p">{</span>
-  <span class="nt">&quot;type&quot;</span><span class="p">:</span> <span class="s2">&quot;https://example.com/probs/out-of-credit&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;title&quot;</span><span class="p">:</span> <span class="s2">&quot;You do not have enough credit.&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;detail&quot;</span><span class="p">:</span> <span class="s2">&quot;Your current balance is 30, but that costs 50.&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;instance&quot;</span><span class="p">:</span> <span class="s2">&quot;/account/12345/msgs/abc&quot;</span><span class="p">,</span>
-  <span class="nt">&quot;balance&quot;</span><span class="p">:</span> <span class="mi">30</span><span class="p">,</span>
-  <span class="nt">&quot;accounts&quot;</span><span class="p">:</span> <span class="p">[</span>
-      <span class="s2">&quot;/account/12345&quot;</span><span class="p">,</span>
-      <span class="s2">&quot;/account/67890&quot;</span>
-    <span class="p">]</span>
+</details><details class="bug"><summary>Numeric values returned as a String type</summary><div class="codehilite"><pre><span></span><span class="p">{</span>
+  <span class="nt">&quot;event_id&quot;</span><span class="p">:</span><span class="s2">&quot;603&quot;</span>
 <span class="p">}</span>
 </pre></div>
-
-<p>A JSON Error object can have the following members:</p>
-<ul>
-<li>"status" (number) - The HTTP status code (<a href="https://tools.ietf.org/html/rfc7231">RFC 7231</a>, Section 6) generated by the origin server for this occurrence of the problem.  In this example, <code>403 Forbidden</code></li>
-<li>"type" (string) - A URI reference [RFC3986] that identifies the problem type.  This specification encourages that, when dereferenced, it provide human-readable documentation for the
-problem type (e.g., using HTML.  When this member is not present, its value is assumed to be "about:blank".</li>
-<li>"title" (string) - A short, human-readable summary of the problem type.  It SHOULD NOT change from occurrence to occurrence of the problem, except for purposes of localization (e.g., using proactive content negotiation; see (<a href="https://tools.ietf.org/html/rfc7231">RFC 7231</a>, Section 3.4).</li>
-<li>"detail" (string) - A human-readable explanation specific to this occurrence of the problem.</li>
-<li>"instance" (string) - A URI reference that identifies the specific occurrence of the problem.  It may or may not yield further information if dereferenced.</li>
-<li>"balance" and "accounts" in the example above are EXTRA information that is useful to the user and/or application, and referred to as <strong>Extension Members</strong> as defined in the <a href="https://tools.ietf.org/html/rfc7807">RFC 7807</a></li>
-<li>The Content-type is defined as: <code>application/prolem+json</code> as defined in (<a href="https://tools.ietf.org/html/rfc7807">RFC spec 7807</a>, section 6.1)</li>
-</ul>
-<p>A good read on how other companies, such as Facebook, Spotify, and Google, handle error responses can be found here: <a href="https://blog.restcase.com/rest-api-error-handling-problem-details-response/">https://blog.restcase.com/rest-api-error-handling-problem-details-response/</a></p>
+</details><h3 id="use-true-and-false-values-for-boolean-representations"><strong>Use <code>true</code> and <code>false</code> values for Boolean representations</strong><a class="headerlink" href="#use-true-and-false-values-for-boolean-representations" title="Permanent link">&para;</a></h3>
+<p>In JSON, a common mistake is not using Booleans to represent true or false values. Don't use integers 1 or 0, or even worse, strings "1" or "0" to represent true or false.</p>
+<p>The string "0" is interpreted as truthy in a lot of programming languages. If your API client uses it in a "if" statement, it might introduce a bug that’s hard to catch. A bug like this might even happen on the server, if this bad data comes back to it via a request body.
+[source ref: <a href="https://www.oreilly.com/ideas/how-a-restful-api-represents-resources">https://www.oreilly.com/ideas/how-a-restful-api-represents-resources</a>]</p>
+<details class="success"><summary>Using true/false for Boolean values</summary><div class="codehilite"><pre><span></span><span class="s2">&quot;active&quot;</span><span class="err">:</span> <span class="kc">true</span><span class="err">,</span>
+</pre></div>
+</details><details class="bug"><summary>Using 0/1 as TRUE/FALSE representations</summary><div class="codehilite"><pre><span></span><span class="s2">&quot;is_system&quot;</span><span class="err">:</span> <span class="s2">&quot;1&quot;</span>
+<span class="s2">&quot;allow_uploads&quot;</span><span class="err">:</span> <span class="s2">&quot;1&quot;</span><span class="err">,</span>
+<span class="s2">&quot;allow_create_subfolders&quot;</span><span class="err">:</span> <span class="s2">&quot;0&quot;</span><span class="err">,</span>
+</pre></div>
+</details>
                 
                   
                 
@@ -505,7 +459,7 @@ problem type (e.g., using HTML.  When this member is not present, its value is a
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../responsetypes/" title="Response Types" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../queries/" title="Optional Parameter Queries" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -514,19 +468,19 @@ problem type (e.g., using HTML.  When this member is not present, its value is a
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Response Types
+                Optional Parameter Queries
               </span>
             </div>
           </a>
         
         
-          <a href="../versioning/" title="Versioning" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../errorhandling/" title="Error Response Structure" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Versioning
+                Error Response Structure
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">

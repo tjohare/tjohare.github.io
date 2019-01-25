@@ -55,6 +55,7 @@ nav:
     - Methods: methods.md
     - Status Codes: statuscodes.md
     - Optional Parameter Queries: queries.md
+    - Response Types: responsetypes.md
     - Error Response Structure: errorhandling.md
     - Versioning: versioning.md
     - Authentication: authentication.md
