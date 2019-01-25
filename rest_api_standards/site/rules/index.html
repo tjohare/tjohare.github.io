@@ -10,7 +10,7 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
-        <meta name="description" content="Rest API Guidelines & Standards">
+        <meta name="description" content="Creative Drive Development REST API Guidelines & Standards">
       
       
         <link rel="canonical" href="https://tjohare.github.io/rest_api_standards/site/rules/">
@@ -42,7 +42,7 @@
     
     
       
-        <title>General API Rules - Rest API Guidelines & Standards</title>
+        <title>General API Rules - Creative Drive Development REST API Guidelines & Standards</title>
       
     
     
@@ -88,7 +88,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/rest_api_standards/site/" title="Creative Drive Development REST API Guidelines & Standards" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -102,7 +102,7 @@
           
             
               <span class="md-header-nav__topic">
-                Rest API Guidelines & Standards
+                Creative Drive Development REST API Guidelines & Standards
               </span>
               <span class="md-header-nav__topic">
                 General API Rules
@@ -160,12 +160,12 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Rest API Guidelines & Standards" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/rest_api_standards/site/" title="Creative Drive Development REST API Guidelines & Standards" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
     </a>
-    Rest API Guidelines & Standards
+    Creative Drive Development REST API Guidelines & Standards
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -607,10 +607,14 @@
 <h3 id="camelcase-for-attributes"><strong>CamelCase for Attributes</strong><a class="headerlink" href="#camelcase-for-attributes" title="Permanent link">&para;</a></h3>
 <p>Use CamelCase for your attributes identifiers, starting with lowercase, such as <code>{ &quot;yearOfBirth&quot;: 1982 }</code></p>
 <p>Don’t use underscores (year_of_birth) or capitalize (YearOfBirth). Often your RESTful web service will be consumed by a client written in JavaScript. Typically the client will convert the JSON response to a JavaScript object (by calling var person = JSON.parse(response) ) and call its attributes. Therefore, it’s a good idea to stick to the JavaScript convention which makes the JavaScript code more readable and intuitive.</p>
-<details class="success"><summary>Good example of Attributes CamelCase conventions</summary><p>// Do
-person.yearOfBirth</p></details><details class="bug"><summary>Bad example of Attributes CamelCase conventions</summary><p>// Don't
-person.year_of_birth   // violates JavaScript convention
-person.YearOfBirth     // suggests constructor method</p></details><h3 id="meta-data-section-at-top-of-responses"><strong>Meta Data section at TOP of responses</strong><a class="headerlink" href="#meta-data-section-at-top-of-responses" title="Permanent link">&para;</a></h3>
+<details class="success"><summary>Good example of Attributes CamelCase conventions</summary><div class="codehilite"><pre><span></span><span class="err">//</span> <span class="err">Do</span>
+<span class="err">person.yearOfBirth</span>
+</pre></div>
+</details><details class="bug"><summary>Bad example of Attributes CamelCase conventions</summary><div class="codehilite"><pre><span></span> <span class="err">//</span> <span class="err">Don&#39;t</span>
+<span class="err">person.year_of_birth</span>   <span class="err">//</span> <span class="err">violates</span> <span class="err">JavaScript</span> <span class="err">convention</span>
+<span class="err">person.YearOfBirth</span>     <span class="err">//</span> <span class="err">suggests</span> <span class="err">constructor</span> <span class="err">method</span>
+</pre></div>
+</details><h3 id="meta-data-section-at-top-of-responses"><strong>Meta Data section at TOP of responses</strong><a class="headerlink" href="#meta-data-section-at-top-of-responses" title="Permanent link">&para;</a></h3>
 <p>Whenever optional query parameters are included in an API, a META section is required in the response output.   The correct place for this is BEFORE any data structures.   This better allows for pagination to be handled better as well as following the JSON:API Standard at <a href="https://jsonapi.org/">https://jsonapi.org/</a>.</p>
 <details class="example"><summary>Sample Meta section response</summary><div class="codehilite"><pre><span></span><span class="p">{</span>
   <span class="nt">&quot;meta&quot;</span><span class="p">:</span> <span class="p">{</span>
