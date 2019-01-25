@@ -102,13 +102,17 @@ Use CamelCase for your attributes identifiers, starting with lowercase, such as 
 Don’t use underscores (year_of_birth) or capitalize (YearOfBirth). Often your RESTful web service will be consumed by a client written in JavaScript. Typically the client will convert the JSON response to a JavaScript object (by calling var person = JSON.parse(response) ) and call its attributes. Therefore, it’s a good idea to stick to the JavaScript convention which makes the JavaScript code more readable and intuitive.
 
 ??? success "Good example of Attributes CamelCase conventions"
+    ```json
     // Do
     person.yearOfBirth
+    ```
 
 ??? bug "Bad example of Attributes CamelCase conventions"
-    // Don't
+    ```json
+     // Don't
     person.year_of_birth   // violates JavaScript convention
     person.YearOfBirth     // suggests constructor method
+    ```
 
 ### **Meta Data section at TOP of responses**
 Whenever optional query parameters are included in an API, a META section is required in the response output.   The correct place for this is BEFORE any data structures.   This better allows for pagination to be handled better as well as following the JSON:API Standard at https://jsonapi.org/.

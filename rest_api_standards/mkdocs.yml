@@ -1,11 +1,11 @@
-site_name: Rest API Guidelines & Standards
+site_name: Creative Drive Development REST API Guidelines & Standards
 site_description: Rest API Guidelines & Standards
 site_author: TJ O'Hare
 site_url: https://tjohare.github.io/rest_api_standards/site/
 
 #Repo
 #repo_name:
-#repo_url: https://github.com/tjohare/tjohare.github.io/REST_API_standards
+#repo_url: https://github.com/tjohare/tjohare.github.io/rest_api_standards
 
 # Copyright
 copyright: 'Copyright &copy; 2019 CreativeDrive'
