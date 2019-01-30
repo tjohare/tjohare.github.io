@@ -40,3 +40,4 @@ This document will cover the following General REST API Development areas, as we
 * [Top REST API Best Practices, code-maze.com](https://code-maze.com/top-rest-api-best-practices)
 * [Secrets of a Great API, Mulesoft ](https://www.mulesoft.com/ty/wp/secrets-great-api)
 * [API Design Guidelines, Hackernoon.com ](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+* [How a RESTful API represents resources](https://www.oreilly.com/ideas/how-a-restful-api-represents-resources)

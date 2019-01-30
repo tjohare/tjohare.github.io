@@ -1,0 +1,8 @@
+video {
+	width: 100%;
+}
+
+.md-typeset .footnote-ref {
+    display: inline;
+    pointer-events: initial;
+}

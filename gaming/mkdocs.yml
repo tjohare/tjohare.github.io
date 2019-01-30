@@ -1,0 +1,56 @@
+site_name: Gaming
+site_description: Gaming stuff
+site_author: TJ O'Hare
+site_url: https://tjohare.github.io/gaming
+
+#Repo
+#repo_name:
+#repo_url: https://github.com/tjohare/tjohare.github.io/gaming
+
+# Copyright
+copyright: 'Copyright &copy; 2018 TJ OHare'
+
+#Config
+theme:
+  name: material
+  #custom_dir: custom/
+
+#Markdowns
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/tjohare'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/tjohare/'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/'
+
+nav:
+    - Home: index.md
+    - About: about.md

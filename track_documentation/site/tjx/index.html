@@ -10,10 +10,10 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
-        <meta name="description" content="Gaming stuff">
+        <meta name="description" content="Track">
       
       
-        <link rel="canonical" href="https://tjohare.github.io/gaming/about/">
+        <link rel="canonical" href="https://tjohare.github.io/track_documentation/tjx/">
       
       
         <meta name="author" content="TJ O'Hare">
@@ -42,7 +42,7 @@
     
     
       
-        <title>About - Gaming</title>
+        <title>TJX Workflow - Track Documentation</title>
       
     
     
@@ -79,12 +79,16 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="../#tjx-workflow" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://tjohare.github.io/gaming" title="Gaming" class="md-header-nav__button md-logo">
+        <a href="https://tjohare.github.io/track_documentation" title="Track Documentation" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -98,10 +102,10 @@
           
             
               <span class="md-header-nav__topic">
-                Gaming
+                Track Documentation
               </span>
               <span class="md-header-nav__topic">
-                About
+                TJX Workflow
               </span>
             
           
@@ -156,12 +160,12 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://tjohare.github.io/gaming" title="Gaming" class="md-nav__button md-logo">
+    <a href="https://tjohare.github.io/track_documentation" title="Track Documentation" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
     </a>
-    Gaming
+    Track Documentation
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -182,6 +186,18 @@
       
       
 
+
+  <li class="md-nav__item">
+    <a href="../walmart/" title="Walmart Workflow" class="md-nav__link">
+      Walmart Workflow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
   
 
 
@@ -189,11 +205,37 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
     
-    <a href="./" title="About" class="md-nav__link md-nav__link--active">
-      About
+    
+    <a href="./" title="TJX Workflow" class="md-nav__link md-nav__link--active">
+      TJX Workflow
     </a>
     
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../lbrands/" title="LBrands Workflow" class="md-nav__link">
+      LBrands Workflow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../chicos/" title="Chicos, Soma, WhiteHouse BlackMarket Workflow" class="md-nav__link">
+      Chicos, Soma, WhiteHouse BlackMarket Workflow
+    </a>
   </li>
 
     
@@ -204,15 +246,128 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                  <h1>About</h1>
-                
-                
+                <h1 id="tjx-workflow">TJX Workflow</h1>
+<p>covers how to test the TJX workflow from start to finish</p>
+<p>2 types of files are available in import</p>
+<ul>
+<li>TJX Product Overlay CSV file  (starting point)</li>
+<li>TJX Collection CSV file</li>
+</ul>
+<h1 id="lets-begin-feed-1348">Let's Begin... (FEED-1348)</h1>
+<h2 id="tjx-product-overlay-csv-file">TJX Product Overlay CSV file</h2>
+<ul>
+<li>Import a file from Jose Camino (testing purposes).  Client drops on FTP, and cron to collect the job</li>
+</ul>
+<h2 id="tjx-collection-csv-file">TJX Collection CSV file</h2>
+<h2 id="project-tab">Project tab</h2>
+<ul>
+<li>Create a project manually - ECOM types</li>
+<li>Status of project OPEN</li>
+</ul>
+<h2 id="browse-tab">Browse tab</h2>
+<ul>
+<li>Filter by NO SAMPLE &amp; AVAILABLE</li>
+<li>Click a couple of products</li>
+<li>Go to Selected tab (#)</li>
+<li>MORE ACTIONS: Add to project and select project you just made<ul>
+<li>if you receive the products are not available error, you can force add</li>
+</ul>
+</li>
+<li>ASK JOSE CAMINO TO RUN JOB REQUESTING SAMPLES</li>
+<li>Project status will now be closed after this run</li>
+<li>Verify product statuses move from proposed to requested</li>
+<li>ANOTHER JOB TO BE RUN FOR CONFIRMATION PICKLIST (???????)</li>
+<li>Check Imports for PICKLIST file and Confirmation list</li>
+<li>Products will now be confirmed after receiving Confirmation list</li>
+</ul>
+<h2 id="from-project-show-click-on-product-sku">From Project show, click on PRODUCT sku</h2>
+<ul>
+<li>Goes to product show page</li>
+<li>copy sample barcode</li>
+<li>SAVE STYLE CODE NUMBER</li>
+</ul>
+<h2 id="track-tab">Track tab</h2>
+<ul>
+<li>Click on receive</li>
+<li>choose a COMPANY LOCATION</li>
+<li>Select sub location</li>
+<li>paste barcode that was Selected &amp; Enter</li>
+<li>Label is generated</li>
+</ul>
+<h1 id="end-of-track-module-workflow">END OF TRACK MODULE Workflow</h1>
+<h2 id="go-to-view">Go to View</h2>
+<ul>
+<li>Go the the COMPANY LOCATIONS (known as Studio in View) that was Selected</li>
+<li>go to Advanced Search</li>
+<li>select TJX as Client</li>
+<li>In Style Number field, paste STYLE CODE NUMBER saved previously</li>
+<li>click Green Check mark</li>
+<li>Click Green SEARCH button</li>
+<li>SKU/STYLE number should match</li>
+</ul>
+<h1 id="resume-of-track-module-workflow">RESUME OF TRACK MODULE Workflow</h1>
+<h2 id="projects-tab">Projects tab</h2>
+<ul>
+<li>product page, product show page</li>
+<li>Status should now be IN PRODUCTION</li>
+</ul>
+<h1 id="end-of-track-module-workflow-pt-2">END OF TRACK MODULE Workflow, pt. 2</h1>
+<h2 id="go-to-copy">Go to COPY</h2>
+<ul>
+<li>paste style number</li>
+<li>Click on Search</li>
+<li>verify style number is in COPY</li>
+<li>click on EYE Icon</li>
+<li>Verify style number matches TRACK</li>
+<li>Verify name matches TRACK</li>
+<li>Click REWORK button<ul>
+<li>verify status is now STARTED</li>
+<li>change some data</li>
+</ul>
+</li>
+<li>click SAVE (blue top)</li>
+<li>click SUBMIT TO QC</li>
+<li>Confirm description - click OK</li>
+<li>click APPROVE</li>
+<li>click DROP</li>
+</ul>
+<h2 id="view">VIEW</h2>
+<ul>
+<li>Go to single asset view</li>
+<li>modify Drop Shot</li>
+</ul>
+<h2 id="track">Track</h2>
+<ul>
+<li>Send back sample via TRACK tab<ul>
+<li>click FORCE SEND if all samples do not have date shot value</li>
+</ul>
+</li>
+<li>Check transactions tab<ul>
+<li>should have values for CREATED, RECEIVED, and SENT</li>
+</ul>
+</li>
+</ul>
                 
                   
                 
@@ -233,7 +388,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../walmart/" title="Walmart Workflow" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -242,11 +397,25 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Home
+                Walmart Workflow
               </span>
             </div>
           </a>
         
+        
+          <a href="../lbrands/" title="LBrands Workflow" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                LBrands Workflow
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
         
       </nav>
     </div>
@@ -254,10 +423,6 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-footer-copyright">
-        
-          <div class="md-footer-copyright__highlight">
-            Copyright &copy; 2018 TJ OHare
-          </div>
         
         powered by
         <a href="https://www.mkdocs.org">MkDocs</a>
@@ -267,17 +432,6 @@
       </div>
       
         
-  <div class="md-footer-social">
-    <link rel="stylesheet" href="../assets/fonts/font-awesome.css">
-    
-      <a href="https://github.com/tjohare" class="md-footer-social__link fa fa-github"></a>
-    
-      <a href="https://www.instagram.com/tjohare/" class="md-footer-social__link fa fa-instagram"></a>
-    
-      <a href="https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/" class="md-footer-social__link fa fa-linkedin"></a>
-    
-  </div>
-
       
     </div>
   </div>
