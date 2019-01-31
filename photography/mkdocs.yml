@@ -1,0 +1,69 @@
+site_name: Photography
+site_description: My Thoughts and Things all Photography related
+site_author: TJ O'Hare
+site_url: https://tjohare.github.io/photography
+
+#Repo
+repo_name: 'tjohare/tjohare.github.io/photography'
+repo_url: https://github.com/tjohare/tjohare.github.io/photography
+
+# Copyright
+copyright: 'Copyright &copy; 2019 TJ OHare'
+
+#Config
+theme:
+  name: material
+  language: 'en'
+  palette:
+    primary: 'blue grey'
+    accent: 'blue grey'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'add_a_photo'
+
+#Markdowns
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/tjohare'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/tjohare/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/edward.ohare.jr'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/'
+    - type: 'twitter'
+      link: 'https://twitter.com/gdistortions'
+
+nav:
+    - Home: index.md
+    - About: about.md
