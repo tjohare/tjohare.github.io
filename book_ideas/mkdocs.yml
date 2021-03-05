@@ -1,0 +1,79 @@
+site_name: Book Ideas
+site_description: My Thoughts and Things all Book Idea related
+site_author: TJ O'Hare
+site_url: https://tjohare.github.io/book_ideas
+
+# Copyright
+copyright: 'Copyright &copy; 2021 TJ OHare'
+
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/gdistortions
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/tjohare/
+
+
+#Plugins
+plugins:
+    - search
+    - mermaid2
+    - macros
+
+#Extra_javascript
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+    - javascripts/config.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+#Config
+#Material Logos can be found here: https://pictogrammers.github.io/@mdi/font/5.4.55/
+theme:
+  name: material
+  language: 'en'
+  feature:
+      tabs: true
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  font:
+    text: 'Roboto'
+    code: 'Roboto'
+
+#Markdowns
+markdown_extensions:
+  - def_list
+  - attr_list
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde

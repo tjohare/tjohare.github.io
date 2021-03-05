@@ -1,0 +1,99 @@
+# Welcome to MkDocs
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+
+
+[comment]: # (comments and how to do them in markdown files can be found here:)
+[comment]: # (https://stackoverflow.com/questions/4823468/comments-in-markdown)
+[comment]: # (https://www.mkdocs.org/user-guide/styling-your-docs/)
+[comment]: # (https://facelessuser.github.io/pymdown-extensions/)
+[comment]: # (https://squidfunk.github.io/mkdocs-material/reference/abbreviations/)
+
+
+## Something to work on...
+<hr>
+*testing the following....*
+<hr>
+
+
+### Math stuff
+$p(x|y) = \frac{p(y|x)p(x)}{p(y)}$, \(p(x|y) = \frac{p(y|x)p(x)}{p(y)}\).
+
+$$
+\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
+$$
+
+The homomorphism $f$ is injective if and only if its kernel is only the
+singleton set $e_G$, because otherwise $\exists a,b\in G$ with $a\neq b$ such
+that $f(a)=f(b)$.
+
+
+### Code styling
+``` python linenums="1"
+first code box colored - details in extra.css file
+under stylesheets and
+`#__code_0 > code > span` section
+```
+
+``` python linenums="1"
+test second time defines different code number section - AWESOME!!
+```
+
+### Inserting pictures
+![Ancient Eagle](../assets/TvC55dz.jpg)
+
+
+###Mermaid diagrams
+https://github.com/fralau/mkdocs-mermaid2-plugin
+https://mermaid-js.github.io/mermaid/#/
+
+```mermaid
+graph TD
+    A[Hard] -->|Text| B(Round)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
+```
+
+``` mermaid
+graph LR
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
+```
+
+``` mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
+```
+
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```

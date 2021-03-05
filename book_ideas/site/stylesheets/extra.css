@@ -1,0 +1,61 @@
+video {
+	width: 100%;
+}
+
+.md-typeset .footnote-ref {
+    display: inline;
+    pointer-events: initial;
+}
+
+body {
+	background-image: url('../assets/grid.png');
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+}
+
+h2, h3 {
+	text-decoration: underline grey;
+}
+
+/* The admonition box styling */
+.md-typeset .admonition {
+	border: .1rem ridge;
+	font-size: .75rem;
+}
+
+.admonition li{
+	line-height: 1.2;
+}
+
+.admonition code{
+	font-size: .75rem;
+	color: red;
+}
+
+
+
+
+/* Removes the Table of Contents from the display
+.md-sidebar--secondary > .md-sidebar__scrollwrap {
+  display: none;
+}
+*/
+
+/*
+body {
+	background-image: url('../assets/TvC55dz.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.md-typeset pre>code {
+		color: red;
+}
+
+/* First code block will be RED
+#__code_0 > pre {
+	color: red;
+}
+
+*/
