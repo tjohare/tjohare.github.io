@@ -4,6 +4,8 @@
 !!! info " "
     _This is a compilation of notes and thoughts over time and creativity.   What would capture the interest of people where I could write my stories and they would be, not only welcomed, but sought after._
 
+    _URL can be found here: https://tjohare.github.io/book_ideas/site/_
+
 
 
 ## Authors I follow
@@ -48,14 +50,14 @@ Here's some authors I follow:
     Genius has limits, Stupidity does not
 
 
-## Inspiring Images
+### Inspiring Images
 ![Ancient Eagle](assets/TvC55dz.jpg)
 ![Phoenix versus Dragon](assets/n2946.jpg)
 ![Dragon](assets/chinese-dragon-wallpaper-1.jpg)
 
 
 
-## Flow of what happens...
+### Flow of what happens...
 ``` mermaid
 graph TD
     A[Intro to Hero] -->|something happens...| B(Hero now has abilities <br> and things have changed...)

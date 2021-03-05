@@ -10,6 +10,7 @@ copyright: 'Copyright &copy; 2021 TJ OHare'
 extra_css:
   - 'stylesheets/extra.css'
 extra:
+  manifest: manifest.webmanifest
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gdistortions
@@ -21,7 +22,10 @@ extra:
 plugins:
     - search
     - mermaid2
-    - macros
+    - macros:
+        include_dir: custom
+        include_yaml:
+          - custom/daimon.yml
 
 #Extra_javascript
 extra_javascript:
@@ -35,8 +39,10 @@ extra_javascript:
 theme:
   name: material
   language: 'en'
-  feature:
-      tabs: true
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
@@ -46,6 +52,7 @@ theme:
 
 #Markdowns
 markdown_extensions:
+  - meta
   - def_list
   - attr_list
   - admonition

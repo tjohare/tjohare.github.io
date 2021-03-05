@@ -2,7 +2,7 @@
 
 
 ## StoryLine 1: "Daimon"
-!!! info "Background"
+!!! info " "
     _The word "Demon" which we commonly know today, is derived from "Daemon"._
 
     _Daemon is the Latin word for the Ancient Greek of `daimon` (δαίμων: "god", "godlike", "power", "fate"), which originally referred to a lesser deity or guiding spirit such as the daemons of ancient Greek religion and mythology and of later Hellenistic religion and philosophy. The word is derived from Proto-Indo-European *daimon "provider, divider (of fortunes or destinies), "* from the root da- "to divide". Daimons were possibly seen as the souls of men of the golden age acting as tutelary deities, according to entry δαίμων at Liddell & Scott._
@@ -22,6 +22,7 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 Travelers from alternate dimensions and planes.   More importantly, they were usually opportunists and unscrupulous businessmen and merchants.   Just vasty overpowered compared to the native life here on Earth.   
 
 And the wars and conflicts have never stopped.
+
 
 
 

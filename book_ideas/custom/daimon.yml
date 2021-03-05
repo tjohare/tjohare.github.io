@@ -1,0 +1,8 @@
+extra:
+  daimon:
+    #Names cannot
+    hero: Eamon O'Connell
+    villain: Donal Fitzgerald
+    law_officer: Marshal
+    badguy_type: Violator
+    law_officer_class: Paladin
