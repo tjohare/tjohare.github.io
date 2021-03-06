@@ -1,10 +1,6 @@
 # Daimon
 
 
-
-
-
-
 ## Power/Level Development
 Similar to Wuxia ad Cultivation style with parts of software code development.  Stages of Development (10 sub-stages within each development level):
 
@@ -24,9 +20,27 @@ Similar to Wuxia ad Cultivation style with parts of software code development.  
     1.  Assembly of followers and aspects that would be considered 'Divine'
 1.  Stage 5: Immortal
 
-!!! quote "Example: _Rank 5 Body Refinement, Rank 2 Spirit Refiner_ "
+!!! quote "Example: _Rank 5 Body Refinement, Rank 2 Spirit Refiner_"
 
 ---
+## Ability Development
+
+1.  Stage 1: Body (Psychic Energy Manipulation gained)
+    1.  {{ extra.daimon.psy_energy_healing }} Self, but not {{ extra.daimon.psy_energy_healing }} Other until Rank 6 Body.  At-will, dependant on energy pool.
+    1.  {{ extra.daimon.psy_energy_shield }} can only be used 1x per day (per sub-stage level)
+    1.  {{ extra.daimon.psy_energy_manip_psy }} can only be used 1x per week (per sub-stage level)
+    1.  {{ extra.daimon.psy_energy_manip_life }} can only be used 1x per month
+1.  Stage 2: Mind (Psychic Element Manipulation gained)
+    1.  All Psychic Energy Manipulation abilities, except {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.
+    1.  {{ extra.daimon.psy_energy_manip_life }} can be used once per week, but user must process & consolidate life gain within 24 hours or will sleep for 48 hours
+    1.  Access to all Elemental types (ie. Air, Earth, Fire, Water, Light & subtypes).  Elemental type rank cooresponds to sub-stage level).   
+    1.  User cannot progress to the next sub-stage level unless elemental proficiency at each sub-stage level is achieved.
+1.  Stage 3: Spirit
+    1.  Daimonic Armor gained resistances to users Elemental affinities (5% resistance per sub-stage Level).
+    1.  
+1.  Stage 4: Ascended
+    1.  
+1.  Stage 5: Immortal
 
 
 
