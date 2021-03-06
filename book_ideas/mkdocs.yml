@@ -2,15 +2,12 @@ site_name: Book Ideas
 site_description: My Thoughts and Things all Book Idea related
 site_author: TJ O'Hare
 site_url: https://tjohare.github.io/book_ideas
-
-# Copyright
 copyright: 'Copyright &copy; 2021 TJ OHare'
 
 #Custom
 extra_css:
   - 'stylesheets/extra.css'
 extra:
-  manifest: manifest.webmanifest
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gdistortions
@@ -40,8 +37,8 @@ theme:
   name: material
   language: 'en'
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.tabs #remove to have everything in the left hand navigation instead...
     - toc.integrate
   palette:
     primary: 'deep purple'
@@ -58,8 +55,6 @@ markdown_extensions:
   - admonition
   - codehilite
   - footnotes
-  - toc:
-      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
