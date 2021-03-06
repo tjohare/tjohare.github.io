@@ -2,9 +2,11 @@ extra:
   daimon:
     hero: Eamon O'Connell
     villain: Donal Fitzgerald
+    ai_name: Apkallu 
+
     law_officer: Marshal
     badguy_type: Violator
     law_officer_class: Paladin
-    ai_name: Apkallu
+
     psy_energy_manip_life: Energy Drain (Life)
     psy_energy_manip_psy: Energy Drain (Psychic)

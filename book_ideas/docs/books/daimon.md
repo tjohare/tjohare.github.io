@@ -1,9 +1,38 @@
 # Daimon
 
-!!! info " "
-    _The weather today was something that hooked and teased every single non-Florida native.   76° Degrees, bright & sunny with no rain nor clouds in sight.  And while not exactly beach tan worthy, it was certainly outdoor worthy for everyone.  Neighbors, co-workers, kids, one and all.   Nobody wanted to be inside, including myself, but that was just not meant to be._
 
-## Outline
+
+
+
+
+## Power/Level Development
+Similar to Wuxia ad Cultivation style with parts of software code development.  Stages of Development (10 sub-stages within each development level):
+
+1.  Stage 1: Body
+    1.  Primarily increasing body strength and development.   
+    1.  Psychic and/or elemental abilities are very limited to usually single target with long cool down times (cannot be used again until refreshed).
+1.  Stage 2: Mind
+    1.  Continuance of body refinement (Stage 1) for strength and agility, but a dramatic increase in inherent abilities.
+    1.  Psychic & Elemental abilities may begin to cover small groups and have increased potency as well as increased range and frequency.
+    1.  Most individuals are killed during this time.
+1.  Stage 3: Spirit
+    1.  Continuance of mind refinement (Stage 2).
+    1.  Daimonic Armor begins to get revealed.   
+    1.  Individuals with Daimon armor are greatly respected and feared for toughness (tend to be very old)
+1.  Stage 4: Ascended
+    1.  Drawn to conflict
+    1.  Assembly of followers and aspects that would be considered 'Divine'
+1.  Stage 5: Immortal
+
+!!! quote "Example: _Rank 5 Body Refinement, Rank 2 Spirit Refiner_ "
+
+---
+
+
+
+
+
+## Chapter Outline
 &nbsp; &nbsp; &nbsp; &nbsp; _How the chapters are going to be laid out._
 
 ### Chapter 1
