@@ -3,13 +3,18 @@ extra:
     hero: Eamon O'Connell
     villain: Donal Fitzgerald
     ai_name: Apkallu
+    law_officer1: Marshal                   #deceased after chapter 1
 
-    law_officer: Marshal
-    badguy_type: Violator
+    badguy_class: Violator
     law_officer_class: Paladin
-    law_officer_class_elite: Dark Paladin
+    law_officer_class_elite: Dark Paladin   #legendary feared class
 
     psy_energy_manip_life: Energy Drain (Life)
     psy_energy_manip_psy: Energy Drain (Psychic)
     psy_energy_shield: Shield
     psy_energy_healing: Healing
+
+    psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Smoke, Crystal, and Metal
+
+    # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
+    small_clan_mage: Draoi

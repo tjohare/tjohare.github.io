@@ -1,68 +1,33 @@
 # Daimon
 
 
-## Power/Level Development
-Similar to Wuxia ad Cultivation style with parts of software code development.  Stages of Development (10 sub-stages within each development level):
-
-1.  Stage 1: Body
-    1.  Primarily increasing body strength and development.   
-    1.  Psychic and/or elemental abilities are very limited to usually single target with long cool down times (cannot be used again until refreshed).
-1.  Stage 2: Mind
-    1.  Continuance of body refinement (Stage 1) for strength and agility, but a dramatic increase in inherent abilities.
-    1.  Psychic & Elemental abilities may begin to cover small groups and have increased potency as well as increased range and frequency.
-    1.  Most individuals are killed during this time.
-1.  Stage 3: Spirit
-    1.  Continuance of mind refinement (Stage 2).
-    1.  Daimonic Armor begins to get revealed.   
-    1.  Individuals with Daimon armor are greatly respected and feared for toughness (tend to be very old)
-1.  Stage 4: Ascended
-    1.  Drawn to conflict
-    1.  Assembly of followers and aspects that would be considered 'Divine'
-1.  Stage 5: Immortal
-
-!!! quote "Example: _Rank 5 Body Refinement, Rank 2 Spirit Refiner_"
-
----
-## Ability Development
-
-1.  Stage 1: Body (Psychic Energy Manipulation gained)
-    1.  {{ extra.daimon.psy_energy_healing }} Self, but not {{ extra.daimon.psy_energy_healing }} Other until Rank 6 Body.  At-will, dependant on energy pool.
-    1.  {{ extra.daimon.psy_energy_shield }} can only be used 1x per day (per sub-stage level)
-    1.  {{ extra.daimon.psy_energy_manip_psy }} can only be used 1x per week (per sub-stage level)
-    1.  {{ extra.daimon.psy_energy_manip_life }} can only be used 1x per month
-1.  Stage 2: Mind (Psychic Element Manipulation gained)
-    1.  All Psychic Energy Manipulation abilities, except {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.
-    1.  {{ extra.daimon.psy_energy_manip_life }} can be used once per week, but user must process & consolidate life gain within 24 hours or will sleep for 48 hours
-    1.  Access to all Elemental types (ie. Air, Earth, Fire, Water, Light & subtypes).  Elemental type rank cooresponds to sub-stage level).   
-    1.  User cannot progress to the next sub-stage level unless elemental proficiency at each sub-stage level is achieved.
-1.  Stage 3: Spirit
-    1.  Daimonic Armor gained resistances to users Elemental affinities (5% resistance per sub-stage Level).
-    1.  
-1.  Stage 4: Ascended
-    1.  
-1.  Stage 5: Immortal
-
-
-
-
-
-## Chapter Outline
-&nbsp; &nbsp; &nbsp; &nbsp; _How the chapters are going to be laid out._
 
 ### Chapter 1
 ???+ example "Highlights"
     1.  Intro to hero, {{ extra.daimon.hero }}.
-    1.  Witnessing the battle between {{ extra.daimon.law_officer }} and {{ extra.daimon.badguy_type }}.
-    1.  Helping turn the tide, but horribly wounded.  
-    1.  {{ extra.daimon.law_officer }} does not survive but {{ extra.daimon.hero }} inherits responsibilities.  And AI assistant, {{ extra.daimon.ai_name }}.
+    1.  Witnessing the battle between {{ extra.daimon.law_officer1 }} and {{ extra.daimon.badguy_class }}.
+    1.  Helping turn the tide, but horribly wounded.  Also, {{ extra.daimon.law_officer1 }} does not survive.
+    1.  {{ extra.daimon.hero }} inherits responsibilities, tech equipment, and AI assistant, named {{ extra.daimon.ai_name }}.
     1.  AI in form of bracer on left forearm.  Can change shape & form.
-    1.  Two  {{ extra.daimon.badguy_type }}s enter the hospital to seize the AI and kill {{ extra.daimon.hero }}
-    1.  Escape via Psychic Energy Manipulation activation by draining of one of the {{ extra.daimon.badguy_type }}s as fuel.  {{ extra.daimon.psy_energy_manip_life }}.
+    1.  Two  {{ extra.daimon.badguy_class }}s enter the hospital to seize the AI and kill {{ extra.daimon.hero }}
+    1.  Escape via Psychic Energy Manipulation activation by draining of one of the {{ extra.daimon.badguy_class }}s as fuel.  {{ extra.daimon.psy_energy_manip_life }}.
         - However, The use of {{ extra.daimon.psy_energy_manip_life }} causes additional conflicts.   
         - Some will believe It should not have been unlocked without binding oaths and punishments.
         - The reason for the fear is that using {{ extra.daimon.psy_energy_manip_life }} and {{ extra.daimon.psy_energy_manip_psy }} can add the target's skillset to the originators.
     1.  Part of conflict caught on hospital internal security video feed, and police/feds involved.  A {{ extra.daimon.law_officer_class }} is with them.
 
+
 ### Chapter 2
 ???+ example "Highlights"
     1.  Intro to villain, {{ extra.daimon.villain }}.
+    1.  Hunts other Daimons to equip those loyal to his faction.
+    1.  Mindset is psychopathic corporate raider.  Targets other factions for tech and resources.
+    1.  Pulls hospital video surveillance videos.
+    1.  Starts to hunt {{ extra.daimon.hero }}.  Calls forth "The Wild Hunt."
+    1.  Seeks to learn how to create a {{ extra.daimon.law_officer_class_elite }} daimon that is loyal/subservient to him.
+
+
+### Chapter 3
+???+ example "Highlights"
+    1.  {{ extra.daimon.hero }} goes back home to visit family & friends.  
+    1.  Discovers a previous girlfriend is also part-daimon (part of clan _{{ extra.daimon.small_clan_mage }}_).
