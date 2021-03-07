@@ -49,18 +49,20 @@ _**None of the old Gods actually were divine though...**_
         1.  {{ extra.daimon.psy_energy_healing }} Self, but not {{ extra.daimon.psy_energy_healing }} Other until Rank 6 Body.  At-will, dependant on energy pool.
         1.  {{ extra.daimon.psy_energy_shield }} can only be used 1x per day (per sub-stage level)
         1.  {{ extra.daimon.psy_energy_manip_psy }} can only be used 1x per week (per sub-stage level)
-        1.  {{ extra.daimon.psy_energy_manip_life }} can only be used 1x per month
+        1.  {{ extra.daimon.psy_energy_manip_life }} can only be used 1x per month. Single Target only.
     1.  **Stage 2: Mind (Psychic Element Manipulation gained)**
         1.  All Psychic Energy Manipulation abilities, except {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.
-        1.  {{ extra.daimon.psy_energy_manip_life }} can be used 1x per week (per sub-stage level).
+        1.  {{ extra.daimon.psy_energy_manip_life }} can be used 1x per week (per sub-stage level).  Single Target only.
             * _Special Limitation: The user must process & consolidate life energy gained within 24 hours or will catatonic for 48 hours_
         1.  Access to all Elemental types (ie. {{ extra.daimon.psy_elemental_list_all }}).  Elemental type rank cooresponds to sub-stage level).   
         1.  User cannot progress to the next sub-stage level unless elemental proficiency at each sub-stage level is achieved.
     1.  **Stage 3: Spirit**
+        1.  {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.  Single Target only.
         1.  Daimonic Armor gained resistances to users Elemental affinities (5% resistance per sub-stage Level).
         1.  Daimonic Weapons can channel a psychic ability ({{ extra.daimon.hero }} can channel {{ extra.daimon.psy_energy_manip_life }} through spear).
     1.  **Stage 4: Ascended**
-        1.  
+        1.  {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.  Multiple targets, Grouping is now possible.  This is perhaps the most feared ability and stage.   
+        1.  Opposing Groups have been known to work together to destroy an Ascended {{ extra.daimon.psy_energy_manip_life }} user.
     1.  **Stage 5: Immortal**
 
 

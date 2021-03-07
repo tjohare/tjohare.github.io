@@ -6,9 +6,9 @@
 ???+ example "Highlights"
     1.  Intro to hero, {{ extra.daimon.hero }}.
     1.  Witnessing the battle between {{ extra.daimon.law_officer1 }} and {{ extra.daimon.badguy_class }}.
-    1.  Helping turn the tide, but horribly wounded.  Also, {{ extra.daimon.law_officer1 }} does not survive.
+    1.  Helping turn the tide, but horribly wounded.  Also, {{ extra.daimon.law_officer1 }} does not survive.  Last quote - "Take everything from them."  Removes all restrictions on daimon tech.
     1.  {{ extra.daimon.hero }} inherits responsibilities, tech equipment, and AI assistant, named {{ extra.daimon.ai_name }}.
-    1.  AI in form of bracer on left forearm.  Can change shape & form.
+    1.  "AI" in form of bracer on left forearm.  Can change shape & form.
     1.  Two  {{ extra.daimon.badguy_class }}s enter the hospital to seize the AI and kill {{ extra.daimon.hero }}
     1.  Escape via Psychic Energy Manipulation activation by draining of one of the {{ extra.daimon.badguy_class }}s as fuel.  {{ extra.daimon.psy_energy_manip_life }}.
         - However, The use of {{ extra.daimon.psy_energy_manip_life }} causes additional conflicts.   
@@ -23,7 +23,7 @@
     1.  Hunts other Daimons to equip those loyal to his faction.
     1.  Mindset is psychopathic corporate raider.  Targets other factions for tech and resources.
     1.  Pulls hospital video surveillance videos.
-    1.  Starts to hunt {{ extra.daimon.hero }}.  Calls forth "The Wild Hunt."
+    1.  Starts to hunt {{ extra.daimon.hero }}.  Calls forth "The Wild Hunt" to find him.
     1.  Seeks to learn how to create a {{ extra.daimon.law_officer_class_elite }} daimon that is loyal/subservient to him.
 
 
@@ -33,3 +33,5 @@
     1.  Discovers a previous girlfriend is also part-daimon (part of clan _{{ extra.daimon.small_clan_mage }}_).  Small clan of elemental-type Daimon of Celtic background.
     1.  She helps him and helps him realize his potential, and that having a personal AI is overpowered for him.   Potentially a {{ law_officer_class_elite }} or {{ law_officer_class_elite }} type daimon.
     1.  By sharing his energy, {{ extra.daimon.hero }} starts to unlock additional elemental affinities within {{ extra.daimon.hero_girlfriend }}.
+    1.  Learns {{ extra.daimon.law_officer_class }}s are respected.  Appear as {{ extra.daimon.myth_type1 }}s.
+    1.  

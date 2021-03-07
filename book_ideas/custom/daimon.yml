@@ -19,3 +19,16 @@ extra:
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     small_clan_mage: Draoi
+
+    # See https://www.dndbeyond.com/races
+    myth_type1: Angel
+    myth_type2: Werewolf
+    myth_type3: Vampire
+    myth_type4: Elf
+    myth_type5: Orc
+    myth_type6: Leonin
+    myth_type7: Goliath / Giant-kin
+    myth_type7: Drow
+    myth_type7: Yuan-ti / Snake-Men
+    myth_type7: Tiefling
+    myth_type7: Gith
