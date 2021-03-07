@@ -30,4 +30,6 @@
 ### Chapter 3
 ???+ example "Highlights"
     1.  {{ extra.daimon.hero }} goes back home to visit family & friends.  
-    1.  Discovers a previous girlfriend is also part-daimon (part of clan _{{ extra.daimon.small_clan_mage }}_).
+    1.  Discovers a previous girlfriend is also part-daimon (part of clan _{{ extra.daimon.small_clan_mage }}_).  Small clan of elemental-type Daimon of Celtic background.
+    1.  She helps him and helps him realize his potential, and that having a personal AI is overpowered for him.   Potentially a {{ law_officer_class_elite }} or {{ law_officer_class_elite }} type daimon.
+    1.  By sharing his energy, {{ extra.daimon.hero }} starts to unlock additional elemental affinities within {{ extra.daimon.hero_girlfriend }}.
