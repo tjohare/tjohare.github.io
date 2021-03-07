@@ -18,7 +18,12 @@ extra:
     psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Smoke, Crystal, and Metal
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
-    small_clan_mage: Draoi
+    # Also Google translate
+    clan_name1: Draoi
+    clan_name2: Ezeru
+    clan_name3: Asimati
+    clan_name4: Galdur
+    clan_name5: Jīngshén
 
     # See https://www.dndbeyond.com/races
     myth_type1: Angel
@@ -31,4 +36,5 @@ extra:
     myth_type7: Drow
     myth_type7: Yuan-ti / Snake-Men
     myth_type7: Tiefling
-    myth_type7: Gith
+    myth_type7: Goblin
+    myth_type8: Magoi (Wizard/Witch)

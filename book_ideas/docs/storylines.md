@@ -19,7 +19,7 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 _**None of the old Gods actually were divine though...**_
 
 ??? question "Huh, then what were they really?"
-    Travelers from alternate dimensions and planes, space.   More importantly, they were usually opportunists and unscrupulous businessmen and merchants.   Just vasty overpowered compared to the native life here on Earth.   
+    Travelers from alternate dimensions and planes, space.   More importantly, they were usually opportunists and unscrupulous businessmen and merchants.   Just vasty overpowered compared to the native life here on Earth.   Also for some of them, Earth also acted as a penal colony, similar to the origins of Australia.
 
 ### Power/Level Development
   * Similar to Wuxia and Cultivation style with parts of software code development.  Stages of Development (10 sub-stages within each development level):
