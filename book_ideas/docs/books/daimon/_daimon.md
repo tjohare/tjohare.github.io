@@ -3,8 +3,6 @@
 Reference for girlfriend
 ![girlfriend](../../assets/girlfriend.jpg)
 
-
-## Flow
 ???+ example "Highlights"
     1.  Intro to hero, {{ extra.daimon.hero }}.
     1.  Intro to normal life for hero.
