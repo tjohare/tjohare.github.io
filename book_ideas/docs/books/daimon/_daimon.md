@@ -1,15 +1,15 @@
-# Daimon
+# Overview
 
 Reference for girlfriend
-![girlfriend](../assets/girlfriend.jpg)
+![girlfriend](../../assets/girlfriend.jpg)
 
 
-### Chapter 1
+## Flow
 ???+ example "Highlights"
     1.  Intro to hero, {{ extra.daimon.hero }}.
     1.  Intro to normal life for hero.
     1.  Witnessing the battle between {{ extra.daimon.law_officer1 }} and {{ extra.daimon.badguy_class }}.
-    1.  Helping turn the tide, but horribly wounded.  Also, {{ extra.daimon.law_officer1 }} does not survive.  Last quote - "Take everything from them."  Removes all restrictions on daimon tech.
+    1.  Helping turn the tide, but horribly wounded.  Also, {{ extra.daimon.law_officer1 }} does not survive.  
     1.  {{ extra.daimon.hero }} inherits responsibilities, tech equipment, and AI assistant, named {{ extra.daimon.ai_name }}.
     1.  "AI" in form of bracer on left forearm.  Can change shape & form.
     1.  Two  {{ extra.daimon.badguy_class }}s enter the hospital to seize the AI and kill {{ extra.daimon.hero }}
@@ -17,7 +17,7 @@ Reference for girlfriend
         - However, The use of {{ extra.daimon.psy_energy_manip_life }} causes additional conflicts.   
         - Some will believe It should not have been unlocked without binding oaths and punishments.
         - The reason for the fear is that using {{ extra.daimon.psy_energy_manip_life }} and {{ extra.daimon.psy_energy_manip_psy }} can add the target's skillset to the originators.
-    1.  Part of conflict caught on hospital internal security video feed, and police/feds involved.  A {{ extra.daimon.law_officer_class }} is with them.
+    1.  Part of conflict caught on hospital internal security video feed, and police/feds involved.  
     1.  Intro to villain, {{ extra.daimon.villain }}.
     1.  Hunts other Daimons to equip those loyal to his faction.
     1.  Mindset is psychopathic corporate raider.  Targets other factions for tech and resources.
