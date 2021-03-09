@@ -1,6 +1,7 @@
 extra:
   daimon:
-    hero: Chad Naramsin
+    hero: Easton
+    hero_fullname: Easton Narasin
     villain: Donal Fitzgerald
     ai_name: Apkallu
     law_officer1: Marshal                   #deceased after chapter 1
@@ -16,14 +17,28 @@ extra:
     psy_energy_healing: Healing
 
     psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Smoke, Crystal, and Metal
+    psy_elemental_common1: Air
+    psy_elemental_common2: Earth
+    psy_elemental_common3: Fire
+    psy_elemental_common4: Water
+    psy_elemental_uncommon1: Metal
+    psy_elemental_uncommon2: Smoke
+    psy_elemental_uncommon3: Acid**     #Not introduced yet
+    psy_elemental_rare1: Darkness
+    psy_elemental_rare2: Crystal
+    psy_elemental_ultrarare1: Void**    #Not introduced yet
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     # Also Google translate
-    clan_name1: Draoi
-    clan_name2: Ezeru
-    clan_name3: Asimati
-    clan_name4: Galdur
-    clan_name5: Jingshen
+    clan_name1: Draoi         #irish
+    clan_name2: Ezeru         #Sumerian
+    clan_name3: Asimati       #amharic
+    clan_name4: Galdur        #icelandic
+    clan_name5: Jingshen      #chinese
+    clan_name6: Addison       #american
+    clan_name7: Tofra         #icelandic
+    clan_name8: Hud           #welsh
+    clan_name9: Sahir         #Arabic
 
     # See https://www.dndbeyond.com/races
     myth_type1: Angel
@@ -33,8 +48,10 @@ extra:
     myth_type5: Orc
     myth_type6: Leonin
     myth_type7: Goliath / Giant-kin
-    myth_type7: Drow
-    myth_type7: Yuan-ti / Snake-Men
-    myth_type7: Tiefling
-    myth_type7: Goblin
     myth_type8: Magoi (Wizard/Witch)
+    myth_type9: Drow
+    myth_type10: Yuan-ti / Snake-Men
+    myth_type11: Tiefling
+    myth_type12: Goblin
+    ##type13 has been skipped
+    myth_type14: Triton

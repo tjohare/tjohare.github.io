@@ -33,3 +33,7 @@ Reference for girlfriend
     1.  Major assault on trying to remove {{ extra.daimon.clan_name1 }} and {{ extra.daimon.clan_name5 }} clans.
     1.  {{ extra.daimon.psy_energy_manip_life }} and {{ extra.daimon.psy_energy_manip_psy }} are used in the battle to remove assassin leader.
     1.  Officially recognized as {{ extra.daimon.law_officer_class_elite }}.
+
+Reference for guardian
+
+![guardian](../../assets/ideal_dark_paladin.jpg)
