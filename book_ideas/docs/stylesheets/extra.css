@@ -33,6 +33,12 @@ h2, h3 {
 	color: red;
 }
 
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 
 

@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://tjohare.github.io/book_ideas/</loc>
-     <lastmod>2021-03-07</lastmod>
+     <lastmod>2021-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tjohare.github.io/book_ideas/Skills/</loc>
-     <lastmod>2021-03-07</lastmod>
+     <lastmod>2021-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tjohare.github.io/book_ideas/storylines/</loc>
-     <lastmod>2021-03-07</lastmod>
+     <lastmod>2021-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://tjohare.github.io/book_ideas/books/daimon/</loc>
-     <lastmod>2021-03-07</lastmod>
+     <loc>https://tjohare.github.io/book_ideas/books/daimonic/_daimonic/</loc>
+     <lastmod>2021-03-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tjohare.github.io/book_ideas/books/daimonic/chapter1/</loc>
+     <lastmod>2021-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

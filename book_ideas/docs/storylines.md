@@ -1,7 +1,7 @@
 # Storylines
 
 ---
-## StoryLine 1: "Daimon"
+## StoryLine 1: "Daimonic"
 !!! info " "
     _The word "Demon" which we commonly know today, is derived from "Daemon"._
 
@@ -32,6 +32,7 @@ _**None of the old Gods actually were divine though...**_
         1.  Continuance of body refinement (Stage 1) for strength and agility, but a dramatic increase in inherent abilities.
         1.  Psychic & Elemental abilities may begin to cover small groups and have increased potency as well as increased range and frequency.
         1.  Most individuals are killed during this time.
+        1.  Wings emerge after the 5th sub-stage.
     1.  **Stage 3: Spirit**
         1.  Continuance of mind refinement (Stage 2).
         1.  Daimonic Armor begins to get revealed.   
