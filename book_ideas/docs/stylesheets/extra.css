@@ -28,11 +28,12 @@ h2, h3 {
 	line-height: 1.2;
 }
 
-.admonition code{
-	font-size: .75rem;
-	color: red;
+.md-typeset code{
+	font-size: .8rem;
+	color: blue;
 }
 
+/* Centers images */
 img{
 	display: block;
 	margin-left: auto;

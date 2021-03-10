@@ -6,6 +6,9 @@ extra:
     ai_name: Apkallu
     law_officer1: Marshal                   #deceased after chapter 1
     hero_girlfriend: Gwenllian (Gwen) Draoi
+    bus_name: Automated Security Heuristics (Ash) Incorporated
+    bus_app_name: Automated Security Heuristics Learning Environment
+    insurance_client_name: Reagan Addison
 
     badguy_class: Violator
     law_officer_class: Paladin
