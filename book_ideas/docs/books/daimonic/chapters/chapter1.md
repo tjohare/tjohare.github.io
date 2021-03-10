@@ -18,7 +18,7 @@ Hell, what was the worst that could happen?
 
 * * *
 
-![divider](../../assets/divider.png)
+![divider](../../../assets/divider.png)
 
 * * *
 
