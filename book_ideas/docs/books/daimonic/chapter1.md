@@ -24,4 +24,8 @@ Driving a big F-150 truck may not scream wealth, but for {{ extra.daimon.hero }}
 
 "The Vendor and Contractor entrance is in the rear loading dock area,"  said a smug-sounding security guard as {{ extra.daimon.hero }} approached the front entrance.  
 
-"Funny.  You can check my name please.  {{ extra.daimon.hero_fullname }}.  You DO know how to read, yes?"  {{ extra.daimon.hero }} said with a false smile and wide eyes.
+"Funny.  You can check my name please.  {{ extra.daimon.hero_fullname }}.  You DO... know how to read, yes?"  {{ extra.daimon.hero }} said with a false smile and wide eyes  
+
+"Huh, it's on the list.  Congrats on being more than a '+1'.  Have a good night, sir," the guard replied.
+
+_Wow, What a douche canoe_ I think to myself.  I shouldn't be too hard on him though... maybe I can get him a new forehead or some chaste tree berry supplements.   Chaste tree berry was also known as "Monk's pepper" and was used to dampen libido in the Middle Ages.   Don't ask me why I know that or even remember it, I just do.
