@@ -1,11 +1,12 @@
 extra:
   daimon:
     hero: Dominick
+    hero_nickname: Dom
     hero_fullname: Dominick Higant          #"daimonic knight" anagram https://www.anagrammer.com/anagrammer/
-    villain: Donal Fitzgerald
+    villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
     ai_name: Apkallu
     law_officer1: Marshal                   #deceased after chapter 1
-    hero_girlfriend: Gwenllian (Gwen) Draoi
+    hero_girlfriend: Gwenllian (Gwen) Curran  #Irish- small spear from Corraidhin
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment
     insurance_client_name: Reagan Addison
@@ -32,6 +33,8 @@ extra:
     psy_elemental_ultrarare1: Void**    #Not introduced yet
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
+    # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
+    # https://www.irelandbeforeyoudie.com/irish-surnames-top-100-last-names-family-names-ranked/
     # Also Google translate
     clan_name1: Draoi         #irish
     clan_name2: Ezeru         #Sumerian
@@ -42,6 +45,10 @@ extra:
     clan_name7: Tofra         #icelandic
     clan_name8: Hud           #welsh
     clan_name9: Sahir         #Arabic
+    clan_name10: Blackmaw     #Werewolf
+    clan_name11: Incarnatus   #Werewolf
+    clan_name12: Caedis       #Vampire House
+    clan_name14: next         #Vampire House
 
     # See https://www.dndbeyond.com/races
     myth_type1: Angel
@@ -56,5 +63,4 @@ extra:
     myth_type10: Yuan-ti / Snake-Men
     myth_type11: Tiefling
     myth_type12: Goblin
-    ##type13 has been skipped
     myth_type14: Triton
