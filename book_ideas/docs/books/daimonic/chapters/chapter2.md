@@ -24,4 +24,6 @@ Another roar echoed from the combatants, and this time, without looking back, {{
 
 * * *
 
-The scene outside the museum 
+The scene outside the museum was what you'd expect it to be.  One expensive localized disaster.  In some ways, it resembled someone kicking over an ant hill.   The well-dressed patrons and donors and museum staff all running and hustling in multiple directions at once.   The sound of police sirens and fire engines could now be heard off in the background but steadily gaining strength and closing the distance.   {{extra.daimon.hero_nickname}} pulled out his keys, hit the alarm off, and jumped in his truck.  The adrenaline from the escape was now starting to come down and exhaustion was creeping in.   
+
+`OK, Food and Hot shower before I start to really freak out`

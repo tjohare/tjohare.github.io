@@ -72,5 +72,8 @@ One looked something like an armored version of Michael Myers, with his porcelai
 
 Or as I've been routinely texted, from my development staff for staying late in the office, "GTFO {{extra.daimon.hero_nickname}}".
 
-!!! note "1,595 words 9,190 characters"
-!!! tip "the average word count of a chapter typically falls somewhere between 1,500 and 5,000 words, with 3,000–4,000 being the most common sweet spot."
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *

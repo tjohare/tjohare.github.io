@@ -9,6 +9,8 @@ extra_css:
   - 'stylesheets/extra.css'
 extra:
   social:
+    - icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/edward.ohare.jr
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gdistortions
     - icon: fontawesome/brands/instagram
@@ -45,7 +47,7 @@ theme:
     accent: 'deep purple'
   font:
     text: 'Roboto'
-    code: 'Roboto'
+    code: 'Architects Daughter'
 
 #Markdowns
 markdown_extensions:

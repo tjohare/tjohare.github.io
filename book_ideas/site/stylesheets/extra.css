@@ -25,7 +25,6 @@ div.admonition p.admonition-title{
 	text-indent: 0px;
 }
 
-
 /* The admonition box styling */
 .md-typeset .admonition, .md-typeset details{
 	border: .1rem ridge;
@@ -38,7 +37,8 @@ div.admonition p.admonition-title{
 }
 
 .md-typeset code{
-	font-size: .8rem;
+	font-size: .95rem;		/* .7rem for Roboto */
+	font-style: italic;
 	color: blue;
 }
 
