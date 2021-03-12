@@ -34,7 +34,7 @@ Driving a big F-150 truck may not scream wealth, but for {{extra.daimon.hero}}, 
 
 _`Wow, What a douche canoe.`_
 
-I chuckled as I thought to myself.  I shouldn't be too hard on him though... maybe I can get him a new forehead or some chaste tree berry supplements. Random Obscure Fact, Chaste tree berry was also known as "Monk's pepper" and was used to dampen libido in the Middle Ages.   Don't ask me why I know that or even remember it, I just do.
+{extra.daimon.hero}} chuckled as he thought to myself, `I shouldn't be too hard on him though... maybe I can get him a new forehead or some chaste tree berry supplements for his libido`.
 
 I started to work my way through the light crowd and museum layout, looking for {{extra.daimon.insurance_client_name}}, the project manager for the insurance firm and my primary contact on our security application, lovingly named the "_{{extra.daimon.bus_app_name}}_", or ASHLE for short.  The lights inside the museum were dimmed and gentle spotlights showcased some tablet or ceramic pedastal near the walls.  The people there were standing around, some looking at the various pieces and artifacts, others just waiting to be seen and noticed.  Most had a glass of wine or champagne in the hands, and the gentle murmurs provided a constant buzzing.  It was more social than educational with this crowd. Finally, {{extra.daimon.hero}} spotted his target.
 
