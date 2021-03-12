@@ -68,6 +68,9 @@ One looked something like an armored version of Michael Myers, with his porcelai
 
 `This is ridiculous.  I'm never going to a museum again.`
 
-{{extra.daimon.insurance_client_name}} looked at the newcomers with wild eyes and a pronouced sense of bloodlust, breathing heavier and heavier each second; and then he charged.   The werewolf moved to intercept him and the Mike Myers character moved to flank him.  2 versus 1 is not good odds any day of the week, in any situation.  Add to that, that one of the robbers was wielding an axe and the one individual we had on our side seemed to be out of his mind with rage, things looked rather grim.  It was time to look for an exit strategy.  
+{{extra.daimon.insurance_client_name}} looked at the newcomers with wild eyes and a pronouced sense of bloodlust, breathing heavier and heavier each passing second; and then he just charged them.   The werewolf moved to intercept him and the Mike Myers character skirted around the side, appearing to flank him.  2 versus 1 is not good odds any day of the week, in any situation.  Add to that, that one of the robbers was wielding an axe and the one individual we had on our side seemed to be out of his mind with rage, things looked rather grim.  It was time to look for an exit strategy.  
 
-Or as I've been routinely texted from my development staff for staying late in the office, "GTFO {{extra.daimon.hero_nickname}}".
+Or as I've been routinely texted, from my development staff for staying late in the office, "GTFO {{extra.daimon.hero_nickname}}".
+
+!!! note "1,595 words 9,190 characters"
+!!! tip "the average word count of a chapter typically falls somewhere between 1,500 and 5,000 words, with 3,000–4,000 being the most common sweet spot."
