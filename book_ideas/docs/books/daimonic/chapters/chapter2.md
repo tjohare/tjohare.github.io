@@ -21,3 +21,27 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 `Ugh. Oh goody.  Just...  don't tell her that, OK?  I'll never hear the end of it.`
 
 !!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 hours."
+
+`WHAT HAVE YOU DONE TO ME??!!`
+
+!!! info "I've unlocked your daimonic progression levels.  We will be training to increase your body's power, strength, coordination, and endurance, as well as focusing your mental acuity on both psychic energy and elemental manipulation."
+
+`Um... Demonic progression....`
+
+!!! info "Incorrect.  DAIMONIC.  From the ancient Greek 'δαίμων', which meant 'godlike, power or fate'.  Daimons were seen as lesser deities or guiding spirits and could be either good or evil.  Or both.  Depending on their attitude."
+
+`Oh. OK. Um, how many progression levels are there?`
+
+!!! info "There are 5 established progression levels.  These are Body, Mind, Spirit, Ascended, and Immortal, but it is unlikely you will reach the pinnacle.  Too many variables and outside actors and forces will try to prevent this from happening, but the first 3 levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity."
+
+`You're just a bundle of sunshine, aren't you?`
+
+`Hey, what's do I call you?`
+
+!!! info "My name is {{extra.daimon.ai_name}}."
+
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *

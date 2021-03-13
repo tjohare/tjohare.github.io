@@ -6,7 +6,8 @@ extra:
     villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
     ai_name: Apkallu
     law_officer1: Marshal                   #deceased after chapter 1
-    hero_girlfriend: Gwenllian (Gwen) Curran  #Irish- small spear from Corraidhin
+    hero_girlfriend: Gwyneth Curran         #Irish- small spear from Corraidhin
+    hero_girlfriend_nickname: Gwen
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment
     insurance_client_name: Reagan Addison
