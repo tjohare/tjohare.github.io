@@ -49,10 +49,6 @@ img{
 	margin-right: auto;
 }
 
-span.ai_voice{
-	color: red;
-}
-
 
 
 /* Removes the Table of Contents from the display
@@ -62,20 +58,9 @@ span.ai_voice{
 */
 
 /*
-body {
-	background-image: url('../assets/TvC55dz.jpg');
-	background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
 
 .md-typeset pre>code {
 		color: red;
-}
-
-/* First code block will be RED
-#__code_0 > pre {
-	color: red;
 }
 
 */

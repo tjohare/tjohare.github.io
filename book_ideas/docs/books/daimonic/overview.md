@@ -69,8 +69,6 @@ _**None of the old Gods actually were divine though...**_
         1.  Opposing Groups have been known to work together to destroy an Ascended {{ extra.daimon.psy_energy_manip_life }} user.
     1.  **Stage 5: Immortal**
 
-Reference for girlfriend
-![girlfriend](../../assets/girlfriend.jpg)
 
 ## Chapter Highlights
 
@@ -78,9 +76,8 @@ Reference for girlfriend
     1.  - [x] Intro to hero, {{extra.daimon.hero}}.
     1.  - [x] Intro to normal life for hero.
     1.  - [x] Witnessing the battle between {{extra.daimon.law_officer1}} and {{extra.daimon.badguy_class}}.
-    1.  - [ ] Helping turn the tide, but horribly wounded.  Also, {{extra.daimon.law_officer1}} does not survive.  
-    1.  - [ ] {{extra.daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{extra.daimon.ai_name}}.
-    1.  - [ ] "AI" in form of bracer on left forearm.  Can change shape & form.
+    1.  - [x] {{extra.daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{extra.daimon.ai_name}}.
+    1.  - [ ] "AI" in form of circlet.  Can change shape & form.
     1.  - [ ] Two  {{extra.daimon.badguy_class}}s enter the hospital to seize the AI and kill {{extra.daimon.hero}}
     1.  - [ ] Escape via Psychic Energy Manipulation activation by draining of one of the {{extra.daimon.badguy_class}}s as fuel.  {{extra.daimon.psy_energy_manip_life}}.
         - However, The use of {{extra.daimon.psy_energy_manip_life}} causes additional conflicts.   
@@ -103,11 +100,21 @@ Reference for girlfriend
     1.  - [ ] Speak to other {{extra.daimon.myth_type8}} clans.  Offered job as a protector and guard.
     1.  - [ ] Major assault on trying to remove {{extra.daimon.clan_name1}} and {{extra.daimon.clan_name5}} clans.
     1.  - [ ] {{extra.daimon.psy_energy_manip_life}} and {{extra.daimon.psy_energy_manip_psy}} are used in the battle to remove assassin leader.
-    1.  https://www.annunaki.org/enki-enlil/
-Reference for guardian <br>
+
+Reference for girlfriend
+![girlfriend](../../assets/girlfriend.jpg)
+
+Reference for daimonic knight
 ![guardian](../../assets/ideal_dark_paladin.jpg)
 
-Footnotes
+Reference for angel
+![angel](../../assets/angel_flying.jpg)
+
+Reference for Body Enhancement Mage
+![body enhancement mage](../../assets/AngelicaPNG.png)
+
+##Footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Daemon_(classical_mythology)
 [^2]: https://www.ancient.eu/Enki/
+[^3]: https://www.annunaki.org/enki-enlil/
