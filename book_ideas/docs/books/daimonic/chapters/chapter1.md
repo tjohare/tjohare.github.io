@@ -1,4 +1,6 @@
-# Chapter 1
+# Chapter 1 - The Awakening
+
+_[Location: Fort Lauderdale, FL]_
 
 {{extra.daimon.hero}} watched the testing framework run.   The web page after web page were filled out, changed, deleted, and submitted quickly and methodically.  A lot was riding on this test run.   His development team worked on and coded this security application for over a year, and the team was counting on a big win and future requests from the client to stay solvent.  They were a small, young team and every win counted.  After about 20-minutes, it stopped and the Integrated Development Environment (IDE) spit out its report.   15 people crowded around the office monitors, watching the framework run as if it was the last-second, Hail-Mary pass of the Super Bowl.  You could have heard a pin drop.
 
@@ -14,9 +16,9 @@ About six months ago, the number of robberies of high-end art galleries and muse
 
 Now though, he thought, maybe a quick stop off to let the client know that the project was finished was in order.   
 
-_`Damn, I'll have to grab my coat though.  Meh, I've got time`_, he thought.  
+`Damn, I'll have to grab my coat though.  Meh, I've got time.`  
 
-_`Hell, what's the worst that could happen?`_  
+`Hell, what's the worst that could happen?`
 
 * * *
 
@@ -32,11 +34,13 @@ Driving a big F-150 truck may not scream wealth, but for {{extra.daimon.hero}}, 
 
 "Huh, it's on the list.  Congrats on being more than a '+1'.  Have a good night, sir," the guard smugly replied.
 
-_`Wow, What a douche canoe.`_
+`Wow, What a douche canoe.`
 
-{{extra.daimon.hero}} chuckled as he thought to myself, `I shouldn't be too hard on him though... maybe I can get him a new forehead or some chaste tree berry supplements for suppressing his libido`.
+{{extra.daimon.hero}} chuckled as he thought to myself, he thought,
 
-I started to work my way through the light crowd and museum layout, looking for {{extra.daimon.insurance_client_name}}, the project manager for the insurance firm and my primary contact on our security application, lovingly named the "_{{extra.daimon.bus_app_name}}_", or ASHLE for short.  The lights inside the museum were dimmed and gentle spotlights showcased some tablet or ceramic pedastal near the walls.  The people there were standing around, some looking at the various pieces and artifacts, others just waiting to be seen and noticed.  Most had a glass of wine or champagne in the hands, and the gentle murmurs provided a constant buzzing.  It was more social than educational with this crowd. Finally, {{extra.daimon.hero}} spotted his target.
+`I shouldn't be too hard on him though... maybe I can get him a new forehead or some chaste tree berry supplements to suppress his libido.`
+
+I started to work my way through the light crowd and museum layout, looking for {{extra.daimon.insurance_client_name}}, the project manager for the insurance firm and my primary contact on our security application, lovingly named the "{{extra.daimon.bus_app_name}}", or ASHLE for short.  The lights inside the museum were dimmed and gentle spotlights showcased some tablet or ceramic pedastal near the walls.  The people there were standing around, some looking at the various pieces and artifacts, others just waiting to be seen and noticed.  Most had a glass of wine or champagne in the hands, and the gentle murmurs provided a constant buzzing.  It was more social than educational with this crowd. Finally, {{extra.daimon.hero}} spotted his target.
 
 "Good evening, Mr. {{extra.daimon.insurance_client_name}}.  How are you tonight?" asked {{extra.daimon.hero}}.
 
@@ -44,7 +48,11 @@ I started to work my way through the light crowd and museum layout, looking for 
 
 "Actually, we finished tonight.  All tests passing, and all requirements met.  Ahead of schedule too, I might add," replied {{extra.daimon.hero}}.  The soft smile continued.  "I wanted to bring you the good news in person.  All results have been sent to your Board of Directors as well, per your mandate."
 
-"Outstanding news, {{extra.daimon.hero_nickname}}.  This _**does**_ call for a toast."  A 100 mega-watt smile spreads across {{extra.daimon.insurance_client_name}}'s face.  No man should be that pretty.  Quite frankly, it's disheartening.  "There were several Board members and their families watching this very closely, for personal reasons as well as business related.  I suspect your firm will be ridiculously busy going forward."
+"Outstanding news, {{extra.daimon.hero_nickname}}.  This does call for a toast."  A 100 mega-watt smile spreads across {{extra.daimon.insurance_client_name}}'s face.  No man should be that pretty.  The one time {{extra.daimon.hero_nickname}} stopped by his firm's office, he noticed that everyone, LITERALLY everyone, in that office was gorgeous.  Like it was some sort of unspoken corporate requirement for them to be good looking as well as intelligent.  
+
+`Quite frankly, that was disheartening.`
+
+{{extra.daimon.insurance_client_name}} continues speaking, "There were several Board members and their families watching this very closely, for personal reasons as well as business related.  I suspect your firm will be ridiculously busy going forward.  And Rich."
 
 My first thought is, "It's not about the money."  But then, I'm reminded of another ancillary quote, "When someone says 'It's not the money, it's the principle,' nine times out of ten, it's the money."  
 

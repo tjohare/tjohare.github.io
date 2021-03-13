@@ -16,7 +16,9 @@ Another crash resounded around the room, more violent than the last, and {{extra
 
 `What.  The Hell.  Is going on?`
 
-Another roar echoed from the combatants, and this time, without looking back, {{extra.daimon.hero}} moved and continued his escape out the museum.  Presumptively, he thought, `Thank God I drive a tank.`
+Another roar echoed from the combatants, and this time, without looking back, {{extra.daimon.hero}} moved and continued his escape out the museum.  Presumptively, he thought,
+
+`Thank God I drive a tank.`
 
 * * *
 
@@ -24,6 +26,27 @@ Another roar echoed from the combatants, and this time, without looking back, {{
 
 * * *
 
-The scene outside the museum was what you'd expect it to be.  One expensive localized disaster.  In some ways, it resembled someone kicking over an ant hill.   The well-dressed patrons and donors and museum staff all running and hustling in multiple directions at once.   The sound of police sirens and fire engines could now be heard off in the background but steadily gaining strength and closing the distance.   {{extra.daimon.hero_nickname}} pulled out his keys, hit the alarm off, and jumped in his truck.  The adrenaline from the escape was now starting to come down and exhaustion was creeping in.   
+The scene outside the museum was what you'd expect it to be.  One expensive localized disaster.  In some ways, it resembled someone kicking over an ant hill.   The well-dressed patrons and donors and museum staff all running and hustling in multiple directions at once.   The sound of police sirens and fire engines could now be heard off in the background but steadily gaining strength and closing the distance.   {{extra.daimon.hero_nickname}} pulled out his keys, turned the alarm off, and jumped in his truck.  The adrenaline from the escape was now starting to come down and exhaustion was creeping in.   
 
-`OK, Food and Hot shower before I start to really freak out`
+`OK, Food and Hot shower before I start to really freak out.`
+
+{{extra.daimon.hero_nickname}} pulled onto the street and sped away from the scene as fast as he could.  He didn't care about speeding or getting a ticket.   All the attention was focused behind him, with every emergency service vehicle moving in that direction.  
+
+He turned onto Interstate I-95, and started driving northbound, driving virtually on auto-pilot to get home as fast as possible.  Numb, unaware of how much time had passed, he finally walked in the door of his home, and the events of that evening started to reply in his mind.   Grabbing some pemmican bars he kept for hiking out of the pantry, he tore into them, sat down and thought on all that had happened.   
+
+`This is crazy.  Who were those guys?  What did they want?  And ... wait a minute, what the hell happened to that gem I grabbed?`
+
+!!! warning "Daimonic AI bonding complete.  DNA restructuring and manipulation commencing now..."
+
+``` markdown
+  **Hello {{extra.daimon.hero}}.  I hope you prove worthy...**
+```
+
+`What the...`
+
+And {{extra.daimon.hero_nickname}} slipped into oblivion.
+
+
+
+---
+<span class="ai_voice">https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/ test </span>
