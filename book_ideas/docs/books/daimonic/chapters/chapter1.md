@@ -92,7 +92,7 @@ The entire situation, however was a front-and-center, in-your-face, live renditi
 
 {{extra.daimon.insurance_client_name}} was holding his own though, {{extra.daimon.hero}} would give him that.  The werewolf's ax-wielding murder partner couldn't get close to them yet, as {{extra.daimon.insurance_client_name}} used the werewolf as a shield, the couple of times he moved in.  As such, the Mike Myers halloween junkie was waiting patiently for his opportunity to make his strike.  It looked like it was just a matter of time at this point.
 
-With all of the focus on the close combat contestants, some of the museum patrons realized they were being ignored, and started to get up and make a run for the exits.  Some of were uninjured, some were in shock, and others were bleeding from shrapnel or some other type of injury.  It was pure pandemonium.  And still, {{extra.daimon.hero}} watched these combatants fling each other around and try to kill each other.   Something kept him locked in place though, he wasn't afraid per se but he was looking at the fight in a more analytical view, more studious, almost .... judgmental.
+With all of the focus on the close combat contestants, some of the museum patrons realized they were being ignored, and started to get up and make a run for the exits.  Some of were uninjured, some were in shock, and others were bleeding from shrapnel or some other type of injury.  It was pure pandemonium.  And still, {{extra.daimon.hero}} watched these combatants fling each other around and try to kill each other.   Something kept him locked in place though, he wasn't afraid per se but he was looking at the fight in a more analytical view, more studious, almost.... judgmental.
 
 Just then, they crashed into a huge stone relief of one of the winged 'Annunaki', which was one of the ancient Mesopotamian gods.  Stone chunks were flung around the room, and priceless artifacts instantly became dust and debris.  A haze of dust and smoke was starting to fill the room, and {{extra.daimon.hero}} heard a light chime, like some metal or crystal near the floor coming his way.  Catching his eye as it slid toward him, was a large sapphire gem of the deepest royal blue he'd ever seen.
 
@@ -120,13 +120,14 @@ The scene outside the museum was what you'd expect it to be.  One expensive loca
 
 He turned onto Interstate I-95, and started driving northbound, driving virtually on auto-pilot to get home as fast as possible.  After a while, numb, and unaware of how much time had passed, he finally walked in the door of his home, and the events of that evening started to replay in his mind.   Grabbing some Nature Valley and pemmican bars he kept for hiking out of the pantry, he tore into them, sat down and thought on all that had happened tonight.   
 
-`This is crazy.  Who were those guys?  What did they want?  And ...hey, wait a minute, what the hell happened to that gem I grabbed?`
+`This is crazy.  Who were those guys?  What did they want?  And... hey, wait a minute, what the hell happened to that gem I grabbed?`
 
 !!! warning "Daimonic AI bonding complete.  DNA restructuring and gene therapy commencing now..."
 
-``` markdown
-  **Hello {{extra.daimon.hero}}.  I hope you prove worthy...**
-```
+Pain wracked through his entire body.  Everything felt as if it was on fire.  His stomach violently twisted and he felt as if he was going to retch, throwing up his stomach contents.   But a smooth deep voice dominated this mind.
+
+!!! info "Hello {{extra.daimon.hero}}.  I hope you prove worthy..."
+
 
 `What ...`
 

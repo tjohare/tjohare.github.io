@@ -39,7 +39,7 @@ div.admonition p.admonition-title{
 .md-typeset code{
 	font-size: .95rem;		/* .7rem for Roboto */
 	font-style: italic;
-	color: blue;
+	color: grey;
 }
 
 /* Centers images */
@@ -49,10 +49,9 @@ img{
 	margin-right: auto;
 }
 
-span.ai_voice{
-	color: red;
+span.ai{
+	color: blue;
 }
-
 
 
 /* Removes the Table of Contents from the display
@@ -62,20 +61,13 @@ span.ai_voice{
 */
 
 /*
-body {
-	background-image: url('../assets/TvC55dz.jpg');
-	background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
 
 .md-typeset pre>code {
 		color: red;
 }
 
-/* First code block will be RED
-#__code_0 > pre {
-	color: red;
+.highlight .ge, .highlight .gh, .highlight .go, .highlight .gp, .highlight .gr, .highlight .gs, .highlight .gt, .highlight .gu {
+	color: blue;
 }
 
 */

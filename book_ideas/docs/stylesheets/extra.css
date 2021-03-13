@@ -39,7 +39,7 @@ div.admonition p.admonition-title{
 .md-typeset code{
 	font-size: .95rem;		/* .7rem for Roboto */
 	font-style: italic;
-	color: blue;
+	color: grey;
 }
 
 /* Centers images */
@@ -49,6 +49,9 @@ img{
 	margin-right: auto;
 }
 
+span.ai{
+	color: blue;
+}
 
 
 /* Removes the Table of Contents from the display
@@ -61,6 +64,10 @@ img{
 
 .md-typeset pre>code {
 		color: red;
+}
+
+.highlight .ge, .highlight .gh, .highlight .go, .highlight .gp, .highlight .gr, .highlight .gs, .highlight .gt, .highlight .gu {
+	color: blue;
 }
 
 */
