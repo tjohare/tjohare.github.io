@@ -128,6 +128,6 @@ He turned onto Interstate I-95, and started driving northbound, driving virtuall
   **Hello {{extra.daimon.hero}}.  I hope you prove worthy...**
 ```
 
-`What the...`
+`What ...`
 
 And {{extra.daimon.hero_nickname}} slipped into oblivion.

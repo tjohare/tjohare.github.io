@@ -77,7 +77,7 @@ _**None of the old Gods actually were divine though...**_
     1.  - [x] Intro to normal life for hero.
     1.  - [x] Witnessing the battle between {{extra.daimon.law_officer1}} and {{extra.daimon.badguy_class}}.
     1.  - [x] {{extra.daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{extra.daimon.ai_name}}.
-    1.  - [ ] "AI" in form of circlet.  Can change shape & form.
+    1.  - [ ] "AI" in form of Necklace.  Can change shape & form.
     1.  - [ ] Two  {{extra.daimon.badguy_class}}s enter the hospital to seize the AI and kill {{extra.daimon.hero}}
     1.  - [ ] Escape via Psychic Energy Manipulation activation by draining of one of the {{extra.daimon.badguy_class}}s as fuel.  {{extra.daimon.psy_energy_manip_life}}.
         - However, The use of {{extra.daimon.psy_energy_manip_life}} causes additional conflicts.   
