@@ -12,7 +12,7 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 `Sort of.  You sure I'm not crazy?`
 
-!!! info "Yes I'm sure.  I am an artificial entity created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the bloodline were hidden for years, even when Enki and his brother were still here, because to many others feared their power.  Enki was a little... vigorous when it came to having kids."
+!!! info "Yes I'm sure.  I am an artificial entity created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the bloodline were hidden for years, even when Enki and his brother were still here, because too many others feared their power.  Enki was a little... vigorous when it came to having kids."
 
 `So, what's my potential?  Well, I mean, my mom always said that my potential was hidden deep down and you won't really know your potential unless you push yourself in the face of adversity.`
 
@@ -30,13 +30,21 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "Incorrect.  DAIMONIC.  From the ancient Greek 'δαίμων', which meant 'godlike, power or fate'.  Daimons were seen as lesser deities or guiding spirits and could be either good or evil.  Or both.  Depending on their attitude."
 
+`OK, we'll be training.   Um, why do we need to train?  And what about the mental focusing something...?`
+
+!!! info "Correct.  We train so you are not killed by other Daimonic individual who are afraid of you.  Or what you will become. I mentioned this earlier?  Regardless, the mental aspects are the Psychic Energy and Elemental Manipulation skills."
+
+`So I have magic or something now?`
+
+!!! info "No, you have the ability to psychically interact with various Nanites that have been injected into your bloodstream.  The nanites are what's used for the DNA restructuring, as well as manipulating various energy frequencies.  Your body and system are creating more and more nanites as we speak.  That is some of the replication that is still ongoing.  And will be for some time."
+
 `Oh. OK. Um, how many progression levels are there?`
 
-!!! info "There are 5 established progression levels.  These are Body, Mind, Spirit, Ascended, and Immortal, but it is unlikely you will reach the pinnacle.  Too many variables and outside actors and forces will try to prevent this from happening, but the first 3 levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity."
+!!! info "There are 5 established and recognized progression or refinement levels, with approximately 10 sub-stages per level.  These are Body, Mind, Spirit, Ascended, and Immortal, but it is unlikely you will reach the pinnacle in levels.  Too many outside variables and hostile actors and forces will try to prevent this from happening, but the first 3 levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity.  And you aren't killed."
 
 `You're just a bundle of sunshine, aren't you?`
 
-`Hey, what's do I call you?`
+`Hey, what do I call you?`
 
 !!! info "My name is {{extra.daimon.ai_name}}."
 
@@ -45,3 +53,5 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 ![divider](../../../assets/divider.png)
 
 * * *
+
+After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.

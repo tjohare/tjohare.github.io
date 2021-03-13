@@ -6,7 +6,7 @@ _[Location: Fort Lauderdale, FL]_
 
 !!! Success "Application performing as expected for all tests.  No errors found."
 
-Quiet cheers, a couple of high-fives, and smiles were given all around.  The collective sigh of relief was palpable.  Mary Addison, the lead developer and one of my good friends specifically recruited for this effort, actually started to cry.   
+Quiet cheers, a couple of high-fives, and smiles were given all around.  The collective sigh of relief was palpable.  Mary {{extra.daimon.clan_name4}}, the lead developer and one of my good friends specifically recruited for this effort, actually started to cry.   
 
 "OK folks, lets get this code locked down, checked in, and sent out to the customer.  First round is on me."  {{extra.daimon.hero}} said with a smile to the team.  
 
