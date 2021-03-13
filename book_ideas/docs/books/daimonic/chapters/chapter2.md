@@ -54,4 +54,46 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 * * *
 
-After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.
+After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was ok, she'd want to make sure he was ok and everything.   
+
+"Mary here, {{extra.daimon.hero_nickname}}, is that you?  You OK?"
+
+"Hey Mary, I'm good, not hurt.  Just... really messed up mentally on what happened the other night.   I crashed unbelievably hard.  I think my body needed it.  Sorry I didn't contact you sooner.   I think I just needed time.   ...Still do if I'm being honest," {{extra.daimon.hero_nickname}} replied with a heavy sigh.
+
+"I'll let everyone here know you're ok.  We're glad you're not hurt, {{extra.daimon.hero_nickname}}.  Are you gonna go talk to a therapist or something?  I know I would need one."
+
+"You just like to talk to people.  ...Actually Mary, I think I'm gonna take a break for a bit.  I saw some things that I'm having a hard time with.  I think I'm gonna take a leave of absence.  Take some time for myself.  Clear some things up."  {{extra.daimon.hero_nickname}} paused.  "The application should be good to go, and I'm leaving the rest of it in your hands.  You're in charge, Mary.  I'll send an email or something to that effect so our staff and clients know."
+
+"No worries {{extra.daimon.hero_nickname}}.  Just remember how much I took care of you during my performance review."
+
+"Oh you're getting a nice fat raise, Mary.  I'll email payroll right after this call to make it official as well."
+
+"Take care of yourself {{extra.daimon.hero_nickname}}, and call us if you need anything." After an extended pause, "I, um, might have family that understands some of what you're going through, if you need a non-medical person to speak to."
+
+"I doubt it Mary, but thanks for looking out for me.  Call you soon."  {{extra.daimon.hero}} hung up.
+
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *
+
+`{{extra.daimon.ai_name}}, you there?`
+
+!!! info "I will always be here {{extra.daimon.hero_nickname}}.  How can I help you?"
+
+`We discussed training.  What do we need to do?  What's the plan?  DO YOU... have a plan?`
+
+!!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location for this?"
+
+`Maybe... We used to have a time-share near Grand Lake, Colorado.  It's really nice and quiet, very private but expensive to stay there.`
+
+!!! info "That is not a problem.  Once we have enough control over our elemental manipulation and have sufficient energy reserves to start converting base metals, most of our issues should be resolved very quickly.  At least financially."
+
+`Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?`
+
+!!! info "Yes.  Or Palladium, or Rhodium, or anything really.  Although inert transition metals are easier to convert.  Less taxing energy wise.  But that's going to take a couple of weeks to get there."
+
+`OK, I can do this.  I'll call and book the house now.  Nobody is there this time of year.  Too cold during the winter.`
+
+!!! info "Also, I suggest driving there.  It gives us more options, allows for us to hide, if we are discovered.  Being stuck in a flying tube does not seem particularly safe to me."
