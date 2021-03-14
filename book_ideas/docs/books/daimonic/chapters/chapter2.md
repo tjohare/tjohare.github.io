@@ -54,9 +54,9 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 * * *
 
-After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was ok, she'd want to make sure he was ok and everything.   
+After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was not bleeding out, she'd want to hear from him and make sure he was ok and everything.
 
-"Mary here, {{extra.daimon.hero_nickname}}, is that you?  You OK?"
+"Mary here, ...{{extra.daimon.hero_nickname}}, is that you?  Are you OK?"
 
 "Hey Mary, I'm good, not hurt.  Just... really messed up mentally on what happened the other night.   I crashed unbelievably hard.  I think my body needed it.  Sorry I didn't contact you sooner.   I think I just needed time.   ...Still do if I'm being honest," {{extra.daimon.hero_nickname}} replied with a heavy sigh.
 
@@ -70,7 +70,7 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 "Take care of yourself {{extra.daimon.hero_nickname}}, and call us if you need anything." After an extended pause, "I, um, might have family that understands some of what you're going through, if you need a non-medical person to speak to."
 
-"I doubt it Mary, but thanks for looking out for me.  Call you soon."  {{extra.daimon.hero}} hung up.
+"I really doubt that Mary, but thanks for looking out for me.  Call you soon."  And with that, {{extra.daimon.hero}} hung up.
 
 * * *
 
@@ -97,3 +97,47 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 `OK, I can do this.  I'll call and book the house now.  Nobody is there this time of year.  Too cold during the winter.`
 
 !!! info "Also, I suggest driving there.  It gives us more options, allows for us to hide, if we are discovered.  Being stuck in a flying tube does not seem particularly safe to me."
+
+`Me neither, bud.  Me neither.`
+
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *
+
+_[Location: Grand Lake, Colorado]_
+
+After nearly 3 days of driving, {{extra.daimon.hero}} arrived at the rental home in Colorado.   While Grand Lake itself was considered a tourist destination during the summer months, during the winter it tended to be more locals.   However, {{extra.daimon.hero}}'s family had lived there quite a bit over the years.  It shouldn't be a problem for him. It only tapered off after {{extra.daimon.hero_nickname}}'s father passed away 3 years earlier.  The house was decently sized and had no immediate neighbors to either side, but a truck and a boat for supplies was an absolute must for using the house.
+
+Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery store was very small, so he stopped in Granby to pick up most of the food supplies he'd need.  Well stocked and finally situated, {{extra.daimon.hero_nickname}} assessed the situation, and settled in.
+
+!!! info "This should work well.  The area has limited access to humans, and plenty of wood, earth, and water elements for manipulation.  Additionally, fire manipulation would benefit us against the cold weather.  Plenty of food, decent shelter, and privacy.  Yes, this should be more than adequate."
+
+`You can get a little creepy my friend.   Let's not get crazy yet.  Ease into the training, yes?  And I'm still human, thank you very much.`
+
+!!! info "Take my word on this.  You are NOT entirely human anymore."
+
+`Not sure I believe you...`
+
+!!! info "I find your lack of faith... disturbing."
+
+`Star Wars quote?  Seriously?  HOW?`
+
+!!! info "The museum had decent wi-fi..."
+
+`OK, so what's first?`
+
+!!! info "Now, this is where you should be able to excel past your contemporaries here, with me as your teacher.  I am going to show you past memories of ancient warlords and weapon masters.  Then we copy them for now.   This, along with some physical conditioning will start us off.  Every morning before sunrise til noon.  Some refreshments, then working on elemental code constructs in the afternoon and early even-"
+
+`Wait!  wait, wait, code constructs?`
+
+!!! info "Yes, we'll needing to do some coding in order to control the nanites to act as we wish.  Encapsulation, Abstraction, Inheritance, Polymorphism... This seemed an area where you might be the most comfortable, was I wrong?"
+
+`No, I just didn't expect software coding translated to Magic.   That's kinda cool.`
+
+!!! info "sigh, Coding is not magic.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions."
+
+`I am so going to code me some fireballs.  Ooo, maybe some lightning bolts.`
+
+!!! info "It's all fun and games until someone loses an eye."
