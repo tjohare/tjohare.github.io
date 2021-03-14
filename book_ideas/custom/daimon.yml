@@ -20,11 +20,12 @@ extra:
     psy_energy_shield: Shield / Warding
     psy_energy_healing: Healing
 
-    psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Crystal, and Metal
+    psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Nature, Crystal, and Metal
     psy_elemental_common1: Air
     psy_elemental_common2: Earth
     psy_elemental_common3: Fire
     psy_elemental_common4: Water
+    psy_elemental_common5: Nature
     psy_elemental_uncommon1: Metal
     psy_elemental_uncommon2: Smoke**    #Not introduced yet
     psy_elemental_uncommon3: Acid**     #Not introduced yet

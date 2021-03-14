@@ -110,7 +110,7 @@ _[Location: Grand Lake, Colorado]_
 
 After nearly 3 days of driving, {{extra.daimon.hero}} arrived at the rental home in Colorado.   While Grand Lake itself was considered a tourist destination during the summer months, during the winter it tended to be more locals.   However, {{extra.daimon.hero}}'s family had lived there quite a bit over the years.  It shouldn't be a problem for him. It only tapered off after {{extra.daimon.hero_nickname}}'s father passed away 3 years earlier.  The house was decently sized and had no immediate neighbors to either side, but a truck and a boat for supplies was an absolute must for using the house.
 
-Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery store was very small, so he stopped in Granby to pick up most of the food supplies he'd need.  Well stocked and finally situated, {{extra.daimon.hero_nickname}} assessed the situation, and settled in.
+Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery store was very small, so he stopped in Granby to pick up most of the food supplies he'd need.  Well stocked and finally settled in, {{extra.daimon.hero_nickname}} assessed the situation.
 
 !!! info "This should work well.  The area has limited access to humans, and plenty of wood, earth, and water elements for manipulation.  Additionally, fire manipulation would benefit us against the cold weather.  Plenty of food, decent shelter, and privacy.  Yes, this should be more than adequate."
 
@@ -118,26 +118,67 @@ Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery sto
 
 !!! info "Take my word on this.  You are NOT entirely human anymore."
 
-`Not sure I believe you...`
+`Not sure I believe that... I mean, I know I can do some things now, but I don't feel any different.`
 
 !!! info "I find your lack of faith... disturbing."
 
-`Star Wars quote?  Seriously?  HOW?`
+`Star Wars quote?  Seriously?  HOW?`  He groaned.
 
 !!! info "The museum had decent wi-fi..."
 
-`OK, so what's first?`
+Sighing, `OK, so what's first?`
 
-!!! info "Now, this is where you should be able to excel past your contemporaries here, with me as your teacher.  I am going to show you past memories of ancient warlords and weapon masters.  Then we copy them for now.   This, along with some physical conditioning will start us off.  Every morning before sunrise til noon.  Some refreshments, then working on elemental code constructs in the afternoon and early even-"
+!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.   This, along with some physical conditioning will start us off.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
 
-`Wait!  wait, wait, code constructs?`
+`Wait!  wait, wait, code constructs?`  Wide-eyed, {{extra.daimon.hero_nickname}} whispered in awe.
 
-!!! info "Yes, we'll needing to do some coding in order to control the nanites to act as we wish.  Encapsulation, Abstraction, Inheritance, Polymorphism... This seemed an area where you might be the most comfortable, was I wrong?"
+!!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  Its your nanites and psychic potential that enable you manipulate the environment.  You do remember Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
 
-`No, I just didn't expect software coding translated to Magic.   That's kinda cool.`
+`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... kinda cool.`  {{extra.daimon.hero_nickname}} said with a big smile.
 
-!!! info "sigh, Coding is not magic.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions."
+!!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest form."
 
-`I am so going to code me some fireballs.  Ooo, maybe some lightning bolts.`
+`I am sooo gonna code me some fireballs.  Ooo, maybe some lightning bolts.`
 
-!!! info "It's all fun and games until someone loses an eye."
+!!! info "It's all fun and training until someone loses an eye."
+
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *
+
+For four days, the routine did not falter.   {{extra.daimon.ai_name}} made sure {{extra.daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
+
+The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{extra.daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  Growing up, his father had been a 4th degree black belt in Tang Soo Do, but {{extra.daimon.hero_nickname}} never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to the new forms {{extra.daimon.ai_name}} was teaching him, very quickly.
+
+The first exercise, and the foundation for most other psychic abilities was the manifestation and pushing out of pure energy, which, later on, could be used for general healing and creating shields.  He was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+
+Fortunately, with {{extra.daimon.ai_name}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental types.
+
+He starting with the fire element, he called it to him and pooled a small amount within his palm.   Then he 'pushed' or threw the energy toward a target.   Once he hit his target with one element, he would rotate onto another element, running through each elemental sphere as they were; {{extra.daimon.psy_elemental_list_all}}.
+
+It was the fifth day, where they revisited some of the pure energy concepts.   
+
+!!! info "Today, we'll be covering new ground and discussing 'why' we did touch healing or shielding"
+
+`OK, I was wondering about that.  What new ground are we covering?`
+
+!!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Not even all.  What we would need to do is provide a 'constant flow' of energy to the healing target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
+
+`So we can make how much we heal... variable,` {{extra.daimon.hero_nickname}} replied deep in thought.
+
+!!! info "Channeling however, is also the fastest way to completely drain you of energy.  And leave you completely vulnerable.  Hence, it's taught with an abundance of more caution.  More of our kind has been killed or enslaved due to being energy deficient than any other action."
+
+`Makes sense.`  He replied with a smirk.  
+
+!!! info "We'll add channeling to the training regimen for all your elemental affinities.  Now, some pin pricks or repeated exacto-blade cuts on your hand and forearms should be sufficient to practice your healing abilities."
+
+Rolling his eyes, {{extra.daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.`
+
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *
+!!! example "2,088 words 11,963 characters"

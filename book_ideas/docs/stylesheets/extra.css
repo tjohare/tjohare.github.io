@@ -39,7 +39,7 @@ div.admonition p.admonition-title{
 .md-typeset code{
 	font-size: .95rem;		/* .7rem for Roboto */
 	font-style: italic;
-	color: grey;
+	color: blue;
 }
 
 /* Centers images */

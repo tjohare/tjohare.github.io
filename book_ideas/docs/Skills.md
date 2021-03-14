@@ -25,6 +25,7 @@
         * Ice
     * Light
         * Darkness (Shadow)
+    * Nature
 
 
 ### Psychic Energy Manipulation

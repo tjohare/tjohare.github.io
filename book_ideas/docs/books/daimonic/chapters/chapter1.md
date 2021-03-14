@@ -50,7 +50,7 @@ I started to work my way through the light crowd and museum layout, looking for 
 
 "Outstanding news, {{extra.daimon.hero_nickname}}.  This does call for a toast."  A 100 mega-watt smile spreads across {{extra.daimon.insurance_client_name}}'s face.  No man should be that pretty.  The one time {{extra.daimon.hero_nickname}} stopped by his firm's office, he noticed that everyone, LITERALLY everyone, in that office was gorgeous.  Like it was some sort of unspoken corporate requirement for them to be good looking as well as intelligent.  
 
-`Quite frankly, that was disheartening.`
+`No shot at finding a girlfriend here.  Quite frankly, it's disheartening.`
 
 {{extra.daimon.insurance_client_name}} continues speaking, "There were several Board members and their families watching this very closely, for personal reasons as well as business related.  I suspect your firm will be ridiculously busy going forward.  And Rich."
 
@@ -132,3 +132,5 @@ Pain wracked through his entire body.  Everything felt as if it was on fire.  Hi
 `What ...`
 
 And {{extra.daimon.hero_nickname}} slipped into oblivion.
+
+!!! example "2,427 words 14,052 characters"
