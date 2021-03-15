@@ -8,6 +8,8 @@ extra:
     law_officer1: Marshal                   #deceased after chapter 1
     hero_girlfriend: Gwyneth Curran         #Irish- small spear from Corraidhin
     hero_girlfriend_nickname: Gwen
+    hero_bestfriend_angel_fn: Micaela
+    hero_bestfriend_angel_brother: Malach
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment
     insurance_client_name: Reagan Addison
@@ -50,7 +52,8 @@ extra:
     clan_name11: Incarnatus   #Werewolf
     clan_name12: Caedis       #Vampire House
     clan_name13: Nex          #Vampire House
-    clan_name14: Silversteel  #Angelic Paladin House (small, wings only)
+    clan_name14: Silversteel  #Angelic Paladin House
+    clan_name15: Brightwing   #Angelic Paladin House
 
     # See https://www.dndbeyond.com/races
     myth_type1: Angelic

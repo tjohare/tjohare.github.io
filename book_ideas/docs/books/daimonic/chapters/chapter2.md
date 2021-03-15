@@ -174,7 +174,7 @@ It was the fifth day, where they revisited some of the pure energy concepts.
 
 !!! info "We'll add channeling to the training regimen for all your elemental affinities.  Now, some pin pricks or repeated exacto-blade cuts on your hand and forearms should be sufficient to practice your healing abilities."
 
-Rolling his eyes, {{extra.daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.`
+Rolling his eyes, {{extra.daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.  I'm probably gonna need to go pick up some extra bandages, just in case.`
 
 * * *
 
