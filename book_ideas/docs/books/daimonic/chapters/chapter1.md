@@ -133,4 +133,8 @@ Pain wracked through his entire body.  Everything felt as if it was on fire.  Hi
 
 And {{extra.daimon.hero_nickname}} slipped into oblivion.
 
-!!! example "2,427 words 14,052 characters"
+* * *
+
+![divider](../../../assets/divider.png)
+
+* * *

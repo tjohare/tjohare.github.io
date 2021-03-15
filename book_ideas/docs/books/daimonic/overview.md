@@ -113,6 +113,12 @@ Reference for angel
 Reference for Body Enhancement Mage
 ![body enhancement mage](../../assets/AngelicaPNG.png)
 
+![angel resplendent](../../assets/avacyn.png)
+
+![angel badass](../../assets/Warrior_angel_badass.jpg)
+
+
+
 ##Footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Daemon_(classical_mythology)

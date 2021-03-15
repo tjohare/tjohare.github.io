@@ -12,13 +12,17 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 `Sort of.  You sure I'm not crazy?`
 
-!!! info "Yes I'm sure.  I am an artificial entity created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the bloodline were hidden for years, even when Enki and his brother were still here, because too many others feared their power.  Enki was a little... vigorous when it came to having kids."
+!!! info "Yes I am sure.  I am an artificial entity created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the bloodline were hidden for years, even when Enki and his brother were still here, because too many others feared their power.  Enki was a little... vigorous when it came to having kids."
 
-`So, what's my potential?  Well, I mean, my mom always said that my potential was hidden deep down and you won't really know your potential unless you push yourself in the face of adversity.`
+`Who's Enki?  What's an Enki, that's a weird name.  Wait, "Descendants"....are you saying I'm related, like my great grandfather or something?`
+
+!!! info "Yes, but for who he is, we can discuss that later on.   Right now, we have to focus on developing out your potential.  Which is significant, and you will be noticed very quickly.  There are many who would want to control you or be with you."
+
+`OK, So, what's my potential?  Well, I mean, my mom always said that my potential was hidden deep down and you won't really know your potential unless you push yourself in the face of adversity.`
 
 !!! info "Your mother was absolutely correct."
 
-`Ugh. Oh goody.  Just...  don't tell her that, OK?  I'll never hear the end of it.`
+`Ugh. Just...  don't tell her that, OK?  I'll never hear the end of it,` he grumbled.
 
 !!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 hours."
 
@@ -78,25 +82,25 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 * * *
 
-`{{extra.daimon.ai_name}}, you there?`
+`{{extra.daimon.ai_nickname}}, you there?`
 
-!!! info "I will always be here {{extra.daimon.hero_nickname}}.  How can I help you?"
+!!! info "I will always be here {{extra.daimon.hero}}.  Have you shortened my name now?  A gesture of familiarity and friendship?  How can I help you {{extra.daimon.hero_nickname}}?"
 
-`We discussed training.  What do we need to do?  What's the plan?  DO YOU... have a plan?`
+`{{extra.daimon.ai_nickname}} feels more natural for me.  So, back on point, we discussed training.  What do we need to do?  What's the plan?  Do YOU have a plan?`
 
 !!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location for this?"
 
-`Maybe... We used to have a time-share near Grand Lake, Colorado.  It's really nice and quiet, very private but expensive to stay there.`
+`Maybe... We used to have a time-share near Grand Lake, Colorado.  It's really nice and quiet, especially during the winter months.  Very private but expensive to stay there.`
 
 !!! info "That is not a problem.  Once we have enough control over our elemental manipulation and have sufficient energy reserves to start converting base metals, most of our issues should be resolved very quickly.  At least financially."
 
-`Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?`
+`Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?` {{extra.daimon.hero_nickname}} replied wide-eyed and excitedly.
 
 !!! info "Yes.  Or Palladium, or Rhodium, or anything really.  Although inert transition metals are easier to convert.  Less taxing energy wise.  But that's going to take a couple of weeks to get there."
 
-`OK, I can do this.  I'll call and book the house now.  Nobody is there this time of year.  Too cold during the winter.`
+`OK, I can do this.  I'll call and book the house now.  Nobody is usually there.  Too cold the first of the year.`
 
-!!! info "Also, I suggest driving there.  It gives us more options, allows for us to hide, if we are discovered.  Being stuck in a flying tube does not seem particularly safe to me."
+!!! info "Also, I suggest driving there.  It gives us more options, allows for us to hide or react appropriately, if we are discovered.  Being stuck in a flying tube does not seem particularly safe to me."
 
 `Me neither, bud.  Me neither.`
 
@@ -128,13 +132,13 @@ Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery sto
 
 Sighing, `OK, so what's first?`
 
-!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.   This, along with some physical conditioning will start us off.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
+!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.   This, along with some physical conditioning will start us on the Physical Enhancement Path.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
 
 `Wait!  wait, wait, code constructs?`  Wide-eyed, {{extra.daimon.hero_nickname}} whispered in awe.
 
-!!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  Its your nanites and psychic potential that enable you manipulate the environment.  You do remember Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
+!!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  Its your nanites and psychic potential that enable you manipulate the environment.  You do remember how to do Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
 
-`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... kinda cool.`  {{extra.daimon.hero_nickname}} said with a big smile.
+`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... wicked cool.`  {{extra.daimon.hero_nickname}} said with a big smile.
 
 !!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest form."
 
@@ -148,27 +152,31 @@ Sighing, `OK, so what's first?`
 
 * * *
 
-For four days, the routine did not falter.   {{extra.daimon.ai_name}} made sure {{extra.daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
+For the first six days, the routine did not falter.   {{extra.daimon.ai_nickname}} made sure {{extra.daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
 
-The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{extra.daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  Growing up, his father had been a 4th degree black belt in Tang Soo Do, but {{extra.daimon.hero_nickname}} never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to the new forms {{extra.daimon.ai_name}} was teaching him, very quickly.
+First, they worked on strengthening his body overall, or as {{extra.daimon.ai_nickname}} called it, The Physical Enhancement Path, separate from the Body Progression Levels {{extra.daimon.ai_nickname}} discussed earlier.
 
-The first exercise, and the foundation for most other psychic abilities was the manifestation and pushing out of pure energy, which, later on, could be used for general healing and creating shields.  He was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{extra.daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused one pushing his nanites and his energy to help his body grow stronger, faster.  
 
-Fortunately, with {{extra.daimon.ai_name}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental types.
+Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{extra.daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{extra.daimon.ai_nickname}} was teaching him, very quickly.
 
-He starting with the fire element, he called it to him and pooled a small amount within his palm.   Then he 'pushed' or threw the energy toward a target.   Once he hit his target with one element, he would rotate onto another element, running through each elemental sphere as they were; {{extra.daimon.psy_elemental_list_all}}.
+The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  {{extra.daimon.ai_nickname}} called this the Energy Enhancement Path.   It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
 
-It was the fifth day, where they revisited some of the pure energy concepts.   
+Fortunately, with {{extra.daimon.ai_nickname}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
 
-!!! info "Today, we'll be covering new ground and discussing 'why' we did touch healing or shielding"
+{{extra.daimon.hero_nickname}} starting with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{extra.daimon.psy_elemental_list_all}}.
+
+It was the seventh day, where they revisited some of the pure energy concepts.   
+
+!!! info "Today, we'll be covering new ground and discussing 'why' we did not touch healing or shielding."
 
 `OK, I was wondering about that.  What new ground are we covering?`
 
-!!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Not even all.  What we would need to do is provide a 'constant flow' of energy to the healing target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
+!!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Not even all of it.  What we would need to do is provide a 'constant flow' of pure healing energy to the target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
 
 `So we can make how much we heal... variable,` {{extra.daimon.hero_nickname}} replied deep in thought.
 
-!!! info "Channeling however, is also the fastest way to completely drain you of energy.  And leave you completely vulnerable.  Hence, it's taught with an abundance of more caution.  More of our kind has been killed or enslaved due to being energy deficient than any other action."
+!!! info "Channeling however, is also the fastest way to completely drain you of energy.  And leave you completely weak and vulnerable.  Hence, it's taught with an abundance of more caution.  More of our kind has been killed or enslaved due to being energy deficient than any other action."
 
 `Makes sense.`  He replied with a smirk.  
 
@@ -181,4 +189,3 @@ Rolling his eyes, {{extra.daimon.hero_nickname}} thought, `Great.  I'm pretty su
 ![divider](../../../assets/divider.png)
 
 * * *
-!!! example "2,088 words 11,963 characters"
