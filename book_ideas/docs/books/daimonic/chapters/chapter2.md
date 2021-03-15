@@ -160,7 +160,7 @@ The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{e
 
 Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{extra.daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{extra.daimon.ai_nickname}} was teaching him, very quickly.
 
-The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  {{extra.daimon.ai_nickname}} called this the Energy Enhancement Path.   It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  {{extra.daimon.ai_nickname}} called this the Elemental Enhancement Path.   It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
 
 Fortunately, with {{extra.daimon.ai_nickname}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
 
