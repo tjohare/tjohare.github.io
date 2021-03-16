@@ -5,7 +5,7 @@ extra:
     hero_fullname: Dominick Higant          #"daimonic knight" anagram https://www.anagrammer.com/anagrammer/
     villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
     ai_name: Apkallu
-    ai_nickname: Kal 
+    ai_nickname: Kal
     law_officer1: Marshal                   #deceased after chapter 1
     hero_girlfriend: Gwyneth Curran         #Irish- small spear from Corraidhin
     hero_girlfriend_nickname: Gwen
@@ -14,6 +14,10 @@ extra:
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment
     insurance_client_name: Reagan Addison
+
+    #Unused first names
+    # Cael Gabriel Javan Raphael
+    # Evangeline Lailah Melek Tien 
 
     badguy_class: Violator
     law_officer_class: Paladin
@@ -54,7 +58,11 @@ extra:
     clan_name12: Caedis       #Vampire House
     clan_name13: Nex          #Vampire House
     clan_name14: Silversteel  #Angelic Paladin House
-    clan_name15: Brightwing   #Angelic Paladin House
+    clan_name15: Goldwing     #Angelic Paladin House
+    clan_name16: Brightblade
+    clan_name17: Whitespear
+    clan_name18: Heartshield
+
 
     # See https://www.dndbeyond.com/races
     myth_type1: Angelic

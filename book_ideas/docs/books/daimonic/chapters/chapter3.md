@@ -1,4 +1,4 @@
-# Chapter 3 - Pride and prejudice
+# Chapter 3 - Pride & Prejudice
 
 _[Location: Grand Lake, Colorado; {{extra.daimon.hero_bestfriend_angel_fn}}'s POV]_
 
@@ -101,15 +101,17 @@ Staring at {{extra.daimon.hero_nickname}} wide eyed, she finally shrieked, "YOU 
 
 That statement seemed to deflate her, and she sank down in her chair.  A sense of finality and despair seemed to engulf her.  After a few seconds, she whispered, "They are going to take it out on me when you leave."  
 
-{{extra.daimon.hero_nickname}} reached out and touched where {{extra.daimon.hero_bestfriend_angel_brother}} back handed her.   Pushing healing energy into her face, {{extra.daimon.hero_nickname}} replied, "You are not alone.  If you need friend, I'm staying at the old 'Higant' house on the lake."  Then softly added, "And I don't have any friends like us."
+{{extra.daimon.hero_nickname}} reached out and touched where {{extra.daimon.hero_bestfriend_angel_brother}} back handed her.   Pushing healing energy into her face, {{extra.daimon.hero_nickname}} replied, "You are not alone.  If you need friend, I'm staying at the old 'Higant' house on the lake."  Then softly added, "And I don't have any friends, not like us."
 
-Awe and wonder dominated {{extra.daimon.hero_bestfriend_angel_fn}}'s face.  She couldn't believe what just happened, with someone standing up to her brother.  Even more shocking, he was a healer.  There hadn't been a healer since she could remember.  It had to have been generations.   
+{{extra.daimon.hero_nickname}} smiled, turned, and walked out the store's front door.  
 
-She didn't know what her clan would do.   Would they seek to revenge for {{extra.daimon.hero_bestfriend_angel_brother}}'s humiliation?  Or would they seek to aid him, and tie him to the clan as a healer?  
+Awe and wonder dominated {{extra.daimon.hero_bestfriend_angel_fn}}'s face.  She couldn't believe what just happened, with someone standing up to her brother.  Standing up for her.  Even more shocking, he was a healer.  There hadn't been a healer since she could remember.  It had to have been generations since the last healer.   
+
+She didn't know what her clan would do.   Would they seek revenge for {{extra.daimon.hero_bestfriend_angel_brother}}'s beat down and humiliation?  Or would they seek to tie him to the clan in some way as a healer?  She had no clue.
 
 Hell, she didn't know what she wanted either.
 
-But Maybe.  Hopefully.  She made a friend.  
+But Maybe.  Hopefully.  She had started to make a friend.  She wasn't sure.
 
 She didn't have any friends either.
 
@@ -119,19 +121,16 @@ She didn't have any friends either.
 
 * * *
 
-!!! info "Foolish.  You let her know where we are staying.  If she betrays us to her clan, they will come down on us in force.  You do not have the power nor the experience to survive an encounter like that.  You've put yourself in danger unnecessarily."
+!!! info "Foolish.  You let her know where we are staying.  If she betrays us to her clan, they will come down on us in force.  You do not have the power, nor the experience to survive an encounter like that.  You've put yourself in danger unnecessarily."
 
-`I thought of that.   But... It WAS necessary.  It was necessary for me, for my soul, for my mental well being.  I need to make sure I'm still going to do the right thing when everything else goes to shit.  And we'll know without a doubt if she's trustworthy.  That made it worth it.`
+`I thought of that.   But... It WAS necessary.  It was necessary for me, for my soul, for my mental well being.  I needed to make sure I'm still going to do the right thing when everything else goes to shit.  And if she doesn't tell anyone where we are, well then we'll know without a doubt she's trustworthy.  That made it worth it.`
 
 !!! info "Not completely worth it.  We didn't pick up the supplies and toiletries we initially went there for."
 
 `Damnit!!`
-
 
 * * *
 
 ![divider](../../../assets/divider.png)
 
 * * *
-
-!!! example "https://wordcounter.net/"
