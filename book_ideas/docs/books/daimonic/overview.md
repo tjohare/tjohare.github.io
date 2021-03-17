@@ -98,10 +98,7 @@ _**None of the old Gods actually were divine though...**_
     1.  - [ ] Starts to train with {{extra.daimon.hero_girlfriend}} and her family.
     1.  - [ ] Speak to other {{extra.daimon.myth_type8}} clans.  Offered job as a protector and guard.
     1.  - [ ] Major assault on trying to remove {{extra.daimon.clan_name1}} and {{extra.daimon.clan_name5}} clans.
-    
 
-Reference for girlfriend
-![girlfriend](../../assets/girlfriend.jpg)
 
 Reference for daimonic knight
 ![guardian](../../assets/ideal_dark_paladin.jpg)
@@ -112,11 +109,11 @@ Reference for angel
 Reference for Body Enhancement Mage
 ![body enhancement mage](../../assets/AngelicaPNG.png)
 
-![angel resplendent](../../assets/avacyn.png)
+![triton magic](../../assets/triton-sorceress.jpg)
 
-![angel badass](../../assets/Warrior_angel_badass.jpg)
+![mage](../../assets/mage.jpg)
 
-
+![leonid](../../assets/oliver-liu-catgirl.jpg)
 
 ##Footnotes
 

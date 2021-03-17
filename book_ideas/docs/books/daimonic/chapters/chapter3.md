@@ -31,6 +31,7 @@ She didn't respond to his comment, it didn't help and honestly he would just use
 ![divider](../../../assets/divider.png)
 
 * * *
+_[Location: Grand Lake, Colorado; {{extra.daimon.hero}}'s POV]_
 
 {{extra.daimon.hero_nickname}} put the truck in park, turned the key off, and stepped out of the vehicle.  He realized that, in addition to the possible band-aids, he needed a few things and toiletries. The general store, while small, should have everything he needed.  
 
@@ -101,7 +102,7 @@ Staring at {{extra.daimon.hero_nickname}} wide eyed, she finally shrieked, "YOU 
 
 That statement seemed to deflate her, and she sank down in her chair.  A sense of finality and despair seemed to engulf her.  After a few seconds, she whispered, "They are going to take it out on me when you leave."  
 
-{{extra.daimon.hero_nickname}} reached out and touched where {{extra.daimon.hero_bestfriend_angel_brother}} back handed her.   Pushing healing energy into her face, {{extra.daimon.hero_nickname}} replied, "You are not alone.  If you need friend, I'm staying at the old 'Higant' house on the lake."  Then softly added, "And I don't have any friends, not like us."
+{{extra.daimon.hero_nickname}} reached out and touched her where {{extra.daimon.hero_bestfriend_angel_brother}} back handed her.   Pushing healing energy into her face, {{extra.daimon.hero_nickname}} replied, "You are not alone.  If you need friend, I'm staying at the old 'Higant' house on the lake."  Then softly added, "I don't have any friends, not like us."
 
 {{extra.daimon.hero_nickname}} smiled, turned, and walked out the store's front door.  
 
@@ -123,7 +124,7 @@ She didn't have any friends either.
 
 !!! info "Foolish.  You let her know where we are staying.  If she betrays us to her clan, they will come down on us in force.  You do not have the power, nor the experience to survive an encounter like that.  You've put yourself in danger unnecessarily."
 
-`I thought of that.   But... It WAS necessary.  It was necessary for me, for my soul, for my mental well being.  I needed to make sure I'm still going to do the right thing when everything else goes to shit.  And if she doesn't tell anyone where we are, well then we'll know without a doubt she's trustworthy.  That made it worth it.`
+`I thought of that.   But... It WAS necessary.  It was necessary for me, for my soul, for my mental well being.  I needed to make sure I'm still going to do the right thing when everything else goes to shit.  And if she doesn't tell anyone where we are, we'll know without a doubt she's trustworthy.  That made it worth it.`
 
 !!! info "Not completely worth it.  We didn't pick up the supplies and toiletries we initially went there for."
 

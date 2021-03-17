@@ -7,8 +7,8 @@ extra:
     ai_name: Apkallu
     ai_nickname: Kal
     law_officer1: Marshal                   #deceased after chapter 1
-    hero_girlfriend: Gwyneth Curran         #Irish- small spear from Corraidhin
-    hero_girlfriend_nickname: Gwen
+    hero_mage_friend: Gwyneth          #Irish- small spear from Corraidhin
+    hero_mage_friend_nickname: Gwen
     hero_bestfriend_angel_fn: Micaela
     hero_bestfriend_angel_brother: Malach
     bus_name: Automated Security Heuristics (Ash) Incorporated
@@ -17,7 +17,7 @@ extra:
 
     #Unused first names
     # Cael Gabriel Javan Raphael
-    # Evangeline Lailah Melek Tien 
+    # Evangeline Lailah Melek Tien
 
     badguy_class: Violator
     law_officer_class: Paladin
@@ -38,6 +38,7 @@ extra:
     psy_elemental_uncommon3: Acid**     #Not introduced yet
     psy_elemental_rare1: Darkness
     psy_elemental_rare2: Crystal
+    psy_elemental_rare3: Light
     psy_elemental_ultrarare1: Void**    #Not introduced yet
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
@@ -62,6 +63,7 @@ extra:
     clan_name16: Brightblade
     clan_name17: Whitespear
     clan_name18: Heartshield
+    clan_name19: Curran       #Mage clan NE Maine
 
 
     # See https://www.dndbeyond.com/races
@@ -78,3 +80,4 @@ extra:
     myth_type11: Tiefling
     myth_type12: Triton
     myth_type13: Goblin
+    # Aqrabuamelu

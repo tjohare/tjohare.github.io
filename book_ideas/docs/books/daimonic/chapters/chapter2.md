@@ -26,7 +26,7 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 hours."
 
-`WHAT HAVE YOU DONE TO ME??!!`
+`WHAT.... WHAT HAVE YOU DONE TO ME??!!`
 
 !!! info "I've unlocked your daimonic progression levels.  We will be training to increase your body's power, strength, coordination, and endurance, as well as focusing your mental acuity on both psychic energy and elemental manipulation."
 
@@ -34,13 +34,13 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "Incorrect.  DAIMONIC.  From the ancient Greek 'δαίμων', which meant 'godlike, power or fate'.  Daimons were seen as lesser deities or guiding spirits and could be either good or evil.  Or both.  Depending on their attitude."
 
-`OK, we'll be training.   Um, why do we need to train?  And what about the mental focusing something...?`
+`OK, we'll be training.   Um, why do we need to train?  And what was that about the mental focusing something...?`
 
-!!! info "Correct.  We train so you are not killed by other Daimonic individual who are afraid of you.  Or what you will become. I mentioned this earlier?  Regardless, the mental aspects are the Psychic Energy and Elemental Manipulation skills."
+!!! info "We train so you are not killed by other Daimonic individuals who are afraid of you.  Or what you will become.  I mentioned this earlier?  Regardless, the mental aspects are the Psychic Energy and Elemental Manipulation skills."
 
-`So I have magic or something now?`
+`Awesome, so I have magic or something now?`
 
-!!! info "No, you have the ability to psychically interact with various Nanites that have been injected into your bloodstream.  The nanites are what's used for the DNA restructuring, as well as manipulating various energy frequencies.  Your body and system are creating more and more nanites as we speak.  That is some of the replication that is still ongoing.  And will be for some time."
+!!! info "No, you have the ability to psychically interact with various nanites that have been injected into your bloodstream.  The nanites are what's used for the DNA restructuring, as well as manipulating various energy frequencies in the environment.  Your body and system are creating more and more nanites as we speak.  That is some of the replication that is still ongoing.  And will be for some time."
 
 `Oh. OK. Um, how many progression levels are there?`
 
@@ -88,11 +88,11 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 `{{extra.daimon.ai_nickname}} feels more natural for me.  So, back on point, we discussed training.  What do we need to do?  What's the plan?  Do YOU have a plan?`
 
-!!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location for this?"
+!!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location we can use for this?"
 
 `Maybe... We used to have a time-share near Grand Lake, Colorado.  It's really nice and quiet, especially during the winter months.  Very private but expensive to stay there.`
 
-!!! info "That is not a problem.  Once we have enough control over our elemental manipulation and have sufficient energy reserves to start converting base metals, most of our issues should be resolved very quickly.  At least financially."
+!!! info "That is not a problem.  Once we have enough control over our elemental manipulation and have sufficient energy reserves to start converting base metals into rare earth elements, most of our issues should be resolved very quickly.  At least financially."
 
 `Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?` {{extra.daimon.hero_nickname}} replied wide-eyed and excitedly.
 
