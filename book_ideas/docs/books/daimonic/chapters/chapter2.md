@@ -22,11 +22,11 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "Your mother was absolutely correct."
 
-`Ugh. Just...  don't tell her that, OK?  I'll never hear the end of it,` he grumbled.
+`Ugh. Great. Just...  don't tell her that, OK?  I'll never hear the end of it,` he grumbled.
 
 !!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 hours."
 
-`WHAT.... WHAT HAVE YOU DONE TO ME??!!`
+`Wait... What... WHAT. HAVE. YOU. DONE??!!`
 
 !!! info "I've unlocked your daimonic progression levels.  We will be training to increase your body's power, strength, coordination, and endurance, as well as focusing your mental acuity on both psychic energy and elemental manipulation."
 
@@ -44,7 +44,14 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 `Oh. OK. Um, how many progression levels are there?`
 
-!!! info "There are 5 established and recognized progression or refinement levels, with approximately 10 sub-stages per level.  These are Body, Mind, Spirit, Ascended, and Immortal, but it is unlikely you will reach the pinnacle in levels.  Too many outside variables and hostile actors and forces will try to prevent this from happening, but the first 3 levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity.  And you aren't killed."
+
+
+<EXPLAIN THE PROGRESSION AND PATHS>
+
+
+
+
+!!! info "It is unlikely you will reach the last stage of refinement.  Too many outside variables and hostile actors and forces will try to prevent this from happening, but the first couple of levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity.  And you aren't killed."
 
 `You're just a bundle of sunshine, aren't you?`
 

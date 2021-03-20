@@ -17,7 +17,7 @@ The seven sages in Sumerian mythology sent to the earth by Anu (or Enki in some 
 
 There are shrines to Enki dating back to the founding of the city of Eridu, considered by the Mesopotamians the first city established at the beginning of the world c. 5400 BCE.
 
-_**None of the old Gods actually were divine though...**_
+_None of the old Gods actually were divine though..._
 
 ??? question "Huh, then what were they really?"
     Travelers from alternate dimensions and planes, space.   More importantly, they were usually opportunists and unscrupulous businessmen and merchants.   Just vasty overpowered compared to the native life here on Earth.   Also for some of them, Earth also acted as a penal colony, similar to the origins of Australia.
@@ -26,53 +26,36 @@ _**None of the old Gods actually were divine though...**_
 
 -   Similar to Wuxia and Cultivation style with parts of software code development.  Stages of Development (10 sub-stages within each development level):
 
-???+ example "Progression info"
+??? example "Progression info"
     1.  **Stage 1: Body**
-        1.  Primarily increasing body strength and development.   
-        1.  Psychic and/or elemental abilities are very limited to usually single target with long cool down times (cannot be used again until refreshed).
+        1.  
     1.  **Stage 2: Mind**
-        1.  Continuance of body refinement (Stage 1) for strength and agility, but a dramatic increase in inherent abilities.
-        1.  Psychic & Elemental abilities may begin to cover small groups and have increased potency as well as increased range and frequency.
-        1.  Most individuals are killed during this time.
-        1.  Wings emerge after the 5th sub-stage.
+        1.  
     1.  **Stage 3: Spirit**
-        1.  Continuance of mind refinement (Stage 2).
-        1.  Daimonic Armor begins to get revealed.   
-        1.  Individuals with Daimon armor are greatly respected and feared for toughness (tend to be very old)
+        1.  
     1.  **Stage 4: Ascended**
-        1.  Drawn to conflict
-        1.  Assembly of followers and aspects that would be considered 'Divine'
+        1.  
     1.  **Stage 5: Immortal**
     ---
     _**Example**: Rank 5 Body Refinement, Rank 2 Spirit Refiner_
 
 ### Ability Development
 
-???+ example "Progression info"
-    1.  **Stage 1: Body (Psychic Energy Manipulation gained)**
-        1.  {{ extra.daimon.psy_energy_healing }} Self, but not {{ extra.daimon.psy_energy_healing }} Other until Rank 6 Body.  At-will, dependant on energy pool.
-        1.  {{ extra.daimon.psy_energy_shield }} can only be used 1x per day (per sub-stage level)
-        1.  {{ extra.daimon.psy_energy_manip_psy }} can only be used 1x per week (per sub-stage level)
-        1.  {{ extra.daimon.psy_energy_manip_life }} can only be used 1x per month. Single Target only.
-    1.  **Stage 2: Mind (Psychic Element Manipulation gained)**
-        1.  All Psychic Energy Manipulation abilities, except {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.
-        1.  {{ extra.daimon.psy_energy_manip_life }} can be used 1x per week (per sub-stage level).  Single Target only.
-            * _Special Limitation: The user must process & consolidate life energy gained within 24 hours or will catatonic for 48 hours_
-        1.  Access to all Elemental types (ie. {{ extra.daimon.psy_elemental_list_all }}).  Elemental type rank cooresponds to sub-stage level).   
-        1.  User cannot progress to the next sub-stage level unless elemental proficiency at each sub-stage level is achieved.
+??? example "Progression info"
+    1.  **Stage 1: Body**
+        1.  
+    1.  **Stage 2: Mind**
+        1.  
     1.  **Stage 3: Spirit**
-        1.  {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.  Single Target only.
-        1.  Daimonic Armor gained resistances to users Elemental affinities (5% resistance per sub-stage Level).
-        1.  Daimonic Weapons can channel a psychic ability ({{ extra.daimon.hero }} can channel {{ extra.daimon.psy_energy_manip_life }} through spear).
+        1.  
     1.  **Stage 4: Ascended**
-        1.  {{ extra.daimon.psy_energy_manip_life }} can be used At-will, dependant on energy pool.  Multiple targets, Grouping is now possible.  This is perhaps the most feared ability and stage.   
-        1.  Opposing Groups have been known to work together to destroy an Ascended {{ extra.daimon.psy_energy_manip_life }} user.
+        1.  
     1.  **Stage 5: Immortal**
 
 
 ## Chapter Highlights
 
-???+ example "Highlights"
+??? example "Highlights"
     1.  - [x] Intro to hero, {{extra.daimon.hero}}.
     1.  - [x] Intro to normal life for hero.
     1.  - [x] Witnessing the battle between {{extra.daimon.law_officer1}} and {{extra.daimon.badguy_class}}.
@@ -100,23 +83,25 @@ _**None of the old Gods actually were divine though...**_
     1.  - [ ] Major assault on trying to remove {{extra.daimon.clan_name1}} and {{extra.daimon.clan_name5}} clans.
 
 
-Reference for daimonic knight
-![guardian](../../assets/ideal_dark_paladin.jpg)
+![guardian](../../assets/ideal_dark_paladin.jpg){width=800}
 
-Reference for angel
-![angel](../../assets/angel_flying.jpg)
+![angel](../../assets/angel_flying.jpg){width=800}
 
-Reference for Body Enhancement Mage
-![body enhancement mage](../../assets/AngelicaPNG.png)
+![body enhancement mage](../../assets/AngelicaPNG.png){width=800}
 
-![triton magic](../../assets/triton-sorceress.jpg)
+![triton magic](../../assets/triton-sorceress.jpg){width=800}
 
-![mage](../../assets/mage.jpg)
+![elf](../../assets/elf.jpg){width=800}
 
-![leonid](../../assets/oliver-liu-catgirl.jpg)
+![mage](../../assets/mage.jpg){width=800}
+
+![beastkin](../../assets/oliver-liu-catgirl.jpg){width=800}
 
 ##Footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Daemon_(classical_mythology)
 [^2]: https://www.ancient.eu/Enki/
 [^3]: https://www.annunaki.org/enki-enlil/
+[^4]: https://www.pinterest.com/brooke9037/beastkin/
+[^5]: https://www.pinterest.com/search/pins/?q=Fantasy%20art&rs=srs&b_id=BBoyd7MDLPcDAAAAAAAAAAC45aIKgfU6A205UH_B1pq8T4zTw8scLpiQsvJgkANqqawk2Dl47w8q&source_id=UHGfpSRI
+[^6]: https://www.pinterest.com/pin/2181499810395056/

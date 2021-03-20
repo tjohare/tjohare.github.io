@@ -51,21 +51,21 @@ Here's some authors I follow:
 
 
 ### Inspiring Images
-![Ancient Eagle](assets/TvC55dz.jpg)
-![Phoenix versus Dragon](assets/n2946.jpg)
-![Dragon](assets/chinese-dragon-wallpaper-1.jpg)
+![Ancient Eagle](assets/TvC55dz.jpg){width=100%}
+![Phoenix versus Dragon](assets/n2946.jpg){width=100%}
+![Dragon](assets/chinese-dragon-wallpaper-1.jpg){width=100%}
 
 
 
 ### Flow of what happens...
 ``` mermaid
-graph TD
-    A[Intro to Hero] -->|something happens...| B(Hero now has abilities <br> and things have changed...)
-    B --> C[Introduction to the problem]
-    C -->|One| D[Good guy]
-    C -->|Two| E[Bad guy]
-    D --> F(Resolution)
-    E --> F(Resolution)
+graph LR
+    A[{{extra.daimon.hero_fullname}}] -->|colorado omega| B[Micaela]
+    A -->|cross country rescue| C[Tethys]
+    A -->|boston tea party| D[{{extra.daimon.hero_mage_friend}}]
+    B --> E[Dom activates angelic DNA]
+    C --> F[who saved me?]
+    D --> G[who is this guy?]
 ```
 
 

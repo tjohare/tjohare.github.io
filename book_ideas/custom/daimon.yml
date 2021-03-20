@@ -6,8 +6,9 @@ extra:
     villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
     ai_name: Apkallu
     ai_nickname: Kal
-    law_officer1: Marshal                   #deceased after chapter 1
-    hero_mage_friend: Gwyneth          #Irish- small spear from Corraidhin
+    law_officer1: Marshal                   #NOT USED
+    hero_triton_friend: Tethys
+    hero_mage_friend: Gwyneth
     hero_mage_friend_nickname: Gwen
     hero_bestfriend_angel_fn: Micaela
     hero_bestfriend_angel_brother: Malach
@@ -19,11 +20,11 @@ extra:
     # Cael Gabriel Javan Raphael
     # Evangeline Lailah Melek Tien
 
-    badguy_class: Violator
-    law_officer_class: Paladin
+    badguy_class: Violator                  #NOT USED
+    law_officer_class: Paladin              #NOT USED
 
-    psy_energy_manip_life: Energy Drain (Life)
-    psy_energy_manip_psy: Energy Drain (Psychic)
+    psy_energy_manip_life: Energy Drain (Life)    #NOT USED
+    psy_energy_manip_psy: Energy Drain (Psychic)  #NOT USED
     psy_energy_shield: Shield / Warding
     psy_energy_healing: Healing
 
@@ -40,6 +41,7 @@ extra:
     psy_elemental_rare2: Crystal
     psy_elemental_rare3: Light
     psy_elemental_ultrarare1: Void**    #Not introduced yet
+    psy_elemental_ultrarare2: Space**   #Not introduced yet
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
@@ -63,7 +65,7 @@ extra:
     clan_name16: Brightblade
     clan_name17: Whitespear
     clan_name18: Heartshield
-    clan_name19: Curran       #Mage clan NE Maine
+    clan_name19: Curran       #Mage clan NE Maine #Irish- small spear from Corraidhin
 
 
     # See https://www.dndbeyond.com/races
@@ -72,7 +74,7 @@ extra:
     myth_type3: Vampire
     myth_type4: Elf
     myth_type5: Orc
-    myth_type6: Leonin
+    myth_type6: Beastkin
     myth_type7: Goliath / Giant-kin
     myth_type8: Magoi (Wizard/Witch)
     myth_type9: Drow
