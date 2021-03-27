@@ -139,7 +139,7 @@ Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery sto
 
 Sighing, `OK, so what's first?`
 
-!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.   This, along with some physical conditioning will start us on the Physical Enhancement Path.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
+!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
 
 `Wait!  wait, wait, code constructs?`  Wide-eyed, {{extra.daimon.hero_nickname}} whispered in awe.
 
@@ -161,13 +161,11 @@ Sighing, `OK, so what's first?`
 
 For the first six days, the routine did not falter.   {{extra.daimon.ai_nickname}} made sure {{extra.daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
 
-First, they worked on strengthening his body overall, or as {{extra.daimon.ai_nickname}} called it, The Physical Enhancement Path, separate from the Body Progression Levels {{extra.daimon.ai_nickname}} discussed earlier.
-
 The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{extra.daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused one pushing his nanites and his energy to help his body grow stronger, faster.  
 
 Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{extra.daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{extra.daimon.ai_nickname}} was teaching him, very quickly.
 
-The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  {{extra.daimon.ai_nickname}} called this the Elemental Enhancement Path.   It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
 
 Fortunately, with {{extra.daimon.ai_nickname}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
 

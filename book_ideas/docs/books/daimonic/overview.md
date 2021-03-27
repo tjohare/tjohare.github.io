@@ -97,6 +97,19 @@ _None of the old Gods actually were divine though..._
 
 ![beastkin](../../assets/oliver-liu-catgirl.jpg){width=800}
 
+## Elemental Construct, or Runic, patterns
+![rune](../../assets/1.jpg){width=30%, align=left}
+![rune](../../assets/2.jpg){width=30%}
+
+![rune](../../assets/9.png){width=30%, align=left}
+![rune](../../assets/6.jpg){width=30%}
+
+![rune](../../assets/5.jpg){width=30%, align=left}
+![rune](../../assets/4.jpg){width=30%}
+
+![rune](../../assets/3.jpg){width=30%}
+
+
 ##Footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Daemon_(classical_mythology)

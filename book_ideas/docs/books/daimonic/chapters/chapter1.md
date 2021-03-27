@@ -98,13 +98,13 @@ Just then, they crashed into a huge stone relief of one of the winged 'Annunaki'
 
 Another crash resounded around the room, more violent than the last, and {{extra.daimon.hero}} knew he needed to move now.   As he moved to get up and turned for the side emergency fire exit, he reached out and grabbed the gem.  A mild electric shock traveled up his arm and stopped his movements.   But that wasn't what had him locked in place and blinking furiously.   He was clearly hearing words that he should NOT be hearing.
 
-!!! warning "Trace biological patterns and mitochondrial DNA confirm ancestry to the required bloodline profile.   Initiating molecular bonding of Daimonic AI now..."
+!!! warning "Bloodline Genome confirmed.  Trace biological patterns as well as mi{width=800}hondrial DNA and chloroplast DNA confirm ancestry to the required profile.   Initiating molecular bonding of Daimonic AI now..."
 
-`What.  The Hell.  Is going on?`
+`what... What.  The Hell.  Is that?`
 
 Another roar echoed from the combatants, and this time, without looking back, {{extra.daimon.hero}} moved and continued his escape out the museum.  Presumptively, he thought,
 
-`Thank God I drive a tank.`
+`I need to get outta here.  Thank goodness I drive a tank.`
 
 * * *
 
@@ -122,7 +122,7 @@ He turned onto Interstate I-95, and started driving northbound, driving virtuall
 
 `This is crazy.  Who were those guys?  What did they want?  And... hey, wait a minute, what the hell happened to that gem I grabbed?`
 
-!!! warning "Daimonic AI bonding complete.  DNA restructuring and gene therapy commencing now..."
+!!! warning "Daimonic AI bonding complete.  DNA restructuring and genome modification commencing now..."
 
 Pain wracked through his entire body.  Everything felt as if it was on fire.  His stomach violently twisted and he felt as if he was going to retch, throwing up his stomach contents.   But a smooth deep voice dominated this mind.
 

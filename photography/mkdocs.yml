@@ -1,69 +1,84 @@
 site_name: Photography
-site_description: My Thoughts and Things all Photography related
+site_description: Photography stuff
 site_author: TJ O'Hare
-site_url: https://tjohare.github.io/photography
+site_url: https://tjohare.github.io/hotography
+copyright: 'Copyright &copy; 2021 TJ OHare'
 
-#Repo
-repo_name: 'tjohare/tjohare.github.io/photography'
-repo_url: https://github.com/tjohare/tjohare.github.io/photography
 
-# Copyright
-copyright: 'Copyright &copy; 2019 TJ OHare'
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  social:
+    - icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/edward.ohare.jr
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/gdistortions
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/tjohare/
+
+
+#Plugins
+plugins:
+    - search
+    - mermaid2
+    - macros:
+        include_dir: custom
+        include_yaml:
+          - custom/daimon.yml
+
+#Extra_javascript
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+    - javascripts/config.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 #Config
 theme:
   name: material
   language: 'en'
+  features:
+    - navigation.sections
+    - navigation.tabs #remove to have everything in the left hand navigation instead...
+    - toc.integrate
   palette:
-    primary: 'blue grey'
-    accent: 'blue grey'
+    primary: 'deep purple'
+    accent: 'deep purple'
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
-  logo:
-    icon: 'add_a_photo'
+    text: 'Permanent Marker'
+    code: 'Architects Daughter'
+
 
 #Markdowns
 markdown_extensions:
   - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex
+  - attr_list
+  - codehilite
+  - def_list
+  - footnotes
+  - meta
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-#Custom
-extra_css:
-  - 'stylesheets/extra.css'
-extra:
-  manifest: 'manifest.webmanifest'
-  social:
-    - type: 'github'
-      link: 'https://github.com/tjohare'
-    - type: 'instagram'
-      link: 'https://www.instagram.com/tjohare/'
-    - type: 'facebook'
-      link: 'https://www.facebook.com/edward.ohare.jr'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/'
-    - type: 'twitter'
-      link: 'https://twitter.com/gdistortions'
-
-nav:
-    - Home: index.md
-    - About: about.md

@@ -1,7 +1,7 @@
 site_name: Book Ideas
-site_description: My Thoughts and Things all Book Idea related
+site_description: All Book Ideas
 site_author: TJ O'Hare
-site_url: https://tjohare.github.io/book_ideas
+site_url: https://tjohare.github.io/book_ideas/site
 copyright: 'Copyright &copy; 2021 TJ OHare'
 
 #Custom
@@ -48,6 +48,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Architects Daughter'
+  
 
 #Markdowns
 markdown_extensions:

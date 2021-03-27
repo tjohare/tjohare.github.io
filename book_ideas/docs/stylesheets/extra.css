@@ -7,6 +7,7 @@ video {
     pointer-events: initial;
 }
 
+/* https://superdevresources.com/free-seamless-patterns/#:~:text=Using%20a%20repeatable%20pattern%20in%20website%20backgrounds%20is,choice%20when%20you%20are%20looking%20for%20website%20backgrounds. */
 body {
 	background-image: url('../assets/grid.png');
 	background-repeat: repeat-x;
