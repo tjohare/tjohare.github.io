@@ -1,6 +1,6 @@
 # Chapter 2 - AI Introduction
 
-Sometime later, {{extra.daimon.hero_nickname}} woke.   Ravenously hungry and de-hydrated, he began to pick himself up off the floor.  He climbed back up on the couch, and grabbed the water bottle he picked up earlier and chugged it completely.   After a few seconds, he needed more.
+Sometime later, {{daimon.hero_nickname}} woke.   Ravenously hungry and de-hydrated, he began to pick himself up off the floor.  He climbed back up on the couch, and grabbed the water bottle he picked up earlier and chugged it completely.   After a few seconds, he needed more.
 
 Moving to the kitchen, he re-filled the water bottle from the fridge's water dispenser, and chugged that too.   
 
@@ -57,7 +57,7 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 `Hey, what do I call you?`
 
-!!! info "My name is {{extra.daimon.ai_name}}."
+!!! info "My name is {{daimon.ai_name}}."
 
 * * *
 
@@ -65,23 +65,23 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 * * *
 
-After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was not bleeding out, she'd want to hear from him and make sure he was ok and everything.
+After a long shower and a double-portioned breakfast, {{daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was not bleeding out, she'd want to hear from him and make sure he was ok and everything.
 
-"Mary here, ...{{extra.daimon.hero_nickname}}, is that you?  Are you OK?"
+"Mary here, ...{{daimon.hero_nickname}}, is that you?  Are you OK?"
 
-"Hey Mary, I'm good, not hurt.  Just... really messed up mentally on what happened the other night.   I crashed unbelievably hard.  I think my body needed it.  Sorry I didn't contact you sooner.   I think I just needed time.   ...Still do if I'm being honest," {{extra.daimon.hero_nickname}} replied with a heavy sigh.
+"Hey Mary, I'm good, not hurt.  Just... really messed up mentally on what happened the other night.   I crashed unbelievably hard.  I think my body needed it.  Sorry I didn't contact you sooner.   I think I just needed time.   ...Still do if I'm being honest," {{daimon.hero_nickname}} replied with a heavy sigh.
 
-"I'll let everyone here know you're ok.  We're glad you're not hurt, {{extra.daimon.hero_nickname}}.  Are you gonna go talk to a therapist or something?  I know I would need one."
+"I'll let everyone here know you're ok.  We're glad you're not hurt, {{daimon.hero_nickname}}.  Are you gonna go talk to a therapist or something?  I know I would need one."
 
-"You just like to talk to people.  ...Actually Mary, I think I'm gonna take a break for a bit.  I saw some things that I'm having a hard time with.  I think I'm gonna take a leave of absence.  Take some time for myself.  Clear some things up."  {{extra.daimon.hero_nickname}} paused.  "The application should be good to go, and I'm leaving the rest of it in your hands.  You're in charge, Mary.  I'll send an email or something to that effect so our staff and clients know."
+"You just like to talk to people.  ...Actually Mary, I think I'm gonna take a break for a bit.  I saw some things that I'm having a hard time with.  I think I'm gonna take a leave of absence.  Take some time for myself.  Clear some things up."  {{daimon.hero_nickname}} paused.  "The application should be good to go, and I'm leaving the rest of it in your hands.  You're in charge, Mary.  I'll send an email or something to that effect so our staff and clients know."
 
-"No worries {{extra.daimon.hero_nickname}}.  Just remember how much I took care of you during my performance review."
+"No worries {{daimon.hero_nickname}}.  Just remember how much I took care of you during my performance review."
 
 "Oh you're getting a nice fat raise, Mary.  I'll email payroll right after this call to make it official as well."
 
-"Take care of yourself {{extra.daimon.hero_nickname}}, and call us if you need anything." After an extended pause, "I, um, might have family that understands some of what you're going through, if you need a non-medical person to speak to."
+"Take care of yourself {{daimon.hero_nickname}}, and call us if you need anything." After an extended pause, "I, um, might have family that understands some of what you're going through, if you need a non-medical person to speak to."
 
-"I really doubt that Mary, but thanks for looking out for me.  Call you soon."  And with that, {{extra.daimon.hero}} hung up.
+"I really doubt that Mary, but thanks for looking out for me.  Call you soon."  And with that, {{daimon.hero}} hung up.
 
 * * *
 
@@ -89,11 +89,11 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 * * *
 
-`{{extra.daimon.ai_nickname}}, you there?`
+`{{daimon.ai_nickname}}, you there?`
 
-!!! info "I will always be here {{extra.daimon.hero}}.  Have you shortened my name now?  A gesture of familiarity and friendship?  How can I help you {{extra.daimon.hero_nickname}}?"
+!!! info "I will always be here {{daimon.hero}}.  Have you shortened my name now?  A gesture of familiarity and friendship?  How can I help you {{daimon.hero_nickname}}?"
 
-`{{extra.daimon.ai_nickname}} feels more natural for me.  So, back on point, we discussed training.  What do we need to do?  What's the plan?  Do YOU have a plan?`
+`{{daimon.ai_nickname}} feels more natural for me.  So, back on point, we discussed training.  What do we need to do?  What's the plan?  Do YOU have a plan?`
 
 !!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location we can use for this?"
 
@@ -101,7 +101,7 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 !!! info "That is not a problem.  Once we have enough control over our elemental manipulation and have sufficient energy reserves to start converting base metals into rare earth elements, most of our issues should be resolved very quickly.  At least financially."
 
-`Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?` {{extra.daimon.hero_nickname}} replied wide-eyed and excitedly.
+`Wait, you mean, like a Philosopher's stone and stuff...?  You mean like converting Lead into Gold?` {{daimon.hero_nickname}} replied wide-eyed and excitedly.
 
 !!! info "Yes.  Or Palladium, or Rhodium, or anything really.  Although inert transition metals are easier to convert.  Less taxing energy wise.  But that's going to take a couple of weeks to get there."
 
@@ -119,9 +119,9 @@ After a long shower and a double-portioned breakfast, {{extra.daimon.hero_nickna
 
 _[Location: Grand Lake, Colorado]_
 
-After nearly 3 days of driving, {{extra.daimon.hero}} arrived at the rental home in Colorado.   While Grand Lake itself was considered a tourist destination during the summer months, during the winter it tended to be more locals.   However, {{extra.daimon.hero}}'s family had lived there quite a bit over the years.  It shouldn't be a problem for him. It only tapered off after {{extra.daimon.hero_nickname}}'s father passed away 3 years earlier.  The house was decently sized and had no immediate neighbors to either side, but a truck and a boat for supplies was an absolute must for using the house.
+After nearly 3 days of driving, {{daimon.hero}} arrived at the rental home in Colorado.   While Grand Lake itself was considered a tourist destination during the summer months, during the winter it tended to be more locals.   However, {{daimon.hero}}'s family had lived there quite a bit over the years.  It shouldn't be a problem for him. It only tapered off after {{daimon.hero_nickname}}'s father passed away 3 years earlier.  The house was decently sized and had no immediate neighbors to either side, but a truck and a boat for supplies was an absolute must for using the house.
 
-Fortunately {{extra.daimon.hero_nickname}} remembered that the local grocery store was very small, so he stopped in Granby to pick up most of the food supplies he'd need.  Well stocked and finally settled in, {{extra.daimon.hero_nickname}} assessed the situation.
+Fortunately {{daimon.hero_nickname}} remembered that the local grocery store was very small, so he stopped in Granby to pick up most of the food supplies he'd need.  Well stocked and finally settled in, {{daimon.hero_nickname}} assessed the situation.
 
 !!! info "This should work well.  The area has limited access to humans, and plenty of wood, earth, and water elements for manipulation.  Additionally, fire manipulation would benefit us against the cold weather.  Plenty of food, decent shelter, and privacy.  Yes, this should be more than adequate."
 
@@ -141,11 +141,11 @@ Sighing, `OK, so what's first?`
 
 !!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
 
-`Wait!  wait, wait, code constructs?`  Wide-eyed, {{extra.daimon.hero_nickname}} whispered in awe.
+`Wait!  wait, wait, code constructs?`  Wide-eyed, {{daimon.hero_nickname}} whispered in awe.
 
 !!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  Its your nanites and psychic potential that enable you manipulate the environment.  You do remember how to do Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
 
-`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... wicked cool.`  {{extra.daimon.hero_nickname}} said with a big smile.
+`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... wicked cool.`  {{daimon.hero_nickname}} said with a big smile.
 
 !!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest form."
 
@@ -159,17 +159,17 @@ Sighing, `OK, so what's first?`
 
 * * *
 
-For the first six days, the routine did not falter.   {{extra.daimon.ai_nickname}} made sure {{extra.daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
+For the first six days, the routine did not falter.   {{daimon.ai_nickname}} made sure {{daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
 
-The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{extra.daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused one pushing his nanites and his energy to help his body grow stronger, faster.  
+The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused one pushing his nanites and his energy to help his body grow stronger, faster.  
 
-Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{extra.daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{extra.daimon.ai_nickname}} was teaching him, very quickly.
+Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{daimon.ai_nickname}} was teaching him, very quickly.
 
-The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{extra.daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
 
-Fortunately, with {{extra.daimon.ai_nickname}}'s help and insight, {{extra.daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
+Fortunately, with {{daimon.ai_nickname}}'s help and insight, {{daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
 
-{{extra.daimon.hero_nickname}} starting with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{extra.daimon.psy_elemental_list_all}}.
+{{daimon.hero_nickname}} starting with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{daimon.psy_elemental_list_all}}.
 
 It was the seventh day, where they revisited some of the pure energy concepts.   
 
@@ -179,7 +179,7 @@ It was the seventh day, where they revisited some of the pure energy concepts.
 
 !!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Not even all of it.  What we would need to do is provide a 'constant flow' of pure healing energy to the target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
 
-`So we can make how much we heal... variable,` {{extra.daimon.hero_nickname}} replied deep in thought.
+`So we can make how much we heal... variable,` {{daimon.hero_nickname}} replied deep in thought.
 
 !!! info "Channeling however, is also the fastest way to completely drain you of energy.  And leave you completely weak and vulnerable.  Hence, it's taught with an abundance of more caution.  More of our kind has been killed or enslaved due to being energy deficient than any other action."
 
@@ -187,7 +187,7 @@ It was the seventh day, where they revisited some of the pure energy concepts.
 
 !!! info "We'll add channeling to the training regimen for all your elemental affinities.  Now, some pin pricks or repeated exacto-blade cuts on your hand and forearms should be sufficient to practice your healing abilities."
 
-Rolling his eyes, {{extra.daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.  I'm probably gonna need to go pick up some extra bandages, just in case.`
+Rolling his eyes, {{daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.  I'm probably gonna need to go pick up some extra bandages, just in case.`
 
 * * *
 
