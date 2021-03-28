@@ -7,11 +7,11 @@ extra:
     ai_name: Apkallu
     ai_nickname: Kal
     law_officer1: Marshal                   #NOT USED
-    hero_triton_friend: Tethys
-    hero_mage_friend: Gwyneth
-    hero_mage_friend_nickname: Gwen
-    hero_bestfriend_angel_fn: Micaela
-    hero_bestfriend_angel_brother: Malach
+    hero_friend_triton: Tethys
+    hero_friend_mage: Gwyneth
+    hero_friend_mage_nickname: Gwen
+    hero_friend_angel: Micaela
+    hero_friend_angel_brother: Malach
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment
     insurance_client_name: Reagan Addison

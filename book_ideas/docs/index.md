@@ -46,9 +46,6 @@ Here's some authors I follow:
 1.  Escaping something else and decide to take a stand here and now.
 
 
-!!! quote "Thoughts on Stupid People"
-    Genius has limits, Stupidity does not
-
 
 ### Inspiring Images
 ![Ancient Eagle](assets/TvC55dz.jpg){width=100%}
@@ -60,12 +57,12 @@ Here's some authors I follow:
 ### Flow of what happens...
 ``` mermaid
 graph LR
-    A[{{extra.daimon.hero_fullname}}] -->|colorado omega| B[Micaela]
-    A -->|cross country rescue| C[Tethys]
-    A -->|boston tea party| D[{{extra.daimon.hero_mage_friend}}]
-    B --> E[Dom activates angelic DNA]
-    C --> F[who saved me?]
-    D --> G[who is this guy?]
+    A[{{extra.daimon.hero_fullname}}] -->|colorado omega      | B[Micaela]
+    A                                 -->|cross country rescue| C[{{extra.daimon.hero_friend_triton}}]
+    A                                 -->|boston tea party    | D[{{extra.daimon.hero_friend_mage}}]
+    B                                 -->|action taken        | E([{{extra.daimon.hero_nickname}} activates angelic DNA])
+    C                                 -->|her thoughts        | F([who saved me?])
+    D                                 -->|her thoughts        | G([who is this guy?])
 ```
 
 

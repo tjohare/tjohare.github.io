@@ -50,7 +50,7 @@ I started to work my way through the light crowd and museum layout, looking for 
 
 "Outstanding news, {{extra.daimon.hero_nickname}}.  This does call for a toast."  A 100 mega-watt smile spreads across {{extra.daimon.insurance_client_name}}'s face.  No man should be that pretty.  The one time {{extra.daimon.hero_nickname}} stopped by his firm's office, he noticed that everyone, LITERALLY everyone, in that office was gorgeous.  Like it was some sort of unspoken corporate requirement for them to be good looking as well as intelligent.  
 
-`No shot at finding a girlfriend here.  Quite frankly, it's disheartening.`
+`No shot at finding a girlfriend there, they're all out of my league.  Sigh, at this rate, I'm gonna be single forever.`
 
 {{extra.daimon.insurance_client_name}} continues speaking, "There were several Board members and their families watching this very closely, for personal reasons as well as business related.  I suspect your firm will be ridiculously busy going forward.  And Rich."
 
@@ -74,9 +74,9 @@ And just when I thought it couldn't get more surreal, two other individuals slow
 
 One looked something like an armored version of Michael Myers, with his porcelain mask actually in a sneer and a blood-encrusted hand axe.   The other was a god-damned werewolf, so lifelike I thought it had to be some sort of theme-park animatronic.   But it was far too real and graceful for that.   I don't think my psyche accepted what I was seeing.  I'll never forget the first thought to run through my head on seeing them walk into the room.
 
-`This is ridiculous.  I'm never going to a museum again.`
+`Huh, they'll let just about anyone in here...`
 
-{{extra.daimon.insurance_client_name}} looked at the newcomers with wild eyes and a pronouced sense of bloodlust, breathing heavier and heavier each passing second; and then he just charged them.   The werewolf moved to intercept him and the Mike Myers character skirted around the side, appearing to flank him.  2 versus 1 is not good odds any day of the week, in any situation.  Add to that, that one of the robbers was wielding an axe and the one individual we had on our side seemed to be out of his mind with rage, things looked rather grim.  It was time to look for an exit strategy.  
+{{extra.daimon.insurance_client_name}} looked at the newcomers with wild eyes and a pronounced sense of bloodlust, breathing heavier and heavier each passing second; and then he just charged them.   The werewolf moved to intercept him and the Mike Myers character skirted around the side, appearing to flank him.  2 versus 1 is not good odds any day of the week, in any situation.  Add to that, that one of the robbers was wielding an axe and the one individual we had on our side seemed to be out of his mind with rage, things looked rather grim.  It was time to look for an exit strategy.  
 
 Or as I've been routinely texted, from my development staff for staying late in the office, "GTFO {{extra.daimon.hero_nickname}}".
 
