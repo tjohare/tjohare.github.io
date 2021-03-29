@@ -10,48 +10,49 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "No, you are not having a psychotic episode.  You do remember the bonding announcement, correct?"
 
-`Sort of.  You sure I'm not crazy?`
+`Sort of.  I could hear.... something.  You sure I'm not crazy?`
 
-!!! info "Yes I am sure.  I am an artificial entity created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the bloodline were hidden for years, even when Enki and his brother were still here, because too many others feared their power.  Enki was a little... vigorous when it came to having kids."
+!!! info "Yes I am sure.  I am an artificial entity, an intelligent program, created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the true bloodline were hidden for years, even when Enki and his brother were still here.  Too many others feared their power and potential and started to wipe their descendants out.  And Enki was known to be a little... vigorous when it came to having kids."
 
 `Who's Enki?  What's an Enki, that's a weird name.  Wait, "Descendants"....are you saying I'm related, like my great grandfather or something?`
 
-!!! info "Yes, but for who he is, we can discuss that later on.   Right now, we have to focus on developing out your potential.  Which is significant, and you will be noticed very quickly.  There are many who would want to control you or be with you."
+!!! info "Yes, but for who he is, we can discuss that later on.   Think of it this way, your genetics indicate you're descended from a very powerful individual, you've inherited some of his potential, and right now, we have to focus on developing out that potential.  Which is significant, and you will be noticed very quickly.  There are many who would want to control you.  Or neutralize you."
 
-`OK, So, what's my potential?  Well, I mean, my mom always said that my potential was hidden deep down and you won't really know your potential unless you push yourself in the face of adversity.`
+`I'm so confused.  OK, So, what's my potential?  Well, I mean, my mom always said that my potential was hidden deep down and you won't really know your potential unless you push yourself in the face of adversity.`
 
-!!! info "Your mother was absolutely correct."
+!!! info "Your mother was correct."
 
-`Ugh. Great. Just...  don't tell her that, OK?  I'll never hear the end of it,` he grumbled.
+`Ugh. Just don't...  don't tell her that, OK?  I'll never hear the end of it,` he grumbled.  `I feel exhausted.  Like I've run a marathon and haven't eaten or drank anything in days.`
 
-!!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 hours."
+!!! info "So, the hunger and dehydration are side effects of some of the genetic modifications that are still ongoing, though most of it is done.  You have been unconscious for approximately 24 ho-"
 
-`Wait... What... WHAT. HAVE. YOU. DONE??!!`
+`Wait, wait... What...  WHAT. HAVE. YOU. DONE??!!`
 
-!!! info "I've unlocked your daimonic progression levels.  We will be training to increase your body's power, strength, coordination, and endurance, as well as focusing your mental acuity on both psychic energy and elemental manipulation."
+!!! info "I've unlocked your daimonic power.  We will be training to increase your body's power, strength, coordination, and endurance, as well as focusing your mental acuity on tapping into and controlling your elemental manipulation."
 
-`Um... Demonic progression....`
+`Ok. Uh. Um... Demonic power....`
 
-!!! info "Incorrect.  DAIMONIC.  From the ancient Greek 'δαίμων', which meant 'godlike, power or fate'.  Daimons were seen as lesser deities or guiding spirits and could be either good or evil.  Or both.  Depending on their attitude."
+!!! info "Incorrect.  DAIMONIC.  From the ancient Greek 'δαίμων', which meant 'godlike, power or fate'.  Daimons were seen as lesser deities or guiding spirits in the ancient world and could be a power for either good or evil.  Or both.  Usually they were just obnoxious, depending on their attitude.  If you need a comparison, think of the ancient demigods of mythology.  Most of them were Daimons actually."
+
+`So I have this "daimonic" power now?`
+
+!!! info "Precisely.  Therefore, we need to start your training immediately."
 
 `OK, we'll be training.   Um, why do we need to train?  And what was that about the mental focusing something...?`
 
-!!! info "We train so you are not killed by other Daimonic individuals who are afraid of you.  Or what you will become.  I mentioned this earlier?  Regardless, the mental aspects are the Psychic Energy and Elemental Manipulation skills."
+!!! info "We train so you are not killed by other Daimonic individuals who are afraid of you.  Or rather, what you will become.  I mentioned this earlier?  Regardless, the mental aspects are the Elemental Manipulation skills."
 
-`Awesome, so I have magic or something now?`
+`What The HELL??!?  Someone's going to try to kill me?  Take it Back!!!`
 
-!!! info "No, you have the ability to psychically interact with various nanites that have been injected into your bloodstream.  The nanites are what's used for the DNA restructuring, as well as manipulating various energy frequencies in the environment.  Your body and system are creating more and more nanites as we speak.  That is some of the replication that is still ongoing.  And will be for some time."
+!!! info "That is not possible anymore.  The modifications are already well underway, and the nanites are almost fully integrated at this point."
 
-`Oh. OK. Um, how many progression levels are there?`
+`OK, ok, focus on what I can fix now.   Ok, so I'll control all of this with my mind or something.`
 
+!!! info "Partially, you will eventually have the ability to psychically interact with various nanites that have been injected into your bloodstream. Your thoughts will influence the nano-machines, and dictate their response.  The nanites are what's used for the genome restructuring, as well as manipulating various energy frequencies in the environment.  Your body and system are creating more and more nanites as we speak.  That is some of the replication that is still ongoing.  And will be for some time."
 
+`What's the likelihood of these others leaving me alone?`
 
-<EXPLAIN THE PROGRESSION AND PATHS>
-
-
-
-
-!!! info "It is unlikely you will reach the last stage of refinement.  Too many outside variables and hostile actors and forces will try to prevent this from happening, but the first couple of levels should be very doable for you.  Especially with myself acting as a guide.  You should become quite powerful, if we are given the opportunity.  And you aren't killed."
+!!! info "Unlikely. That power, in both your physical changes as well as your elemental strength, will draw out others.  You should become quite powerful, if we are given the opportunity.  And you aren't killed."
 
 `You're just a bundle of sunshine, aren't you?`
 
@@ -67,15 +68,15 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 After a long shower and a double-portioned breakfast, {{daimon.hero_nickname}} called his office and asked to speak with Mary.  He figured no matter what the situation was or what happened to him, as long as he was not bleeding out, she'd want to hear from him and make sure he was ok and everything.
 
-"Mary here, ...{{daimon.hero_nickname}}, is that you?  Are you OK?"
+"Mary here, ...{{daimon.hero_nickname}}, is that you??!?  {{daimon.hero_nickname}}, Are you OK?!"
 
-"Hey Mary, I'm good, not hurt.  Just... really messed up mentally on what happened the other night.   I crashed unbelievably hard.  I think my body needed it.  Sorry I didn't contact you sooner.   I think I just needed time.   ...Still do if I'm being honest," {{daimon.hero_nickname}} replied with a heavy sigh.
+"Hey Mary, I'm good, not hurt.  Just... trying to make sense of everything, I think I'm really messed up mentally on what happened the other night.   I crashed unbelievably hard.  Pretty sure my body needed it.  Sorry I didn't contact you sooner.   I just needed time.   ...Still do if I'm being honest," {{daimon.hero_nickname}} replied with a heavy sigh.
 
-"I'll let everyone here know you're ok.  We're glad you're not hurt, {{daimon.hero_nickname}}.  Are you gonna go talk to a therapist or something?  I know I would need one."
+"I'll let everyone here know you're ok.  We heard and saw on the news some of what happened at the museum the other night and we knew you were headed there.  A couple of us were a little freaked out when we didn't hear from you.  We're glad you're not hurt, {{daimon.hero_nickname}}.  Are... are you gonna go talk to a therapist or something?  Go to your doctor's? I know I would need one."
 
-"You just like to talk to people.  ...Actually Mary, I think I'm gonna take a break for a bit.  I saw some things that I'm having a hard time with.  I think I'm gonna take a leave of absence.  Take some time for myself.  Clear some things up."  {{daimon.hero_nickname}} paused.  "The application should be good to go, and I'm leaving the rest of it in your hands.  You're in charge, Mary.  I'll send an email or something to that effect so our staff and clients know."
+"Heh, you just want a reason to to talk to people.  ...Actually Mary, I think I'm gonna take a break for a bit.  A Sabbatical.  I saw some things that I'm having a hard time with.  I think I'm gonna take a leave of absence.  Take some time for myself.  Clear some things up."  {{daimon.hero_nickname}} paused.  "The platform should be good to go, and I'm leaving the rest of it in your hands.  You're in charge, Mary.  I'll send an email or something to that effect so our staff and clients know."
 
-"No worries {{daimon.hero_nickname}}.  Just remember how much I took care of you during my performance review."
+"No worries {{daimon.hero_nickname}}.  You're one of my oldest friends, we love you.  Also, just remember how much I took care of you during my performance review."
 
 "Oh you're getting a nice fat raise, Mary.  I'll email payroll right after this call to make it official as well."
 
@@ -127,31 +128,31 @@ Fortunately {{daimon.hero_nickname}} remembered that the local grocery store was
 
 `You can get a little creepy my friend.   Let's not get crazy yet.  Ease into the training, yes?  And I'm still human, thank you very much.`
 
-!!! info "Take my word on this.  You are NOT entirely human anymore."
+!!! info "Take my word, you are NOT entirely human anymore."
 
-`Not sure I believe that... I mean, I know I can do some things now, but I don't feel any different.`
+`Not sure I believe that... I mean, I know you're telling me I can do some things now, but I don't feel any different.`
 
 !!! info "I find your lack of faith... disturbing."
 
-`Star Wars quote?  Seriously?  HOW?`  He groaned.
+`A Star Wars quote?  Seriously?  HOW?`  He groaned.
 
 !!! info "The museum had decent wi-fi..."
 
 Sighing, `OK, so what's first?`
 
-!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Then we copy their movements and styles for now.  Every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental code constructs in the afternoon and early even-"
+!!! info "Now, this is where you should be able to excel past your other contemporaries here, with me as your teacher.  I am going to show you past training memories, reconstructions of ancient warlords, and various weapon masters and how they lived and fought.  Their training regimens.  Then we copy their movements and styles for now.  After we've learned the basics and various styles, we'll start to combine them into our own style for maximum effectiveness.   We will train every morning before sunrise, until noon.  Followed by some refreshments, then we'll work on elemental software code constructs in the afternoon and early ev-"
 
-`Wait!  wait, wait, code constructs?`  Wide-eyed, {{daimon.hero_nickname}} whispered in awe.
+`Wait!  wait, wait... code constructs?`  Wide-eyed, {{daimon.hero_nickname}} whispered in awe.
 
-!!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  Its your nanites and psychic potential that enable you manipulate the environment.  You do remember how to do Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
+!!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  I will show you how it's done virtually.  Don't forget, it is your nanites that enable you manipulate the environment.  You do remember how to do Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
 
-`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... wicked cool.`  {{daimon.hero_nickname}} said with a big smile.
+`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... friggin' awesome!!!`  {{daimon.hero_nickname}} said with a big smile.
 
-!!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest form."
+!!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest, most pristine form."
 
 `I am sooo gonna code me some fireballs.  Ooo, maybe some lightning bolts.`
 
-!!! info "It's all fun and training until someone loses an eye."
+!!! info "Its going to be a long, long day."
 
 * * *
 
@@ -161,31 +162,37 @@ Sighing, `OK, so what's first?`
 
 For the first six days, the routine did not falter.   {{daimon.ai_nickname}} made sure {{daimon.hero_nickname}} was up at 4:45am, as promised before dawn.  
 
-The routine was to hydrate, stretch, run 1 mile, then cooldown.  After that, {{daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused one pushing his nanites and his energy to help his body grow stronger, faster.  
+The routine was to hydrate, stretch, run at least a mile if not more, then cooldown.  After that, {{daimon.hero_nickname}} would review and perform a form he learned the previous day, and then work on learning a new form.  All while focused on pushing his nanites and energy to help his body grow stronger, rejuvenate faster.  
 
-Growing up, his father had been a 4th degree black belt in Tang Soo Do, and while {{daimon.hero_nickname}} learned some good self defense, he never pushed it like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms {{daimon.ai_nickname}} was teaching him, very quickly.
+{{daimon.hero_nickname}} recalled growing up, his father had been a 4th degree black belt in Tang Soo Do.  And while {{daimon.hero_nickname}} learned some good self defense, he never pushed becoming a martial artist like some of his classmates did, wanting to be the next world champion or something like that.  Those experiences however, helped him adjust to learning the new forms and techniques {{daimon.ai_nickname}} was teaching him, very quickly.  
 
-The next set of exercises, and the foundation for most other external psychic abilities, was the manifestation and pushing out of pure energy.  It dealt with controlling the energy all around us, within ourselves and the universe.  Pure energy could be used for general healing and creating shields.  {{daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to pool the energy.  
+Some {{daimon.hero_nickname}} realized, some of these forms and techniques were variations on modern styles, such as Aikido and Kung Foo.  Others looked more... primal, almost animalistic.
 
-Fortunately, with {{daimon.ai_nickname}}'s help and insight, {{daimon.hero}} comprehended this concept very quickly, and moved onto specific elemental energy types.
+Then they moved onto the Elemental energy side of their training.
 
-{{daimon.hero_nickname}} starting with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{daimon.psy_elemental_list_all}}.
+The next set of exercises, and the foundation for most other external abilities, was the manifestation and pushing out of pure energy.  It dealt with controlling the energy all around us, within ourselves and the universe.  In some ways, it was its own form of meditation.  Pure energy could be used for general healing and creating basic energy shields.  {{daimon.hero_nickname}} was told however, to not try to 'do anything' with them yet.   Just focus on using the nanites to gather and pool the energy.  
 
-It was the seventh day, where they revisited some of the pure energy concepts.   
+This however, even with {{daimon.ai_nickname}}'s help and insight, took time.   After another couple days though, {{daimon.hero}}'s meditation and mental preparation finally paid off.  And it appeared, the flood gates opened.
 
-!!! info "Today, we'll be covering new ground and discussing 'why' we did not touch healing or shielding."
+{{daimon.hero_nickname}} started with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Visualization was the key here.  Thenm, once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{daimon.psy_elemental_list_all}}.
 
-`OK, I was wondering about that.  What new ground are we covering?`
+Eventually, he was told he could start combining various elements for a myriad of different effects, but for now, stay within a single elemental sphere when training.
 
-!!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Not even all of it.  What we would need to do is provide a 'constant flow' of pure healing energy to the target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
+It was the end of the second week when they revisited some of the pure energy concepts.   
 
-`So we can make how much we heal... variable,` {{daimon.hero_nickname}} replied deep in thought.
+!!! info "Today, we'll be covering new ground and discussing 'why' we did not touch healing or shielding yet."
+
+`OK, I was wondering about that.  Especially when, at least to me, was the most area to learn.  What new ground are we covering?`
+
+!!! info "So, let's recap.  We've pooled our energy, but it's a small amount.  The amount of healing this could do is extremely small and limited.  Maybe stop some bleeding.  Heal a couple of scratches, probably not even all of them.  What we would need to do is provide a 'constant flow' of pure healing energy to the target.  Continuously replenishing the amount there.   This continuous flow, is called channeling."
+
+`So we can make how much we heal... variable,` {{daimon.hero_nickname}} replied.
 
 !!! info "Channeling however, is also the fastest way to completely drain you of energy.  And leave you completely weak and vulnerable.  Hence, it's taught with an abundance of more caution.  More of our kind has been killed or enslaved due to being energy deficient than any other action."
 
-`Makes sense.`  He replied with a smirk.  
+`Makes sense.`  He replied deep in thought.  
 
-!!! info "We'll add channeling to the training regimen for all your elemental affinities.  Now, some pin pricks or repeated exacto-blade cuts on your hand and forearms should be sufficient to practice your healing abilities."
+!!! info "We'll add channeling to the training regimen for all your elemental affinities.  Grab that knife over there by the kitchen.  Now, you can stab yourself or some repeated cuts on your hand and forearms should be sufficient to practice your healing abilities."
 
 Rolling his eyes, {{daimon.hero_nickname}} thought, `Great.  I'm pretty sure my therapist would be horrified by this conversation.  I'm probably gonna need to go pick up some extra bandages, just in case.`
 
