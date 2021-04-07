@@ -28,20 +28,22 @@ extra:
     psy_energy_shield: Shield / Warding
     psy_energy_healing: Healing
 
-    psy_elemental_list_all: Air, Earth, Fire, Water, Light, Darkness, Nature, Crystal, and Metal
+    psy_elemental_list_all: Air, Earth, Fire, Water, Ice, Nature, Lightning, Smoke, Ash, Dust, Radiance, Mineral, Vacuum, Positive, and Negative
     psy_elemental_common1: Air
     psy_elemental_common2: Earth
     psy_elemental_common3: Fire
     psy_elemental_common4: Water
     psy_elemental_common5: Nature
-    psy_elemental_uncommon1: Metal
-    psy_elemental_uncommon2: Smoke**    #Not introduced yet
-    psy_elemental_uncommon3: Acid**     #Not introduced yet
-    psy_elemental_rare1: Darkness
-    psy_elemental_rare2: Crystal
-    psy_elemental_rare3: Light
-    psy_elemental_ultrarare1: Void**    #Not introduced yet
-    psy_elemental_ultrarare2: Space**   #Not introduced yet
+    psy_elemental_common6: Ice
+    psy_elemental_common7: Lightning
+    psy_elemental_uncommon1: Ash**        #Not introduced yet
+    psy_elemental_uncommon2: Dust**       #Not introduced yet
+    psy_elemental_uncommon3: Smoke**      #Not introduced yet
+    psy_elemental_rare1: Radiance**       #Not introduced yet
+    psy_elemental_rare2: Mineral**        #Not introduced yet
+    psy_elemental_rare3: Vacuum**         #Not introduced yet
+    psy_elemental_ultrarare1: Positive**  #Not introduced yet
+    psy_elemental_ultrarare2: Negative**  #Not introduced yet
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
@@ -67,19 +69,18 @@ extra:
     clan_name18: Heartshield
     clan_name19: Curran       #Mage clan NE Maine #Irish- small spear from Corraidhin
 
-
     # See https://www.dndbeyond.com/races
-    myth_type1: Angelic
+    myth_type1: Angelic               #*
     myth_type2: Werewolf
-    myth_type3: Vampire
-    myth_type4: Elf
+    myth_type3: Vampire               #*
+    myth_type4: Elf                   #*
     myth_type5: Orc
-    myth_type6: Beastkin
+    myth_type6: Beastkin              #*
     myth_type7: Goliath / Giant-kin
-    myth_type8: Magoi (Wizard/Witch)
+    myth_type8: Magoi (Wizard/Witch)  #*
     myth_type9: Drow
     myth_type10: Yuan-ti / Snake-Men
-    myth_type11: Tiefling
-    myth_type12: Triton
+    myth_type11: Tiefling             #*
+    myth_type12: Triton               #*
     myth_type13: Goblin
     # Aqrabuamelu
