@@ -1,1 +1,69 @@
-site_name: My Docs
+site_name: My Projects
+site_description: All Book Ideas
+site_author: TJ O'Hare
+copyright: 'Copyright &copy; 2021 TJ OHare'
+#repo_url: https://github.com/tjohare/tjohare.github.io
+
+#Custom
+extra_css:
+  - 'stylesheets/extra.css'
+extra:
+  social:
+    - icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/edward.ohare.jr
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/gdistortions
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/tjohare/
+
+#Plugins
+plugins:
+    - search
+
+#Config
+theme:
+  name: material      #Material Logos can be found here: https://pictogrammers.github.io/@mdi/font/5.4.55/
+  language: 'en'
+  features:
+    - navigation.sections
+    # - navigation.tabs #remove to have everything in the left hand navigation instead...
+    - toc.integrate
+  palette:
+    primary: 'indigo'
+    accent: 'deep purple'
+  font:
+    text: 'Roboto'
+    code: 'Permanent Marker'
+
+#Markdowns
+markdown_extensions:
+  - meta
+  - def_list
+  - attr_list
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
