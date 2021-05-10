@@ -1,1 +1,1 @@
-# Chapter 9 - A Raid and a Lead
+# A Raid and a Lead

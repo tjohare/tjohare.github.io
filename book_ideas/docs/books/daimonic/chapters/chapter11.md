@@ -1,1 +1,1 @@
-# Chapter 11 - Mage clan introduction
+# Mage clan introduction

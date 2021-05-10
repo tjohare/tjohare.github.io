@@ -28,8 +28,8 @@ This is the layout of the mkdocs projects.  It contains both what the original p
         ...       # Other markdown pages, images and other files.
     ```
 
-### Current project structure
-
+??? info "Current project structure"
+    ```
     mkdocs.yml            # The configuration file.
     custom/
         partials/
@@ -38,3 +38,4 @@ This is the layout of the mkdocs projects.  It contains both what the original p
         stylesheets/
             extra.css     #customized css settings
         index.md          # The documentation homepage.
+    ```

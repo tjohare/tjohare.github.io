@@ -1,4 +1,4 @@
-# Chapter 4 - Hunting Season
+# Hunting Season
 
 _[Location: Mount Elbert, Colorado]_
 

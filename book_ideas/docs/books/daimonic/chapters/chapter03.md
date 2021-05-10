@@ -1,4 +1,4 @@
-# Chapter 3 - Pride & Prejudice
+# Pride & Prejudice
 
 _[Location: Grand Lake, Colorado; {{daimon.hero_friend_angel}}'s POV]_
 

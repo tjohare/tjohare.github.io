@@ -1,4 +1,4 @@
-# Chapter 1 - The Awakening
+# The Awakening
 
 _[Location: Fort Lauderdale, FL]_
 

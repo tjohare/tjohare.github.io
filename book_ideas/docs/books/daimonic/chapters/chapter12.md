@@ -1,1 +1,1 @@
-# Chapter 12 - Hide and Seek
+# Hide and Seek

@@ -1,1 +1,1 @@
-# Chapter 6 - San Diego Bound
+# San Diego Bound

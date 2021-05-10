@@ -1,4 +1,4 @@
-# Chapter 2 - AI Introduction
+# AI Introduction
 
 Sometime later, {{daimon.hero_nickname}} woke.   Ravenously hungry and de-hydrated, he began to pick himself up off the floor.  He climbed back up on the couch, and grabbed the water bottle he picked up earlier and chugged it completely.   After a few seconds, he needed more.
 

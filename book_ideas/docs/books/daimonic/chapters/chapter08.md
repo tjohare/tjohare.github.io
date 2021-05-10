@@ -1,1 +1,1 @@
-# Chapter 8 - Artifacts and Answers
+# Artifacts and Answers

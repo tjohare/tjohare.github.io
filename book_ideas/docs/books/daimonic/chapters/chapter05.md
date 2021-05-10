@@ -1,1 +1,1 @@
-# Chapter 5 - Ambushes & Skirmishes
+# Ambushes & Skirmishes
