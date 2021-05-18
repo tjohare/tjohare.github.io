@@ -98,7 +98,7 @@ Just then, they crashed into a huge stone relief of one of the winged 'Annunaki'
 
 Another crash resounded around the room, more violent than the last, and {{daimon.hero}} knew he needed to move now.   As he moved to get up and turned for the side emergency fire exit, he reached out and grabbed the gem.  A mild electric shock traveled up his arm and stopped his movements.   But that wasn't what had him locked in place and blinking furiously.   He was clearly hearing words that he should NOT be hearing.
 
-!!! warning "Bloodline Genome confirmed.  Trace biological patterns as well as mi{width=800}hondrial DNA and chloroplast DNA confirm ancestry to the required profile.   Initiating molecular bonding of Daimonic AI now..."
+!!! warning "Bloodline Genome confirmed.  Trace biological patterns as well as mitochondrial DNA and Ribosomal RNA sequences confirm ancestry to the required profile.   Initiating molecular bonding of Daimonic AI now..."
 
 `what... What.  The Hell.  Is that?`
 

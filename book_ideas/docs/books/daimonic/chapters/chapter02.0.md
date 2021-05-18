@@ -14,7 +14,7 @@ Moving to the kitchen, he re-filled the water bottle from the fridge's water dis
 
 !!! info "Yes I am sure.  I am an artificial entity, an intelligent program, created for the purpose of teaching the descendants of Enki about their heritage and unlocking their potential.  Most of the true bloodline were hidden for years, even when Enki and his brother were still here.  Too many others feared their power and potential and started to wipe their descendants out.  And Enki was known to be a little... vigorous when it came to having kids."
 
-`Who's Enki?  What's an Enki, that's a weird name.  Wait, "Descendants"....are you saying I'm related, like my great grandfather or something?`
+`Who's Enki?  What's an Enki, that's a weird name.  Wait, "Descendants"....are you saying I'm related, like they're my great great grandfather or something?`
 
 !!! info "Yes, but for who he is, we can discuss that later on.   Think of it this way, your genetics indicate you're descended from a very powerful individual, you've inherited some of his potential, and right now, we have to focus on developing out that potential.  Which is significant, and you will be noticed very quickly.  There are many who would want to control you.  Or neutralize you."
 
@@ -94,7 +94,7 @@ After a long shower and a double-portioned breakfast, {{daimon.hero_nickname}} c
 
 !!! info "I will always be here {{daimon.hero}}.  Have you shortened my name now?  A gesture of familiarity and friendship?  How can I help you {{daimon.hero_nickname}}?"
 
-`{{daimon.ai_nickname}} feels more natural for me.  So, back on point, we discussed training.  What do we need to do?  What's the plan?  Do YOU have a plan?`
+`{{daimon.ai_nickname}} feels more natural for me.  And everyone calls me Dom, so, back on point, we discussed training.  What do we need to do?  What's the plan?  DO you have a plan?`
 
 !!! info "First, since there are other Daimons actively hunting in this area, we should go somewhere remote, more isolated than here, so we are not discovered.  Do you have a location we can use for this?"
 
@@ -110,7 +110,7 @@ After a long shower and a double-portioned breakfast, {{daimon.hero_nickname}} c
 
 !!! info "Also, I suggest driving there.  It gives us more options, allows for us to hide or react appropriately, if we are discovered.  Being stuck in a flying tube does not seem particularly safe to me."
 
-`Me neither, bud.  Me neither.`
+`Me neither, Kal.  Me neither.`
 
 * * *
 
@@ -130,11 +130,11 @@ Fortunately {{daimon.hero_nickname}} remembered that the local grocery store was
 
 !!! info "Take my word, you are NOT entirely human anymore."
 
-`Not sure I believe that... I mean, I know you're telling me I can do some things now, but I don't feel any different.`
+`That's...fairly unsettling. I mean, I know you're telling me I'm different, and there were changes made to me, and I can do some things now, but I don't feel any different.  At least I don't think so.`
 
 !!! info "I find your lack of faith... disturbing."
 
-`A Star Wars quote?  Seriously?  HOW?`  He groaned.
+`Movie quotes?  Seriously?`  He groaned.
 
 !!! info "The museum had decent wi-fi..."
 
@@ -146,13 +146,13 @@ Sighing, `OK, so what's first?`
 
 !!! info "Yes, we'll need to do some coding in order to control the nanites to act as we wish.  I will show you how it's done virtually.  Don't forget, it is your nanites that enable you manipulate the environment.  You do remember how to do Encapsulation, Abstraction, Inheritance, Polymorphism...Yes?  As you have worked as a programmer before, this seemed an area where you might be the most comfortable.  Was I wrong?"
 
-`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... friggin' awesome!!!`  {{daimon.hero_nickname}} said with a big smile.
+`No, not wrong.  I just didn't expect software coding translated to Magic.   That's... friggin' awesome!!!`  {{daimon.hero_nickname}} chuckled with a big smile.
 
-!!! info "sigh, Coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave in a certain way, under various trigger conditions.  This is science and technology in it's purest, most pristine form."
+!!! info "Software coding does not translate to magic.  Magic does not exist.  You are merely programming the nanites in your system to behave and interact with the environment in a certain way, under various trigger conditions.  This is science and technology in it's purest, most pristine and elegant form."
 
 `I am sooo gonna code me some fireballs.  Ooo, maybe some lightning bolts.`
 
-!!! info "Its going to be a long, long day."
+!!! info "sigh, Its going to be a long, long day."
 
 * * *
 
@@ -174,7 +174,7 @@ The next set of exercises, and the foundation for most other external abilities,
 
 This however, even with {{daimon.ai_nickname}}'s help and insight, took time.   After another couple days though, {{daimon.hero}}'s meditation and mental preparation finally paid off.  And it appeared, the flood gates opened.
 
-{{daimon.hero_nickname}} started with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Visualization was the key here.  Thenm, once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{daimon.psy_elemental_list_all}}.
+{{daimon.hero_nickname}} started with the fire element.  He called it to him and pooled a small amount within his palm.  About the size of a baseball.  Then he 'pushed' or threw the energy toward a target.   Visualization was the key here.  Then, once he could hit his target with one element consistently, he would rotate onto another element, running through each elemental sphere as they were; {{daimon.psy_elemental_list_all}}.
 
 Eventually, he was told he could start combining various elements for a myriad of different effects, but for now, stay within a single elemental sphere when training.
 
