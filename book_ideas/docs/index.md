@@ -53,19 +53,6 @@ Here's some authors I follow:
 ![Dragon](assets/chinese-dragon-wallpaper-1.jpg){width=100%}
 
 
-
-### Flow of what happens...
-``` mermaid
-graph LR
-    A[{{extra.daimon.hero_fullname}}] -->|colorado omega      | B[Micaela]
-    A                                 -->|cross country rescue| C[{{extra.daimon.hero_friend_triton}}]
-    A                                 -->|boston tea party    | D[{{extra.daimon.hero_friend_mage}}]
-    B                                 -->|action taken        | E([{{extra.daimon.hero_nickname}} activates angelic DNA])
-    C                                 -->|her thoughts        | F([who saved me?])
-    D                                 -->|her thoughts        | G([who is this guy?])
-```
-
-
 <hr>
 ## Footnotes
 [^1]: Amazon Kindle Page: https://www.amazon.com/William-D.-Arand/e/B01AY7PSG4?ref=dbs_a_def_rwt_sims_vu00_r0_c0

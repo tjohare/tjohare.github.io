@@ -39,3 +39,8 @@ This is the layout of the mkdocs projects.  It contains both what the original p
             extra.css     #customized css settings
         index.md          # The documentation homepage.
     ```
+
+## Chocolatey commands
+
+* `choco list --local-only` - List locally installed chocolatey applications
+* `cup all -y` - List locally installed chocolatey applications and update them if necessary.  the -y option for YES to upgrade them.
