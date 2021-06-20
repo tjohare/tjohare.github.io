@@ -26,6 +26,11 @@ div.admonition p.admonition-title{
 	line-height: 1.2;
 }
 
+.md-typeset pre>code {
+  background-color: black;
+  color: white;
+}
+
 .md-typeset code{
 	font-size: .75rem;		/* .7rem for Roboto */
 	font-style: italic;
