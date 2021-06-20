@@ -6,7 +6,7 @@
 !!! info " "
     _The word "Demon" which we commonly know today, is derived from "Daemon"._
 
-    _Daemon is the Latin word for the Ancient Greek of `daimon` (`δαίμων`: "god", "godlike", "power", "fate"), which originally referred to a lesser deity or guiding spirit such as the daemons of ancient Greek religion and mythology and of later Hellenistic religion and philosophy. The word is derived from Proto-Indo-European *daimon "provider, divider (of fortunes or destinies), "* from the root da- "to divide". Daimons were possibly seen as the souls of men of the golden age acting as tutelary deities, according to entry δαίμων at Liddell & Scott._
+    _Daemon is the Latin word for the Ancient Greek of `daimon` (`δαίμων`: "god", "godlike", "power", "fate"), which originally referred to a lesser deity or guiding spirit such as the daemons of ancient Greek religion and mythology and of later Hellenistic religion and philosophy. The word is derived from Proto-Indo-European daimon "provider, divider (of fortunes or destinies)," from the root da- "to divide". Daimons were possibly seen as the souls of men of the golden age acting as tutelary deities, according to entry δαίμων at Liddell & Scott._
 
     _Additionally, For reference, BCE is short for Before Common Era. The Common Era begins with year 1 in the Gregorian calendar and is also known as the Western or Christian calendar._
 
@@ -18,8 +18,6 @@ The seven sages in Sumerian mythology sent to the earth by Anu (or Enki in some 
 
 There are shrines to Enki dating back to the founding of the city of Eridu, considered by the Mesopotamians the first city established at the beginning of the world c. 5400 BCE.
 
-### Spoiler
-
 ??? question "Storyline spoiler"
     `None of the old Gods actually were divine though...`  They were travelers from alternate dimensions and planes, space.   More importantly, they were usually opportunists and unscrupulous businessmen and merchants.   Just vasty overpowered compared to the native life here on Earth.   Also for some of them, Earth also acted as a penal colony, similar to the origins of Australia.
 
@@ -29,7 +27,7 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 ???+ example "Highlights"
     1.  - [x] Intro to hero, {{extra.daimon.hero_fullname}}.
     1.  - [x] Intro to normal life for hero.
-    1.  - [x] Witnessing the battle between {{extra.daimon.insurance_client_name}} and {{extra.daimon.badguy_class}}.
+    1.  - [x] Witnessing the battle between {{extra.daimon.insurance_client_name}} and {{extra.daimon.myth_type0}} / {{extra.daimon.myth_type2}} team.
     1.  - [x] {{extra.daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{extra.daimon.ai_name}}.
     1.  - [x] "AI" in form of Embedded Gem and Tattoo on host.  Can change shape & form.
     1.  - [x] Meet {{extra.daimon.hero_friend_angel}} & clan heirs.

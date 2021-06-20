@@ -1,0 +1,82 @@
+extra:
+  daimon:
+    hero: Dominick
+    hero_nickname: Dom
+    hero_fullname: Dominick Higant          #"daimonic knight" anagram https://www.anagrammer.com/anagrammer/
+    villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
+    ai_name: Apkallu
+    ai_nickname: Kal
+    law_officer1: Marshal                   #NOT USED
+    hero_friend_triton: Tethys
+    hero_friend_mage: Gwyneth
+    hero_friend_mage_nickname: Gwen
+    hero_friend_angel: Mikaela
+    hero_friend_angel_brother: Malach
+    bus_name: Automated Security Heuristics (Ash) Incorporated
+    bus_app_name: Automated Security Heuristics Learning Environment (ASHLE)
+    insurance_client_name: Reagan Addison
+
+    #Unused first names
+    # Cael Gabriel Javan Raphael
+    # Evangeline Lailah Melek Tien
+
+    psy_elemental_list_all: Air, Earth, Fire, Water, Nature, Light, Dark, Illusion, Lightning, Life, Death, Metal, Healing, Compulsion, Summoning, and Spatial
+    psy_element_1: Air
+    psy_element_2: Earth
+    psy_element_3: Fire
+    psy_element_4: Water
+    psy_element_5: Nature
+    psy_element_6: Light
+    psy_element_7: Dark
+    psy_element_8: Illusion
+    psy_element_9: Lightning
+    psy_element_10: Life
+    psy_element_11: Death
+    psy_element_12: Metal
+    psy_element_13: Healing
+    psy_element_14: Compulsion
+    psy_element_15: Summoning
+    psy_element_16: Spatial
+
+    # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
+    # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
+    # https://www.irelandbeforeyoudie.com/irish-surnames-top-100-last-names-family-names-ranked/
+    # Also Google translate
+    clan_name1: Draoi         #irish
+    clan_name2: Ezeru         #Sumerian
+    clan_name3: Asimati       #amharic
+    clan_name4: Galdur        #icelandic
+    clan_name5: Jingshen      #chinese
+    clan_name6: Addison       #american
+    clan_name7: Tofra         #icelandic
+    clan_name8: Hud           #welsh
+    clan_name9: Sahir         #Arabic
+    clan_name10: Blackmaw     #Werewolf
+    clan_name11: Incarnatus   #Werewolf
+    clan_name12: Caedis       #Vampire House
+    clan_name13: Nex          #Vampire House
+    clan_name14: Silversteel  #Angelic Paladin House
+    clan_name15: Goldwing     #Angelic Paladin House
+    clan_name16: Brightblade
+    clan_name17: Whitespear
+    clan_name18: Heartshield
+    clan_name19: Curran       #Mage clan NE Maine #Irish- small spear from Corraidhin
+
+    # See https://www.dndbeyond.com/races
+    myth_type0: Demi-god
+    myth_type1: Angelic
+    myth_type2: Werewolf
+    myth_type3: Vampire
+    myth_type4: Elf
+    myth_type5: Orc
+    myth_type6: Beastkin
+    myth_type7: Goliath / Giant-kin
+    myth_type8: Magoi (Wizard/Witch)
+    myth_type9: Drow
+    myth_type10: Yuan-ti / Snake-Men
+    myth_type11: Tiefling
+    myth_type12: Triton
+    myth_type13: Goblin
+    myth_type14: Fairy
+    myth_type15: Aqrabuamelu
+    
