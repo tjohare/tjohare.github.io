@@ -14,7 +14,8 @@ extra:
     hero_friend_angel_brother: Malach
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment (ASHLE)
-    insurance_client_name: Reagan Addison
+    insurance_client_name: Addison
+    insurance_client_firstname: Reagan
 
     #Unused first names
     # Cael Gabriel Javan Raphael
@@ -33,8 +34,8 @@ extra:
     psy_element_10: Life
     psy_element_11: Death
     psy_element_12: Metal
-    psy_element_13: Healing
-    psy_element_14: Compulsion
+    psy_element_13: Compulsion
+    psy_element_14: Healing
     psy_element_15: Summoning
     psy_element_16: Spatial
 
@@ -79,4 +80,3 @@ extra:
     myth_type13: Goblin
     myth_type14: Fairy
     myth_type15: Aqrabuamelu
-    
