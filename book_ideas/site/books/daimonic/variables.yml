@@ -14,30 +14,24 @@ extra:
     hero_friend_angel_brother: Malach
     bus_name: Automated Security Heuristics (Ash) Incorporated
     bus_app_name: Automated Security Heuristics Learning Environment (ASHLE)
-    insurance_client_name: Addison
+    insurance_client_lastname: Addison
     insurance_client_firstname: Reagan
 
     #Unused first names
     # Cael Gabriel Javan Raphael
     # Evangeline Lailah Melek Tien
 
-    psy_elemental_list_all: Air, Earth, Fire, Water, Nature, Light, Dark, Illusion, Lightning, Life, Death, Metal, Healing, Compulsion, Summoning, and Spatial
     psy_element_1: Air
     psy_element_2: Earth
     psy_element_3: Fire
     psy_element_4: Water
-    psy_element_5: Nature
-    psy_element_6: Light
-    psy_element_7: Dark
-    psy_element_8: Illusion
-    psy_element_9: Lightning
-    psy_element_10: Life
-    psy_element_11: Death
-    psy_element_12: Metal
-    psy_element_13: Compulsion
-    psy_element_14: Healing
-    psy_element_15: Summoning
-    psy_element_16: Spatial
+    psy_element_5: Illusion
+    psy_element_6: Life (Buff)
+    psy_element_7: Death (Debuff)
+    psy_element_8: Compulsion (Domination)
+    psy_element_9: Healing
+    psy_element_10: Summoning
+    psy_element_11: Spatial
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
@@ -64,19 +58,14 @@ extra:
     clan_name19: Curran       #Mage clan NE Maine #Irish- small spear from Corraidhin
 
     # See https://www.dndbeyond.com/races
-    myth_type0: Demi-god
-    myth_type1: Angelic
-    myth_type2: Werewolf
-    myth_type3: Vampire
-    myth_type4: Elf
-    myth_type5: Orc
+    myth_type0: Demigods
+    myth_type1: Vampire
+    myth_type2: Tritons
+    myth_type3: Angelic
+    myth_type4: Infernal
+    myth_type5: Fae
     myth_type6: Beastkin
-    myth_type7: Goliath / Giant-kin
-    myth_type8: Magoi (Wizard/Witch)
-    myth_type9: Drow
-    myth_type10: Yuan-ti / Snake-Men
-    myth_type11: Tiefling
-    myth_type12: Triton
-    myth_type13: Goblin
-    myth_type14: Fairy
+    myth_type7: Goliath
+    myth_type8: Spirit Folk
+    myth_type9: Elementals
     myth_type15: Aqrabuamelu

@@ -14,8 +14,8 @@ body {
 	background-attachment: fixed;
 }
 
-h2, h3 {
-	text-decoration: underline grey;
+h2 {
+  text-decoration: underline;
 }
 
 .md-typeset p{
@@ -24,6 +24,11 @@ h2, h3 {
 
 div.admonition p.admonition-title{
 	text-indent: 0px;
+}
+
+div.myDiv {
+	text-indent: 50px;
+	background-color: lightblue;
 }
 
 /* The admonition box styling */
@@ -39,8 +44,10 @@ div.admonition p.admonition-title{
 
 .md-typeset code{
 	font-size: .95rem;		/* .7rem for Roboto */
-	font-style: italic;
-	color: blue;
+	/* font-style: italic; */
+	color: midnightblue;  /* https://www.w3schools.com/colors/colors_names.asp */
+	background-color:transparent;
+	padding: 0 .1em;
 }
 
 /* Centers images */
