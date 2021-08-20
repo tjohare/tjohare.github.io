@@ -16,7 +16,6 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/tjohare/
 
-
 #Plugins
 plugins:
     - search
@@ -67,7 +66,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark

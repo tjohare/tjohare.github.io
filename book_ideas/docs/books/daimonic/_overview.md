@@ -118,34 +118,34 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 ## Chapter Highlights
 
 !!! example "Highlights"
-    1.  - [x] Intro to hero, {{extra.daimon.hero_fullname}}.
+    1.  - [x] Intro to hero, {{daimon.hero_fullname}}.
     1.  - [x] Intro to normal life for hero.
-    1.  - [x] Witnessing the battle between {{extra.daimon.insurance_client_name}} and {{extra.daimon.myth_type0}} / {{extra.daimon.myth_type2}} team.
-    1.  - [x] {{extra.daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{extra.daimon.ai_name}}.
+    1.  - [x] Witnessing the battle between {{daimon.insurance_client_name}} and {{daimon.myth_type0}} / {{daimon.myth_type2}} team.
+    1.  - [x] {{daimon.hero}} inherits responsibilities, tech equipment, and AI assistant, named {{daimon.ai_name}}.
     1.  - [x] "AI" in form of Embedded Gem and Tattoo on host.  Can change shape & form.
-    1.  - [x] Meet {{extra.daimon.hero_friend_angel}} & clan heirs.
-    1.  - [x] Wild Hunt issued against {{extra.daimon.hero_nickname}}.
-    1.  - [ ] {{extra.daimon.hero}} fights outside home & ambushed.
-    1.  - [ ] {{extra.daimon.hero}} hurt; {{extra.daimon.hero_friend_angel}} comes to his aid.  
-    1.  - [ ] {{extra.daimon.hero_nickname}} learns about robberies and secret kidnappings.
+    1.  - [x] Meet {{daimon.hero_friend_angel}} & clan heirs.
+    1.  - [x] Wild Hunt issued against {{daimon.hero_nickname}}.
+    1.  - [ ] {{daimon.hero}} fights outside home & ambushed.
+    1.  - [ ] {{daimon.hero}} hurt; {{daimon.hero_friend_angel}} comes to his aid.  
+    1.  - [ ] {{daimon.hero_nickname}} learns about robberies and secret kidnappings.
     1.  - [ ] San Diego next on list for museum heist.
-    1.  - [ ] {{extra.daimon.hero_nickname}} begins to alter/augment {{extra.daimon.hero_friend_angel}} nanite makeup.
-    1.  - [ ] {{extra.daimon.hero_friend_triton}} introduction.
-    1.  - [ ] {{extra.daimon.myth_type12}} artifacts on display; {{extra.daimon.hero_friend_triton}} arrives to ensure safety.
-    1.  - [ ] {{extra.daimon.hero}} arrives & hopes to get answers.
-    1.  - [ ] Museum raided; robbery stopped but {{extra.daimon.hero_friend_triton}} kidnapped.
+    1.  - [ ] {{daimon.hero_nickname}} begins to alter/augment {{daimon.hero_friend_angel}} nanite makeup.
+    1.  - [ ] {{daimon.hero_friend_triton}} introduction.
+    1.  - [ ] {{daimon.myth_type12}} artifacts on display; {{daimon.hero_friend_triton}} arrives to ensure safety.
+    1.  - [ ] {{daimon.hero}} arrives & hopes to get answers.
+    1.  - [ ] Museum raided; robbery stopped but {{daimon.hero_friend_triton}} kidnapped.
     1.  - [ ] Last robber reveals Boston headquarters.
-    1.  - [ ] {{extra.daimon.hero_nickname}} & {{extra.daimon.hero_friend_angel}} head to Boston.
-    1.  - [ ] {{extra.daimon.clan_name19}} {{extra.daimon.myth_type8}} clan introduction.
-    1.  - [ ] {{extra.daimon.hero_friend_mage}} introduction.
+    1.  - [ ] {{daimon.hero_nickname}} & {{daimon.hero_friend_angel}} head to Boston.
+    1.  - [ ] {{daimon.clan_name19}} {{daimon.myth_type8}} clan introduction.
+    1.  - [ ] {{daimon.hero_friend_mage}} introduction.
     1.  - [ ] Finds the robbery gang in Boston harbor; kidnapping victims on boat, artifacts in containers on wharf.
-    1.  - [ ] {{extra.daimon.clan_name19}} clan engages the kidnappers to rescue clan members kidnapped; losing.
-    1.  - [ ] {{extra.daimon.hero_nickname}} arrives and turns the tide of conflict.
+    1.  - [ ] {{daimon.clan_name19}} clan engages the kidnappers to rescue clan members kidnapped; losing.
+    1.  - [ ] {{daimon.hero_nickname}} arrives and turns the tide of conflict.
     1.  - [ ] Ship assault rescues 25 others; 3 missing.
-    1.  - [ ] {{extra.daimon.hero_nickname}} retreats; {{extra.daimon.hero_friend_triton}} freed; Her guard scuttles ship.
-    1.  - [ ] {{extra.daimon.hero_friend_triton}} returns home; {{extra.daimon.hero_friend_mage}} returns home.
-    1.  - [ ] Revelation that {{extra.daimon.hero_nickname}} is the target of the Wild Hunt; Divergent attitudes arise.
-    1.  - [ ] {{extra.daimon.hero_nickname}} and {{extra.daimon.hero_friend_angel}} go to the Caribbean via Bermuda.
+    1.  - [ ] {{daimon.hero_nickname}} retreats; {{daimon.hero_friend_triton}} freed; Her guard scuttles ship.
+    1.  - [ ] {{daimon.hero_friend_triton}} returns home; {{daimon.hero_friend_mage}} returns home.
+    1.  - [ ] Revelation that {{daimon.hero_nickname}} is the target of the Wild Hunt; Divergent attitudes arise.
+    1.  - [ ] {{daimon.hero_nickname}} and {{daimon.hero_friend_angel}} go to the Caribbean via Bermuda.
     1.  - [ ] Speculation on the kidnappings & who was really behind it.
 
 
@@ -167,7 +167,7 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 
 
 
-##Footnotes
+##All Footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Daemon_(classical_mythology)
 [^2]: https://www.ancient.eu/Enki/
@@ -185,3 +185,4 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 [^14]: https://www.grunge.com/181948/the-biggest-inventions-lost-to-time/
 [^15]: https://www.grunge.com/44103/evidence-ancient-civilizations-advanced-scientific-knowledge/
 [^16]: http://timesofindia.indiatimes.com/articleshow/51162479.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+[^17]: https://en.wikipedia.org/wiki/List_of_mythological_objects
