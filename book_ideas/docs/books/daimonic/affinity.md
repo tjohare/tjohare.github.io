@@ -16,28 +16,36 @@ Affinity Type is the energy sphere or "school" that is associated to that indivi
 The various affinity types are:
 
 ### {{daimon.psy_element_1}}
-{{daimon.psy_element_1}} is one of the four primary elements.  Associated with creatures that can fly.
+!!! info ""
+    {{daimon.psy_element_1}} is one of the four primary elements.  Associated with creatures that can fly.
 
 ### {{daimon.psy_element_2}}
-{{daimon.psy_element_2}} is one of the four primary elements.  Associated with creatures that burrow or live below the surface of the earth.
+!!! info ""
+    {{daimon.psy_element_2}} is one of the four primary elements.  Associated with creatures that burrow or live below the surface of the earth.
 
 ### {{daimon.psy_element_3}}
-{{daimon.psy_element_3}} is one of the four primary elements.  Associated with creatures that need flames, such as a phoenix, dragon, or efreeti.
+!!! info ""
+    {{daimon.psy_element_3}} is one of the four primary elements.  Associated with creatures that need flames, such as a phoenix, dragon, or efreeti.
 
 ### {{daimon.psy_element_4}}
-{{daimon.psy_element_4}} is one of the four primary elements.  Associated with creatures that live in the oceans.
+!!! info ""
+    {{daimon.psy_element_4}} is one of the four primary elements.  Associated with creatures that live in the oceans.
 
 ### {{daimon.psy_element_5}}
-{{daimon.psy_element_5}} affinity deals with reinforcement (buffs), biological (living) objects, the giving of energy, and healing and growth.
+!!! info ""
+    {{daimon.psy_element_5}} affinity deals with reinforcement (buffs), biological (living) objects, the giving of energy, and healing and growth.
 
 ### {{daimon.psy_element_6}}
-{{daimon.psy_element_5}} affinity deals with diminishment or hindering (debuffs), inorganic (inanimate, mineral) objects, the absorption of energy, and entropy.
+!!! info ""
+    {{daimon.psy_element_5}} affinity deals with diminishment or hindering (debuffs), inorganic (inanimate, mineral) objects, the absorption of energy, and entropy.
 
 ### {{daimon.psy_element_7}}
-{{daimon.psy_element_7}} is one of the rare affinities and deals with the manipulation and/or transmutation of a physical object and space.   
+!!! info ""
+    {{daimon.psy_element_7}} is one of the rare affinities and deals with the manipulation and/or transmutation of a physical object and space.   
 
 ### {{daimon.psy_element_8}}
-{{daimon.psy_element_8}} is one of the rare affinities and deals with the manipulation of a mental state or perception.
+!!! info ""
+    {{daimon.psy_element_8}} is one of the rare affinities and deals with the manipulation of a mental state or perception.
 
 ![](../../../assets/divider.png)
 

@@ -19,14 +19,12 @@ extra:
 #Plugins
 plugins:
     - search
-    - mermaid2
     - macros:
         include_yaml:
           - docs/books/daimonic/variables.yml
 
 #Extra_javascript
 extra_javascript:
-    - https://unpkg.com/mermaid/dist/mermaid.min.js
     - javascripts/config.js
     - https://polyfill.io/v3/polyfill.min.js?features=es6
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -73,11 +71,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.highlight
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde

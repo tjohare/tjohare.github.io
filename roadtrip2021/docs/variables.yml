@@ -1,0 +1,5 @@
+extra:
+  daimon:
+    hero: Dominick
+
+#// referenced as {{daimon.hero}} 
