@@ -25,8 +25,8 @@ extra:
     psy_element_2: Earth
     psy_element_3: Fire
     psy_element_4: Water
-    psy_element_5: Life 
-    psy_element_6: Death
+    psy_element_5: Life / Positive
+    psy_element_6: Death / Negative
     psy_element_7: Spatial
     psy_element_8: Mental
 
