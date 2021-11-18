@@ -7,12 +7,36 @@ video {
     pointer-events: initial;
 }
 
+/* https://superdevresources.com/free-seamless-patterns/#:~:text=Using%20a%20repeatable%20pattern%20in%20website%20backgrounds%20is,choice%20when%20you%20are%20looking%20for%20website%20backgrounds. */
+body {
+	background-image: url('../assets/grid.png');
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+}
+
+/*
+.md-content {
+	background-image: url('../assets/left_upper_scrollwork.jpg');
+	background-size: 100px;
+	background-repeat: no-repeat;
+}
+*/
+
+h2 {
+  text-decoration: underline;
+}
+
 .md-typeset p{
 	text-indent: 50px;
 }
 
 div.admonition p.admonition-title{
 	text-indent: 0px;
+}
+
+div.myDiv {
+	text-indent: 50px;
+	background-color: lightblue;
 }
 
 /* The admonition box styling */
@@ -26,15 +50,12 @@ div.admonition p.admonition-title{
 	line-height: 1.2;
 }
 
-.md-typeset pre>code {
-  background-color: black;
-  color: white;
-}
-
 .md-typeset code{
-	font-size: .75rem;		/* .7rem for Roboto */
-	font-style: italic;
-	color: Slateblue;				/* MidnightBlue - https://www.w3schools.com/cssref/css_colors.asp */
+	font-size: .95rem;		/* .7rem for Roboto */
+	/* font-style: italic; */
+	color: midnightblue;  /* https://www.w3schools.com/colors/colors_names.asp */
+	background-color:transparent;
+	padding: 0 .1em;
 }
 
 /* Centers images */
@@ -48,11 +69,6 @@ span.ai{
 	color: blue;
 }
 
-/*
-h2, h3 {
-	text-decoration: underline grey;
-}
-*/
 
 /* Removes the Table of Contents from the display
 .md-sidebar--secondary > .md-sidebar__scrollwrap {

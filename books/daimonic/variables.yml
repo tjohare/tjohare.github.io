@@ -1,0 +1,68 @@
+extra:
+  daimon:
+    hero: Dominick
+    hero_nickname: Dom
+    hero_fullname: Dominick Higant          #"daimonic knight" anagram https://www.anagrammer.com/anagrammer/
+    villain: Donal Ryan                     #Gaelic Equivalent: ó Maoilriain, Meaning: king
+    ai_name: Apkallu
+    ai_nickname: Kal
+    law_officer1: Marshal                   #NOT USED
+    hero_friend_triton: Tethys
+    hero_friend_mage: Gwyneth
+    hero_friend_mage_nickname: Gwen
+    hero_friend_angel: Mikaela
+    hero_friend_angel_brother: Malach
+    bus_name: Automated Security Heuristics (Ash) Incorporated
+    bus_app_name: Automated Security Heuristics Learning Environment (ASHLE)
+    insurance_client_lastname: Addison
+    insurance_client_firstname: Reagan
+
+    #Unused first names
+    # Cael Gabriel Javan Raphael
+    # Evangeline Lailah Melek Tien
+
+    psy_element_1: Air
+    psy_element_2: Earth
+    psy_element_3: Fire
+    psy_element_4: Water
+    psy_element_5: Life / Positive
+    psy_element_6: Death / Negative
+    psy_element_7: Spatial
+    psy_element_8: Mental
+
+    # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
+    # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
+    # https://www.irelandbeforeyoudie.com/irish-surnames-top-100-last-names-family-names-ranked/
+    # Also Google translate
+    clan_name1: Draoi         #irish
+    clan_name2: Ezeru         #Sumerian
+    clan_name3: Asimati       #amharic
+    clan_name4: Galdur        #icelandic
+    clan_name5: Jingshen      #chinese
+    clan_name6: Addison       #american
+    clan_name7: Tofra         #icelandic
+    clan_name8: Hud           #welsh
+    clan_name9: Sahir         #Arabic
+    clan_name10: Blackmaw     #Werewolf
+    clan_name11: Incarnatus   #Werewolf
+    clan_name12: Caedis       #Vampire House
+    clan_name13: Nex          #Vampire House
+    clan_name14: Silversteel  #Angelic Paladin House
+    clan_name15: Goldwing     #Angelic Paladin House
+    clan_name16: Brightblade
+    clan_name17: Whitespear
+    clan_name18: Heartshield
+    clan_name19: Curran       #Mage clan NE Maine #Irish- small spear from Corraidhin
+
+    # See https://www.dndbeyond.com/races
+    myth_type0: Demigods
+    myth_type1: Vampire
+    myth_type2: Tritons
+    myth_type3: Infernal
+    myth_type4: Angelic
+    myth_type5: Fae
+    myth_type6: Beastkin
+    myth_type7: Goliath
+    myth_type8: Spirit Folk
+    myth_type9: Elementals
+    myth_type15: Aqrabuamelu
