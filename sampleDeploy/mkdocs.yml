@@ -25,9 +25,10 @@ theme:
   name: material      #Material Logos can be found here: https://pictogrammers.github.io/@mdi/font/5.4.55/
   language: 'en'
   features:
-    - navigation.sections
+    # - navigation.sections
+    - navigation.tabs
     # - navigation.tabs #remove to have everything in the left hand navigation instead...
-    - toc.integrate
+    # - toc.integrate
   palette:
     primary: 'indigo'
     accent: 'deep purple'
@@ -59,11 +60,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.highlight
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde

@@ -7,7 +7,7 @@ An individual's abilities and strength are determined by the combinations of the
 
 Lastly, some individuals can perceive another's daimon's affinity breakdown as an Energy Field or Aura, represented as a colored corona that emanates from them.  This ability is extremely rare and prized within clans.
 
-![](../../../assets/divider.png)
+![divider](../../assets/divider.png){width=70%}
 
 
 ## Affinity Type
@@ -17,68 +17,72 @@ The various affinity types are:
 
 ### {{daimon.psy_element_1}}
 !!! info ""
-    {{daimon.psy_element_1}} is one of the four primary elements.  Associated with creatures that can fly.
+    Known as Aeromancy or Wind Magic, {{daimon.psy_element_1}} is one of the four primary elements.  Associated with creatures that can fly, with hurricanes, blizzards, and sandstorms, and lightning.
 
 ### {{daimon.psy_element_2}}
 !!! info ""
-    {{daimon.psy_element_2}} is one of the four primary elements.  Associated with creatures that burrow or live below the surface of the earth.
+    Known as Geomancy or Stone Magic, {{daimon.psy_element_2}} is one of the four primary elements.  Associated with creatures that burrow or live below the surface of the earth, with minerals, crystals, gems, as well as earthquakes and acid.
 
 ### {{daimon.psy_element_3}}
 !!! info ""
-    {{daimon.psy_element_3}} is one of the four primary elements.  Associated with creatures that need flames, such as a phoenix, dragon, or efreeti.
+    Known as Pyromancy or Flame Magic, {{daimon.psy_element_3}} is one of the four primary elements.  Associated with creatures that need flames, such as a phoenix, dragon, or efreeti, and with plasma, heat, and ash.
 
 ### {{daimon.psy_element_4}}
 !!! info ""
-    {{daimon.psy_element_4}} is one of the four primary elements.  Associated with creatures that live in the oceans.
+    Known as Hydromancy or Blue Magic, {{daimon.psy_element_4}} is one of the four primary elements.  Associated with creatures that live in the oceans, with tidal waves, whirlpools, and ice.
 
 ### {{daimon.psy_element_5}}
 !!! info ""
-    {{daimon.psy_element_5}} affinity deals with reinforcement (buffs), biological (living) objects, the giving of energy, and healing and growth.
+    {{daimon.psy_element_5}} affinity deals with the giving of energy, of reinforcement (buffs), biological (living) objects, and powerful healing and growth.  The greatest healers have all had a significant affinity for {{daimon.psy_element_5}} affinity.  
+
+    {{daimon.psy_element_5}} affinity cancels out {{daimon.psy_element_6}} affinity.
 
 ### {{daimon.psy_element_6}}
 !!! info ""
-    {{daimon.psy_element_5}} affinity deals with diminishment or hindering (debuffs), inorganic (inanimate, mineral) objects, the absorption of energy, and entropy.
+    {{daimon.psy_element_6}} affinity deals with diminishment or hindering (debuffs), inorganic (inanimate, mineral) objects, the absorption of energy, and entropy.  The most feared tyrants and necromancers have all had a significant affinity for {{daimon.psy_element_6}} affinity.
+
+    {{daimon.psy_element_6}} affinity cancels out {{daimon.psy_element_5}} affinity.
 
 ### {{daimon.psy_element_7}}
 !!! info ""
-    {{daimon.psy_element_7}} is one of the rare affinities and deals with the manipulation and/or transmutation of a physical object and space.   
+    {{daimon.psy_element_7}} is the rarest affinity and deals with the manipulation and/or transmutation of a physical object and space.   This affinity empowers the user to change physical space, make spaces inside a container larger than the outside, or link physical spaces together.  As such, portals, spatial bags, and teleportation are examples of this affinity.
 
 ### {{daimon.psy_element_8}}
 !!! info ""
-    {{daimon.psy_element_8}} is one of the rare affinities and deals with the manipulation of a mental state or perception.
+    {{daimon.psy_element_8}} is one of the rare affinities and deals with the manipulation of a mental state or perception.  Affinity strength allows to user to affect larger groups of individuals.  The ability to affect emotion, domination, precognition, and truthtelling are examples of this affinity.
 
-![](../../../assets/divider.png)
+![divider](../../assets/divider.png){width=70%}
 
 ## Affinity Purity
 Purity refers to the scope within that school.  Being able to do 1 or 2 things versus single, multiple, or area effects.  For gamers, think of purity as spell level.   If the purity is low, they can only do low level effects.  The higher the purity, the higher level effects that can be performed.  Additionally, purity levels can vary between affinity types.   It is not uncommon to have low affinity in one area and high in another.   It is very rare to have more than 1-2 types of affinity and is progressively rarer with additional affinities.
 
 | Purity Level | Description        |
 | :----------: | :----------------- |
-| Low          | 1 function, maybe 2 at the most, simplistic
-| Medium       | 2-4 functions, static, immutable
-| High         | 5+ functions, indicative of noble bloodlines
-| Pristine     | 5+ functions, can combine with other affinities for <br> combination affects; no limit of what they can do.  <br> Legendary level, High Princes
+| Low          | 1 function, maybe 2 at the most, simplistic.
+| Medium       | 2-4 functions, static, immutable.
+| High         | 5+ functions, indicative of noble bloodlines.
+| Pristine     | 5+ functions, can combine with other affinities for <br> combination affects; no limit of what they can do.  <br> Legendary level, High Princes.
 
-![](../../../assets/divider.png)
+![divider](../../assets/divider.png){width=70%}
 
 ## Affinity Density
 Density is the concentration amount of nanites in the blood.  Density is a crude benchmark for raw power.   An individual with a higher density can typically use an affinity, affecting more people over a larger area.   Hence, a density measure when daimonic children are entering adulthood to determine their place in society.
 
 | Nanite PPM  | Description        |
 | :---------: | :----------------- |
-| 0           | Completely Human. No nanites present in the blood. <br> No Daimonic ancestry
-| 1-5         | Some Daimonic ancestry. Affinity inactive
+| 0           | Completely Human. No nanites present in the blood. <br> No Daimonic ancestry.
+| 1-5         | Some Daimonic ancestry. Affinity inactive.
 | 6-10        | Daimonic ancestry. Affinity may be activated <br> one-time during a severe crisis, like super strength <br> during a car wreak.
-| 11-25       | Minor affinity power, very weak
-| 26-50       | Low affinity power
-| 51-75       | Average affinity power
-| 76-125      | Above Average affinity power, retainers and <br> special guards units are in this category
-| 126-500     | Noble houses and families
+| 11-25       | Minor affinity power, very weak.
+| 26-50       | Low affinity power.
+| 51-75       | Average affinity power.
+| 76-125      | Above Average affinity power, retainers and <br> special guards units are in this category.
+| 126-500     | Noble houses and families.
 
 ## Breakdown and Rating
 Breakdown and Ratings are displayed as "Affinity / Purity / Density."  They are primarily used to profile other daimonic entities.  To understand the breakdown, it would be presented as thus:
 
-  * **Affinity Type**: First letter of the Type that is predominant (ie. A for Air, F for Fire)
+  * **Affinity Type**: First letter of the Type that is predominant (ie. A for Air, F for Fire).  Inidividuals with multiple types will display as a *(star) value.
   * **Affinity Purity**: First letter of the Type that is predominant (ie. L for Low, M for Medium)
   * **Affinity Density**: The numerical value of the amount of nanites
 

@@ -6,7 +6,7 @@
 
 The more familiar word "Daemon", is the Latin translation of the Greek one.  A Daimon was originally referred to as a lesser deity or guiding spirit, such as the powers of ancient Greek religion and mythology and of later Hellenistic religion and philosophy.
 
-The word also has origins from the Proto-Indo-European meaning "provider, divider (of fortunes or destinies)," from the root da- "to divide". Daimons were possibly believed to be the souls of men and women of the golden age acting as tutelary deities, according to entry `δαίμων` at Liddell & Scott.
+The word also has origins from the Proto-Indo-European meaning "provider, divider (of fortunes or destinies)," from the root da- "to divide". Daimons were possibly believed to be the souls of men and women of the golden age acting as tutelary deities, according to the entry `δαίμων` with the Liddell-Scott-Jones Greek-English Lexicon[^18].
 
 This definition of Daimon is also in-line with ancient Indian literature and Vedic teachings of Asuras and Devas.  Several scholars assert that "If you read the Vedas, which are nearly 4000 years old, the word ‘asura’ does not mean demon, or villain, but quite the opposite, a divine being. It’s a title..."[^16]  
 
@@ -186,3 +186,4 @@ There are shrines to Enki dating back to the founding of the city of Eridu, cons
 [^15]: https://www.grunge.com/44103/evidence-ancient-civilizations-advanced-scientific-knowledge/
 [^16]: http://timesofindia.indiatimes.com/articleshow/51162479.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 [^17]: https://en.wikipedia.org/wiki/List_of_mythological_objects
+[^18]: https://search.lib.umich.edu/databases/record/11563
