@@ -8,8 +8,10 @@
 
 
 
+
 ## Authors I follow
 Here's some authors I follow:
+
 
 1.  William D. Arand[^1]
     * _William D Arand is a GameLit author best known for his unique stories. The talented author holds a day job that takes care of his bills and only writes in his free time. However, he has managed to create an impressive readership, and currently, he has over 20 published works to his name._
@@ -52,6 +54,9 @@ Here's some authors I follow:
 ![Phoenix versus Dragon](assets/n2946.jpg){width=100%}
 ![Dragon](assets/chinese-dragon-wallpaper-1.jpg){width=100%}
 
+<div class="green">
+    Markdown css styles
+</div>
 
 <hr>
 ## Footnotes

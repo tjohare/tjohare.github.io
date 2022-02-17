@@ -10,7 +10,7 @@ Lastly, some individuals can perceive another's daimon's affinity breakdown as a
 ![divider](../../assets/divider.png){width=70%}
 
 
-## Affinity Type
+## Affinity Type  <!-- Earth, Air, Fire, Water, Light, Dark, Life, Death -->
 Affinity Type is the energy sphere or "school" that is associated to that individual and what they can wield, such as a primary element.  Traditionally, when tested, a single affinity type is dominant, and any others are listed as a secondary or subordinate type.   Having multiple affinity types available (ie. *{{daimon.psy_element_2}} and {{daimon.psy_element_5}}*) is not uncommon, but the likelihood of additionally affinity type decreases exponentially after the first.   Having all 8 affinity types is unprecedented.
 
 The various affinity types are:
