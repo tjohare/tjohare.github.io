@@ -11,7 +11,7 @@ RESTful APIs are interfaces that enable applications to communicate with each ot
 This is the site documentation that I wrote for CreativeDrive's Development team
 
 ## QA Automation Standards Guide
-Documentation of the guidelines to create uniform coding habits and standards.   Navigation is thus:
+Documentation of the guidelines to create uniform coding habits and standards.   Navigation is thus: 
   - Introduction: index.md
   - Development Environment and Tools: dev_environment.md
   - Naming Standards and Conventions: naming.md
