@@ -69,6 +69,22 @@ span.ai{
 	color: blue;
 }
 
+/* https://theasciicode.com.ar/extended-ascii-code/guillemets-angle-quotes-left-pointing-double-angle-quotation-marks-ascii-code-175.html */
+.green {
+	color: blue;
+	font-weight:700;
+	font-family: cursive, sans-serif;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  font-style: italic;
+}
+.green::before {
+	content: "«╠× ";
+}
+.green::after {
+	content: " ×╣»";
+}
+
 
 /* Removes the Table of Contents from the display
 .md-sidebar--secondary > .md-sidebar__scrollwrap {
