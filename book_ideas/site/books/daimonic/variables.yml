@@ -25,10 +25,15 @@ extra:
     psy_element_2: Earth
     psy_element_3: Fire
     psy_element_4: Water
-    psy_element_5: Life / Positive
-    psy_element_6: Death / Negative
+    psy_element_5: Life
+    psy_element_6: Death
     psy_element_7: Spatial
     psy_element_8: Mental
+    psy_element_9: Plant
+    psy_element_10: Metal
+    psy_element_11: Light
+    psy_element_12: Shadow
+
 
     # Possible Irish Magic names: Draíocht cailleach draoi draíodóir
     # https://parenting.firstcry.com/articles/100-irish-last-names-or-surnames/
@@ -59,7 +64,7 @@ extra:
     myth_type1: Vampire
     myth_type2: Tritons
     myth_type3: Infernal
-    myth_type4: Angelic
+    myth_type4: Celestial
     myth_type5: Fae
     myth_type6: Beastkin
     myth_type7: Goliath
