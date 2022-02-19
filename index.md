@@ -1,14 +1,20 @@
-# Welcome to My GitHub Pages
+# TJ O'Hare's Doc Repo
+
+![warrior](./book_ideas/docs/assets/wp8263778.jpg)
 
 ## Book Ideas
 This is where my book ideas are saved. It a place of gathering ideas and concepts that I can look at, review, and print as a book idea before they are actually published somewhere else, such as Royalroad or Amazon.
 
 TITLES: Book 1 - [Daimonic](https://tjohare.github.io/book_ideas/site/)
 
+<hr>
+
 ## Rest Api Standards
 RESTful APIs are interfaces that enable applications to communicate with each other. The role of REST APIs has expanded dramatically, where even major companies, such as Facebook, Google, Github, Netflix and a few other tech giants have given access to developers and products to consume their data through APIs, and even became a platform for them. They can be used as an interface to the business, allowing them to monetize digital assets, extend their value proposition with partner-delivered capabilities, and connect to customers across multiple channels, tools, and devices.
 
 This is the site documentation that I wrote for CreativeDrive's Development team
+
+<hr>
 
 ## QA Automation Standards Guide
 Documentation of the guidelines to create uniform coding habits and standards.   Navigation is thus: 
@@ -27,6 +33,7 @@ Documentation of the guidelines to create uniform coding habits and standards.  
   - Miscellaneous Rules for Coding: misc_rules.md
   - Jenkins & Jira integration: jira_jenkins.md
 
+<hr>
 
 ## Site Related Info
 #### Jekyll Themes
