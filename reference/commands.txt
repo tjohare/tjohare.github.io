@@ -1,0 +1,39 @@
+Create a new repository from mm-github-pages-starter
+https://github.com/mmistakes/mm-github-pages-starter/generate
+
+
+If you are using Ruby version 3.0.0 or higher, step 5 may fail. You may fix it by adding webrick to your dependencies:
+  bundle add webrick
+
+
+how-do-i-get-current-date-time-on-the-windows-command-line-in-a-suitable-format
+  https://stackoverflow.com/questions/203090/how-do-i-get-current-date-time-on-the-windows-command-line-in-a-suitable-format
+
+
+Create a new Jekyll site at ./myblog.
+  jekyll new myblog
+  Change into your new directory.
+    cd myblog
+  Build the site and make it available on a local server.
+    bundle exec jekyll serve
+  Browse to http://localhost:4000
+  Pass the --livereload option to serve to automatically refresh the page with each change you make to the source files:
+    bundle exec jekyll serve --livereload
+
+Remote theme method
+  Remote themes are similar to Gem-based themes, but do not require Gemfile changes or whitelisting making them ideal for sites hosted with GitHub Pages.
+
+  To install:
+
+  Create/replace the contents of your Gemfile with the following:
+
+  source "https://rubygems.org"
+
+  gem "github-pages", group: :jekyll_plugins
+  gem "jekyll-include-cache", group: :jekyll_plugins
+  Add jekyll-include-cache to the plugins array of your _config.yml.
+
+  Fetch and update bundled gems by running the following Bundler command:
+
+  bundle
+  Add remote_theme: "mmistakes/minimal-mistakes@4.24.0" to your _config.yml file. Remove any other theme: or remote_theme: entry.
