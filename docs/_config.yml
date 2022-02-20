@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Daimonic
+title: TJ's Doc Repo
 email: tj_ohare@hotmail.com
-description: Nano technology meets Ancient Magic
+description: Stuff I've written in the office or on the road doing photography
 # twitter_username: username
 github_username: tjohare
 minimal_mistakes_skin: default
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "TJ O'Hare"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_0699.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Pixieset"
@@ -85,6 +85,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tjohare"
 
+# Collections
 collections:
   portfolio:
     output: true

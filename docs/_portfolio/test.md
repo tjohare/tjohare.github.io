@@ -3,11 +3,11 @@ title: "Europe"
 excerpt: ""
 classes: wide
 header:
-  image: /assets/images/warrior-woman.jpg
-  teaser: assets/images/warrior-woman.jpg
+  image: /assets/images/daimonic/warrior-woman.jpg
+  teaser: assets/images/daimonic/warrior-woman.jpg
 sidebar:
   - title: "Role"
-    image: https://mmistakes.github.io/minimal-mistakes/assets/images/michael-rose.jpg
+    image: /assets/images/IMG_0699.JPG
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
