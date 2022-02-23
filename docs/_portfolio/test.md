@@ -1,26 +1,26 @@
 ---
-title: "Europe"
+title: "Warrior Women"
 excerpt: ""
 classes: wide
 header:
-  image: /assets/images/warrior-woman.jpg
-  teaser: assets/images/warrior-woman.jpg
+  image: /assets/images/daimonic/daimon-24.jpg
+  teaser: assets/images/daimonic/daimon-24.jpg
 sidebar:
   - title: "Role"
-    image: https://mmistakes.github.io/minimal-mistakes/assets/images/michael-rose.jpg
+    <!-- image: /assets/images/IMG_0699.JPG -->
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Photographer, Business Owner, Adventure Survivor"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Try not to kill myself while taking my wife everywhere"
 gallery:
-  - url: /assets/images/Morrigan.jpg
-    image_path: assets/images/Morrigan.jpg
+  - url: /assets/images/daimonic/daimon-26.jpg
+    image_path: assets/images/daimonic/daimon-26.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/wp8263778.jpg
-    image_path: assets/images/wp8263778.jpg
+  - url: /assets/images/daimonic/daimon-28.jpg
+    image_path: assets/images/daimonic/daimon-28.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/wp8263776.jpg
-    image_path: assets/images/wp8263776.jpg
+  - url: /assets/images/daimonic/daimon-15.jpg
+    image_path: assets/images/daimonic/daimon-15.jpg
     alt: "placeholder image 3"
 ---
 
