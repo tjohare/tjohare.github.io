@@ -58,18 +58,18 @@ plugins:
 author:
   name   : "TJ O'Hare"
   avatar : "/assets/images/IMG_0699.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Husband, Stepfather, Uncle, Photographer, and Engineer; I'm usually exhausted from running around"
   links:
-    - label: "Pixieset"
+    - label: "Pixieset Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://tjohare.mypixieset.com/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "My GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tjohare"
-    - label: "Instagram"
+    - label: "My Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tjohare"
 

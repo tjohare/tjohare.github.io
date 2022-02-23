@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Husband, Stepfather, Uncle, Photographer, and Engineer; When I'm not running around the neighborhood chasing my dogs, you can find me out on the town or traveling the world with my wife, usually with camera in hand.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Thankfully my wife is my best friend and we go everywhere together and try to see everything while we can still enjoy it.
+
+We typically like to adventure out and go hiking / exploring around an area, where both of us have
+camera to capture what we see.   Sometimes the different perspective is important.
+
+
+```md
+Phone:    (954) 798-4740
+Email:    tjohare@icloud.com
+Address:  6763 Hollandaire Drive W, Boca Raton, FL, 33433
+```
