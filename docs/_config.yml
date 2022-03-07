@@ -65,9 +65,9 @@ author:
     - label : "Pixieset Portfolio"
       icon  : "fas fa-fw fa-link"
       url   : "https://tjohare.mypixieset.com/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label : "LinkedIn"
+      icon  : "fab fa-fw fa-linkedin"
+      url   : "https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/"
     - label : "My GitHub"
       icon  : "fab fa-fw fa-github"
       url   : "https://github.com/tjohare"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label : "LinkedIn"
+      icon  : "fab fa-fw fa-linkedin"
+      url   : "https://www.linkedin.com/in/edward-o-hare-jr-b07a4244/"
     - label : "GitHub"
       icon  : "fab fa-fw fa-github"
       url   : "https://github.com/tjohare"
