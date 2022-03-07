@@ -2,6 +2,9 @@
 title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
 classes: wide
+header:
+  image: /assets/images/daimonic/daimon-24.jpg
+  teaser: assets/images/daimonic/daimon-24.jpg
 categories:
   - Blog
 tags:
