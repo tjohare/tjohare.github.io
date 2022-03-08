@@ -17,7 +17,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/IMG_0243.jpg
-    alt: "conversations I've saved"
+    alt: "My beautiful Wife"
     title: "My Blog and Thoughts"
     excerpt: "Things my wife and friends have talked about.  Discussions of Life."
     url: "/posts/"
@@ -48,6 +48,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/portfolio-127.jpg
     alt: "placeholder image 2"
@@ -56,6 +57,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row4:
   - image_path: /assets/images/IMG_0472_3_4_Enhancer.jpg
     alt: "placeholder image 2"
@@ -70,8 +72,8 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+<!-- {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %} -->
