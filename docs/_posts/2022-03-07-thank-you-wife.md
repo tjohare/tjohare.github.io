@@ -14,11 +14,11 @@ tags:
   - Wife
   - dedication
 gallery:
-  - url: /assets/images/IMG_0116.jpeg
-    image_path: assets/images/IMG_0116.jpeg
+  - url: /assets/images/IMG_0116.jpg
+    image_path: assets/images/IMG_0116.jpg
     alt: ""
-  - url: /assets/images/IMG_0200.jpeg
-    image_path: assets/images/IMG_0200.jpeg
+  - url: /assets/images/IMG_0200.jpg
+    image_path: assets/images/IMG_0200.jpg
     alt: ""
   - url: /assets/images/IMG_0302.jpg
     image_path: assets/images/IMG_0302.jpg
@@ -29,26 +29,26 @@ gallery:
   - url: /assets/images/IMG_0454.jpg
     image_path: assets/images/IMG_0454.jpg
     alt: ""
-  - url: /assets/images/IMG_1302.jpeg
-    image_path: assets/images/IMG_1302.jpeg
+  - url: /assets/images/IMG_1302.jpg
+    image_path: assets/images/IMG_1302.jpg
     alt: ""
-  - url: /assets/images/IMG_0180.jpeg
-    image_path: assets/images/IMG_0180.jpeg
+  - url: /assets/images/IMG_0180.jpg
+    image_path: assets/images/IMG_0180.jpg
     alt: ""
   - url: /assets/images/IMG_1032.jpg
     image_path: assets/images/IMG_1032.jpg
     alt: ""
-  - url: /assets/images/IMG_1210.jpeg
-    image_path: assets/images/IMG_1210.jpeg
+  - url: /assets/images/IMG_1210.jpg
+    image_path: assets/images/IMG_1210.jpg
     alt: ""
-  - url: /assets/images/IMG_0143.jpeg
-    image_path: assets/images/IMG_0143.jpeg
+  - url: /assets/images/IMG_0143.jpg
+    image_path: assets/images/IMG_0143.jpg
     alt: ""
-  - url: /assets/images/IMG_1167.jpeg
-    image_path: assets/images/IMG_1167.jpeg
+  - url: /assets/images/IMG_1167.jpg
+    image_path: assets/images/IMG_1167.jpg
     alt: ""
-  - url: /assets/images/IMG_0149.jpeg
-    image_path: assets/images/IMG_0149.jpeg
+  - url: /assets/images/IMG_0149.jpg
+    image_path: assets/images/IMG_0149.jpg
     alt: ""
 ---
 
